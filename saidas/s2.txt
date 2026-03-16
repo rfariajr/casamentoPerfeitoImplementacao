@@ -1,0 +1,5097 @@
+Par formado entre Ativo 0 e Passivo 150
+Par formado entre Ativo 1 e Passivo 269
+Par formado entre Ativo 2 e Passivo 411
+Par formado entre Ativo 3 e Passivo 3
+Par formado entre Ativo 4 e Passivo 273
+Par formado entre Ativo 5 e Passivo 487
+Par formado entre Ativo 6 e Passivo 332
+Par formado entre Ativo 7 e Passivo 353
+Par formado entre Ativo 8 e Passivo 43
+Par formado entre Ativo 9 e Passivo 228
+Par formado entre Ativo 10 e Passivo 114
+Par formado entre Ativo 11 e Passivo 64
+Par formado entre Ativo 12 e Passivo 442
+Par formado entre Ativo 13 e Passivo 409
+Par formado entre Ativo 14 e Passivo 433
+Par formado entre Ativo 15 e Passivo 102
+Par formado entre Ativo 16 e Passivo 456
+Par formado entre Ativo 17 e Passivo 384
+Par formado entre Ativo 18 e Passivo 355
+Par formado entre Ativo 19 e Passivo 431
+Par formado entre Ativo 20 e Passivo 41
+Par formado entre Ativo 21 e Passivo 390
+Par formado entre Ativo 22 e Passivo 93
+Par formado entre Ativo 23 e Passivo 231
+Par formado entre Ativo 24 e Passivo 200
+Par formado entre Ativo 25 e Passivo 133
+Par formado entre Ativo 26 e Passivo 174
+Par formado entre Ativo 27 e Passivo 137
+Par formado entre Ativo 28 e Passivo 243
+Par desfeito entre Ativo 26 e Passivo 174
+Par formado entre Ativo 29 e Passivo 174
+Par formado entre Ativo 30 e Passivo 389
+Par formado entre Ativo 31 e Passivo 5
+Par formado entre Ativo 32 e Passivo 188
+Par formado entre Ativo 33 e Passivo 65
+Par formado entre Ativo 34 e Passivo 379
+Par desfeito entre Ativo 25 e Passivo 133
+Par formado entre Ativo 35 e Passivo 133
+Par formado entre Ativo 36 e Passivo 37
+Par formado entre Ativo 37 e Passivo 220
+Par formado entre Ativo 38 e Passivo 387
+Par formado entre Ativo 39 e Passivo 329
+Par formado entre Ativo 40 e Passivo 158
+Par formado entre Ativo 41 e Passivo 173
+Par formado entre Ativo 42 e Passivo 35
+Par formado entre Ativo 43 e Passivo 20
+Par formado entre Ativo 44 e Passivo 147
+Par formado entre Ativo 45 e Passivo 190
+Par formado entre Ativo 46 e Passivo 386
+Ativo 47 é rejeitado por Passivo 93
+Par formado entre Ativo 47 e Passivo 124
+Par formado entre Ativo 48 e Passivo 160
+Par formado entre Ativo 49 e Passivo 493
+Par formado entre Ativo 50 e Passivo 430
+Ativo 51 é rejeitado por Passivo 158
+Par formado entre Ativo 51 e Passivo 96
+Par formado entre Ativo 52 e Passivo 104
+Par formado entre Ativo 53 e Passivo 202
+Par formado entre Ativo 54 e Passivo 180
+Par formado entre Ativo 55 e Passivo 107
+Par formado entre Ativo 56 e Passivo 59
+Par formado entre Ativo 57 e Passivo 306
+Par formado entre Ativo 58 e Passivo 366
+Par formado entre Ativo 59 e Passivo 316
+Ativo 60 é rejeitado por Passivo 366
+Ativo 60 é rejeitado por Passivo 353
+Par formado entre Ativo 60 e Passivo 347
+Par formado entre Ativo 61 e Passivo 489
+Par formado entre Ativo 62 e Passivo 265
+Par formado entre Ativo 63 e Passivo 132
+Par formado entre Ativo 64 e Passivo 191
+Ativo 65 é rejeitado por Passivo 409
+Par formado entre Ativo 65 e Passivo 460
+Par formado entre Ativo 66 e Passivo 300
+Par desfeito entre Ativo 35 e Passivo 133
+Par formado entre Ativo 67 e Passivo 133
+Par formado entre Ativo 68 e Passivo 476
+Par formado entre Ativo 69 e Passivo 443
+Par formado entre Ativo 70 e Passivo 157
+Par formado entre Ativo 71 e Passivo 286
+Par formado entre Ativo 72 e Passivo 186
+Ativo 73 é rejeitado por Passivo 273
+Par formado entre Ativo 73 e Passivo 125
+Par formado entre Ativo 74 e Passivo 395
+Par formado entre Ativo 75 e Passivo 445
+Par formado entre Ativo 76 e Passivo 294
+Par formado entre Ativo 77 e Passivo 89
+Par formado entre Ativo 78 e Passivo 361
+Par formado entre Ativo 79 e Passivo 268
+Par formado entre Ativo 80 e Passivo 280
+Par formado entre Ativo 81 e Passivo 92
+Par formado entre Ativo 82 e Passivo 24
+Par formado entre Ativo 83 e Passivo 464
+Par formado entre Ativo 84 e Passivo 248
+Par formado entre Ativo 85 e Passivo 211
+Par formado entre Ativo 86 e Passivo 153
+Par formado entre Ativo 87 e Passivo 123
+Par formado entre Ativo 88 e Passivo 486
+Par desfeito entre Ativo 79 e Passivo 268
+Par formado entre Ativo 89 e Passivo 268
+Par formado entre Ativo 90 e Passivo 495
+Ativo 91 é rejeitado por Passivo 43
+Par formado entre Ativo 91 e Passivo 206
+Par formado entre Ativo 92 e Passivo 215
+Par formado entre Ativo 93 e Passivo 10
+Par formado entre Ativo 94 e Passivo 214
+Par desfeito entre Ativo 44 e Passivo 147
+Par formado entre Ativo 95 e Passivo 147
+Par formado entre Ativo 96 e Passivo 258
+Par formado entre Ativo 97 e Passivo 177
+Par formado entre Ativo 98 e Passivo 337
+Par formado entre Ativo 99 e Passivo 70
+Par desfeito entre Ativo 23 e Passivo 231
+Par formado entre Ativo 100 e Passivo 231
+Par formado entre Ativo 101 e Passivo 413
+Par formado entre Ativo 102 e Passivo 363
+Par formado entre Ativo 103 e Passivo 56
+Par formado entre Ativo 104 e Passivo 417
+Par formado entre Ativo 105 e Passivo 127
+Par desfeito entre Ativo 80 e Passivo 280
+Par formado entre Ativo 106 e Passivo 280
+Par formado entre Ativo 107 e Passivo 230
+Par formado entre Ativo 108 e Passivo 19
+Par formado entre Ativo 109 e Passivo 407
+Par formado entre Ativo 110 e Passivo 44
+Par formado entre Ativo 111 e Passivo 494
+Par formado entre Ativo 112 e Passivo 351
+Ativo 113 é rejeitado por Passivo 300
+Par formado entre Ativo 113 e Passivo 313
+Par formado entre Ativo 114 e Passivo 80
+Par formado entre Ativo 115 e Passivo 31
+Par formado entre Ativo 116 e Passivo 50
+Par formado entre Ativo 117 e Passivo 267
+Par formado entre Ativo 118 e Passivo 396
+Par formado entre Ativo 119 e Passivo 378
+Par desfeito entre Ativo 97 e Passivo 177
+Par formado entre Ativo 120 e Passivo 177
+Ativo 121 é rejeitado por Passivo 411
+Par formado entre Ativo 121 e Passivo 203
+Par formado entre Ativo 122 e Passivo 298
+Par formado entre Ativo 123 e Passivo 473
+Par desfeito entre Ativo 21 e Passivo 390
+Par formado entre Ativo 124 e Passivo 390
+Par desfeito entre Ativo 42 e Passivo 35
+Par formado entre Ativo 125 e Passivo 35
+Ativo 126 é rejeitado por Passivo 150
+Par formado entre Ativo 126 e Passivo 27
+Par formado entre Ativo 127 e Passivo 446
+Par formado entre Ativo 128 e Passivo 154
+Par desfeito entre Ativo 105 e Passivo 127
+Par formado entre Ativo 129 e Passivo 127
+Ativo 130 é rejeitado por Passivo 430
+Par formado entre Ativo 130 e Passivo 305
+Par formado entre Ativo 131 e Passivo 451
+Par formado entre Ativo 132 e Passivo 279
+Par desfeito entre Ativo 20 e Passivo 41
+Par formado entre Ativo 133 e Passivo 41
+Par formado entre Ativo 134 e Passivo 466
+Par formado entre Ativo 135 e Passivo 370
+Par formado entre Ativo 136 e Passivo 341
+Par formado entre Ativo 137 e Passivo 239
+Ativo 138 é rejeitado por Passivo 300
+Ativo 138 é rejeitado por Passivo 395
+Par formado entre Ativo 138 e Passivo 117
+Par formado entre Ativo 139 e Passivo 388
+Par formado entre Ativo 140 e Passivo 354
+Par desfeito entre Ativo 127 e Passivo 446
+Par formado entre Ativo 141 e Passivo 446
+Ativo 142 é rejeitado por Passivo 37
+Ativo 142 é rejeitado por Passivo 265
+Par formado entre Ativo 142 e Passivo 367
+Par formado entre Ativo 143 e Passivo 250
+Ativo 144 é rejeitado por Passivo 124
+Par formado entre Ativo 144 e Passivo 110
+Par formado entre Ativo 145 e Passivo 54
+Par formado entre Ativo 146 e Passivo 217
+Par formado entre Ativo 147 e Passivo 259
+Par formado entre Ativo 148 e Passivo 485
+Ativo 149 é rejeitado por Passivo 280
+Par formado entre Ativo 149 e Passivo 234
+Par formado entre Ativo 150 e Passivo 112
+Par desfeito entre Ativo 1 e Passivo 269
+Par formado entre Ativo 151 e Passivo 269
+Par formado entre Ativo 152 e Passivo 429
+Par formado entre Ativo 153 e Passivo 86
+Par formado entre Ativo 154 e Passivo 111
+Ativo 155 é rejeitado por Passivo 92
+Par formado entre Ativo 155 e Passivo 368
+Par formado entre Ativo 156 e Passivo 459
+Par formado entre Ativo 157 e Passivo 194
+Par desfeito entre Ativo 9 e Passivo 228
+Par formado entre Ativo 158 e Passivo 228
+Ativo 159 é rejeitado por Passivo 351
+Par formado entre Ativo 159 e Passivo 91
+Par formado entre Ativo 160 e Passivo 152
+Par formado entre Ativo 161 e Passivo 118
+Ativo 162 é rejeitado por Passivo 203
+Par formado entre Ativo 162 e Passivo 196
+Par formado entre Ativo 163 e Passivo 11
+Par formado entre Ativo 164 e Passivo 325
+Par formado entre Ativo 165 e Passivo 458
+Par formado entre Ativo 166 e Passivo 412
+Par formado entre Ativo 167 e Passivo 293
+Par formado entre Ativo 168 e Passivo 375
+Par formado entre Ativo 169 e Passivo 277
+Par formado entre Ativo 170 e Passivo 159
+Ativo 171 é rejeitado por Passivo 363
+Ativo 171 é rejeitado por Passivo 388
+Par formado entre Ativo 171 e Passivo 144
+Par formado entre Ativo 172 e Passivo 508
+Par formado entre Ativo 173 e Passivo 319
+Ativo 174 é rejeitado por Passivo 41
+Par formado entre Ativo 174 e Passivo 242
+Par formado entre Ativo 175 e Passivo 302
+Par desfeito entre Ativo 91 e Passivo 206
+Par formado entre Ativo 176 e Passivo 206
+Par formado entre Ativo 177 e Passivo 257
+Par formado entre Ativo 178 e Passivo 424
+Ativo 179 é rejeitado por Passivo 384
+Par desfeito entre Ativo 4 e Passivo 273
+Par formado entre Ativo 179 e Passivo 273
+Par formado entre Ativo 180 e Passivo 29
+Par formado entre Ativo 181 e Passivo 79
+Ativo 182 é rejeitado por Passivo 466
+Par formado entre Ativo 182 e Passivo 17
+Par desfeito entre Ativo 18 e Passivo 355
+Par formado entre Ativo 183 e Passivo 355
+Par formado entre Ativo 184 e Passivo 270
+Par formado entre Ativo 185 e Passivo 61
+Par desfeito entre Ativo 104 e Passivo 417
+Par formado entre Ativo 186 e Passivo 417
+Par desfeito entre Ativo 167 e Passivo 293
+Par formado entre Ativo 187 e Passivo 293
+Ativo 188 é rejeitado por Passivo 286
+Ativo 188 é rejeitado por Passivo 125
+Par formado entre Ativo 188 e Passivo 402
+Par formado entre Ativo 189 e Passivo 405
+Par formado entre Ativo 190 e Passivo 339
+Par formado entre Ativo 191 e Passivo 295
+Par formado entre Ativo 192 e Passivo 369
+Par desfeito entre Ativo 188 e Passivo 402
+Par formado entre Ativo 193 e Passivo 402
+Par formado entre Ativo 194 e Passivo 427
+Ativo 195 é rejeitado por Passivo 337
+Par desfeito entre Ativo 103 e Passivo 56
+Par formado entre Ativo 195 e Passivo 56
+Par formado entre Ativo 196 e Passivo 6
+Par formado entre Ativo 197 e Passivo 108
+Par formado entre Ativo 198 e Passivo 139
+Ativo 199 é rejeitado por Passivo 44
+Par formado entre Ativo 199 e Passivo 178
+Par formado entre Ativo 200 e Passivo 436
+Ativo 201 é rejeitado por Passivo 19
+Par formado entre Ativo 201 e Passivo 47
+Par formado entre Ativo 202 e Passivo 483
+Ativo 203 é rejeitado por Passivo 56
+Par formado entre Ativo 203 e Passivo 233
+Ativo 204 é rejeitado por Passivo 215
+Par formado entre Ativo 204 e Passivo 492
+Par formado entre Ativo 205 e Passivo 232
+Par formado entre Ativo 206 e Passivo 83
+Par desfeito entre Ativo 53 e Passivo 202
+Par formado entre Ativo 207 e Passivo 202
+Par formado entre Ativo 208 e Passivo 374
+Par formado entre Ativo 209 e Passivo 271
+Ativo 210 é rejeitado por Passivo 279
+Par formado entre Ativo 210 e Passivo 131
+Par formado entre Ativo 211 e Passivo 221
+Par formado entre Ativo 212 e Passivo 129
+Par formado entre Ativo 213 e Passivo 440
+Par desfeito entre Ativo 100 e Passivo 231
+Par formado entre Ativo 214 e Passivo 231
+Par formado entre Ativo 215 e Passivo 208
+Par desfeito entre Ativo 70 e Passivo 157
+Par formado entre Ativo 216 e Passivo 157
+Par formado entre Ativo 217 e Passivo 68
+Par formado entre Ativo 218 e Passivo 168
+Ativo 219 é rejeitado por Passivo 466
+Ativo 219 é rejeitado por Passivo 139
+Par formado entre Ativo 219 e Passivo 315
+Ativo 220 é rejeitado por Passivo 211
+Par formado entre Ativo 220 e Passivo 350
+Par desfeito entre Ativo 181 e Passivo 79
+Par formado entre Ativo 221 e Passivo 79
+Par formado entre Ativo 222 e Passivo 304
+Par formado entre Ativo 223 e Passivo 297
+Par formado entre Ativo 224 e Passivo 422
+Ativo 225 é rejeitado por Passivo 188
+Ativo 225 é rejeitado por Passivo 20
+Par formado entre Ativo 225 e Passivo 106
+Par desfeito entre Ativo 210 e Passivo 131
+Par formado entre Ativo 226 e Passivo 131
+Par formado entre Ativo 227 e Passivo 323
+Par formado entre Ativo 228 e Passivo 238
+Ativo 229 é rejeitado por Passivo 124
+Par formado entre Ativo 229 e Passivo 253
+Par desfeito entre Ativo 212 e Passivo 129
+Par formado entre Ativo 230 e Passivo 129
+Par formado entre Ativo 231 e Passivo 444
+Par formado entre Ativo 232 e Passivo 166
+Par desfeito entre Ativo 11 e Passivo 64
+Par formado entre Ativo 233 e Passivo 64
+Ativo 234 é rejeitado por Passivo 493
+Par formado entre Ativo 234 e Passivo 457
+Par formado entre Ativo 235 e Passivo 128
+Par formado entre Ativo 236 e Passivo 454
+Ativo 237 é rejeitado por Passivo 473
+Par formado entre Ativo 237 e Passivo 193
+Par formado entre Ativo 238 e Passivo 164
+Par formado entre Ativo 239 e Passivo 226
+Par formado entre Ativo 240 e Passivo 136
+Par formado entre Ativo 241 e Passivo 261
+Ativo 242 é rejeitado por Passivo 5
+Par formado entre Ativo 242 e Passivo 251
+Ativo 243 é rejeitado por Passivo 147
+Par formado entre Ativo 243 e Passivo 496
+Ativo 244 é rejeitado por Passivo 411
+Par formado entre Ativo 244 e Passivo 426
+Par formado entre Ativo 245 e Passivo 16
+Par desfeito entre Ativo 190 e Passivo 339
+Par formado entre Ativo 246 e Passivo 339
+Par formado entre Ativo 247 e Passivo 380
+Par desfeito entre Ativo 133 e Passivo 41
+Par formado entre Ativo 248 e Passivo 41
+Ativo 249 é rejeitado por Passivo 355
+Par desfeito entre Ativo 107 e Passivo 230
+Par formado entre Ativo 249 e Passivo 230
+Par formado entre Ativo 250 e Passivo 502
+Par desfeito entre Ativo 147 e Passivo 259
+Par formado entre Ativo 251 e Passivo 259
+Ativo 252 é rejeitado por Passivo 139
+Par formado entre Ativo 252 e Passivo 13
+Par formado entre Ativo 253 e Passivo 467
+Par formado entre Ativo 254 e Passivo 357
+Par formado entre Ativo 255 e Passivo 340
+Par desfeito entre Ativo 255 e Passivo 340
+Par formado entre Ativo 256 e Passivo 340
+Ativo 257 é rejeitado por Passivo 411
+Par formado entre Ativo 257 e Passivo 301
+Par formado entre Ativo 258 e Passivo 14
+Par formado entre Ativo 259 e Passivo 376
+Par formado entre Ativo 260 e Passivo 321
+Par formado entre Ativo 261 e Passivo 358
+Par desfeito entre Ativo 155 e Passivo 368
+Par formado entre Ativo 262 e Passivo 368
+Par formado entre Ativo 263 e Passivo 82
+Par formado entre Ativo 264 e Passivo 198
+Ativo 265 é rejeitado por Passivo 202
+Par formado entre Ativo 265 e Passivo 490
+Par formado entre Ativo 266 e Passivo 134
+Par desfeito entre Ativo 43 e Passivo 20
+Par formado entre Ativo 267 e Passivo 20
+Par formado entre Ativo 268 e Passivo 327
+Ativo 269 é rejeitado por Passivo 233
+Par formado entre Ativo 269 e Passivo 145
+Ativo 270 é rejeitado por Passivo 160
+Par formado entre Ativo 270 e Passivo 60
+Ativo 271 é rejeitado por Passivo 424
+Par desfeito entre Ativo 143 e Passivo 250
+Par formado entre Ativo 271 e Passivo 250
+Par desfeito entre Ativo 29 e Passivo 174
+Par formado entre Ativo 272 e Passivo 174
+Par desfeito entre Ativo 30 e Passivo 389
+Par formado entre Ativo 273 e Passivo 389
+Par formado entre Ativo 274 e Passivo 126
+Par formado entre Ativo 275 e Passivo 326
+Par formado entre Ativo 276 e Passivo 18
+Par desfeito entre Ativo 121 e Passivo 203
+Par formado entre Ativo 277 e Passivo 203
+Par formado entre Ativo 278 e Passivo 76
+Ativo 279 é rejeitado por Passivo 145
+Par formado entre Ativo 279 e Passivo 289
+Ativo 280 é rejeitado por Passivo 164
+Par formado entre Ativo 280 e Passivo 187
+Par formado entre Ativo 281 e Passivo 447
+Par formado entre Ativo 282 e Passivo 222
+Par desfeito entre Ativo 86 e Passivo 153
+Par formado entre Ativo 283 e Passivo 153
+Par formado entre Ativo 284 e Passivo 235
+Ativo 285 é rejeitado por Passivo 321
+Par formado entre Ativo 285 e Passivo 165
+Par desfeito entre Ativo 61 e Passivo 489
+Par formado entre Ativo 286 e Passivo 489
+Ativo 287 é rejeitado por Passivo 17
+Par formado entre Ativo 287 e Passivo 472
+Par formado entre Ativo 288 e Passivo 344
+Par formado entre Ativo 289 e Passivo 290
+Par formado entre Ativo 290 e Passivo 449
+Par desfeito entre Ativo 198 e Passivo 139
+Par formado entre Ativo 291 e Passivo 139
+Par desfeito entre Ativo 291 e Passivo 139
+Par formado entre Ativo 292 e Passivo 139
+Par desfeito entre Ativo 270 e Passivo 60
+Par formado entre Ativo 293 e Passivo 60
+Par formado entre Ativo 294 e Passivo 39
+Ativo 295 é rejeitado por Passivo 355
+Ativo 295 é rejeitado por Passivo 217
+Ativo 295 é rejeitado por Passivo 193
+Par formado entre Ativo 295 e Passivo 52
+Par desfeito entre Ativo 229 e Passivo 253
+Par formado entre Ativo 296 e Passivo 253
+Par formado entre Ativo 297 e Passivo 475
+Ativo 298 é rejeitado por Passivo 442
+Ativo 298 é rejeitado por Passivo 467
+Par formado entre Ativo 298 e Passivo 479
+Par formado entre Ativo 299 e Passivo 296
+Par formado entre Ativo 300 e Passivo 167
+Ativo 301 é rejeitado por Passivo 422
+Par formado entre Ativo 301 e Passivo 398
+Ativo 302 é rejeitado por Passivo 43
+Par formado entre Ativo 302 e Passivo 393
+Ativo 303 é rejeitado por Passivo 248
+Par formado entre Ativo 303 e Passivo 12
+Par formado entre Ativo 304 e Passivo 209
+Par formado entre Ativo 305 e Passivo 55
+Ativo 306 é rejeitado por Passivo 286
+Par formado entre Ativo 306 e Passivo 90
+Par formado entre Ativo 307 e Passivo 244
+Par formado entre Ativo 308 e Passivo 276
+Par formado entre Ativo 309 e Passivo 32
+Par formado entre Ativo 310 e Passivo 135
+Ativo 311 é rejeitado por Passivo 125
+Ativo 311 é rejeitado por Passivo 114
+Ativo 311 é rejeitado por Passivo 250
+Ativo 311 é rejeitado por Passivo 10
+Par desfeito entre Ativo 186 e Passivo 417
+Par formado entre Ativo 311 e Passivo 417
+Par formado entre Ativo 312 e Passivo 349
+Ativo 313 é rejeitado por Passivo 464
+Ativo 313 é rejeitado por Passivo 111
+Par formado entre Ativo 313 e Passivo 400
+Par desfeito entre Ativo 165 e Passivo 458
+Par formado entre Ativo 314 e Passivo 458
+Ativo 315 é rejeitado por Passivo 290
+Ativo 315 é rejeitado por Passivo 339
+Ativo 315 é rejeitado por Passivo 458
+Par formado entre Ativo 315 e Passivo 184
+Ativo 316 é rejeitado por Passivo 261
+Par formado entre Ativo 316 e Passivo 88
+Par formado entre Ativo 317 e Passivo 404
+Ativo 318 é rejeitado por Passivo 50
+Par formado entre Ativo 318 e Passivo 81
+Par formado entre Ativo 319 e Passivo 362
+Ativo 320 é rejeitado por Passivo 351
+Par formado entre Ativo 320 e Passivo 423
+Par desfeito entre Ativo 313 e Passivo 400
+Par formado entre Ativo 321 e Passivo 400
+Par formado entre Ativo 322 e Passivo 163
+Ativo 323 é rejeitado por Passivo 295
+Par formado entre Ativo 323 e Passivo 241
+Par desfeito entre Ativo 60 e Passivo 347
+Par formado entre Ativo 324 e Passivo 347
+Par formado entre Ativo 325 e Passivo 172
+Ativo 326 é rejeitado por Passivo 248
+Ativo 326 é rejeitado por Passivo 301
+Par formado entre Ativo 326 e Passivo 176
+Ativo 327 é rejeitado por Passivo 238
+Par formado entre Ativo 327 e Passivo 204
+Par formado entre Ativo 328 e Passivo 84
+Ativo 329 é rejeitado por Passivo 367
+Par formado entre Ativo 329 e Passivo 121
+Par formado entre Ativo 330 e Passivo 320
+Par formado entre Ativo 331 e Passivo 346
+Ativo 332 é rejeitado por Passivo 398
+Par desfeito entre Ativo 228 e Passivo 238
+Par formado entre Ativo 332 e Passivo 238
+Par formado entre Ativo 333 e Passivo 256
+Ativo 334 é rejeitado por Passivo 508
+Par formado entre Ativo 334 e Passivo 207
+Ativo 335 é rejeitado por Passivo 354
+Par formado entre Ativo 335 e Passivo 189
+Par desfeito entre Ativo 331 e Passivo 346
+Par formado entre Ativo 336 e Passivo 346
+Par formado entre Ativo 337 e Passivo 504
+Ativo 338 é rejeitado por Passivo 431
+Par formado entre Ativo 338 e Passivo 246
+Par formado entre Ativo 339 e Passivo 403
+Ativo 340 é rejeitado por Passivo 326
+Par desfeito entre Ativo 52 e Passivo 104
+Par formado entre Ativo 340 e Passivo 104
+Par desfeito entre Ativo 332 e Passivo 238
+Par formado entre Ativo 341 e Passivo 238
+Par formado entre Ativo 342 e Passivo 254
+Par formado entre Ativo 343 e Passivo 140
+Ativo 344 é rejeitado por Passivo 433
+Par desfeito entre Ativo 222 e Passivo 304
+Par formado entre Ativo 344 e Passivo 304
+Ativo 345 é rejeitado por Passivo 323
+Par formado entre Ativo 345 e Passivo 314
+Par formado entre Ativo 346 e Passivo 303
+Ativo 347 é rejeitado por Passivo 496
+Ativo 347 é rejeitado por Passivo 208
+Ativo 347 é rejeitado por Passivo 276
+Par formado entre Ativo 347 e Passivo 336
+Par desfeito entre Ativo 334 e Passivo 207
+Par formado entre Ativo 348 e Passivo 207
+Ativo 349 é rejeitado por Passivo 400
+Ativo 349 é rejeitado por Passivo 447
+Par formado entre Ativo 349 e Passivo 236
+Ativo 350 é rejeitado por Passivo 367
+Ativo 350 é rejeitado por Passivo 37
+Par formado entre Ativo 350 e Passivo 48
+Par desfeito entre Ativo 217 e Passivo 68
+Par formado entre Ativo 351 e Passivo 68
+Ativo 352 é rejeitado por Passivo 367
+Par formado entre Ativo 352 e Passivo 509
+Par formado entre Ativo 353 e Passivo 247
+Par formado entre Ativo 354 e Passivo 146
+Par formado entre Ativo 355 e Passivo 116
+Ativo 356 é rejeitado por Passivo 104
+Ativo 356 é rejeitado por Passivo 431
+Ativo 356 é rejeitado por Passivo 417
+Par formado entre Ativo 356 e Passivo 181
+Par formado entre Ativo 357 e Passivo 283
+Ativo 358 é rejeitado por Passivo 436
+Ativo 358 é rejeitado por Passivo 118
+Par formado entre Ativo 358 e Passivo 219
+Ativo 359 é rejeitado por Passivo 184
+Par formado entre Ativo 359 e Passivo 505
+Par desfeito entre Ativo 333 e Passivo 256
+Par formado entre Ativo 360 e Passivo 256
+Ativo 361 é rejeitado por Passivo 221
+Par formado entre Ativo 361 e Passivo 23
+Ativo 362 é rejeitado por Passivo 111
+Ativo 362 é rejeitado por Passivo 154
+Par formado entre Ativo 362 e Passivo 58
+Par desfeito entre Ativo 224 e Passivo 422
+Par formado entre Ativo 363 e Passivo 422
+Par desfeito entre Ativo 177 e Passivo 257
+Par formado entre Ativo 364 e Passivo 257
+Par formado entre Ativo 365 e Passivo 331
+Par formado entre Ativo 366 e Passivo 74
+Par desfeito entre Ativo 33 e Passivo 65
+Par formado entre Ativo 367 e Passivo 65
+Par formado entre Ativo 368 e Passivo 419
+Par desfeito entre Ativo 259 e Passivo 376
+Par formado entre Ativo 369 e Passivo 376
+Ativo 370 é rejeitado por Passivo 473
+Par formado entre Ativo 370 e Passivo 437
+Ativo 371 é rejeitado por Passivo 135
+Par formado entre Ativo 371 e Passivo 185
+Par formado entre Ativo 372 e Passivo 285
+Ativo 373 é rejeitado por Passivo 444
+Par desfeito entre Ativo 49 e Passivo 493
+Par formado entre Ativo 373 e Passivo 493
+Par desfeito entre Ativo 122 e Passivo 298
+Par formado entre Ativo 374 e Passivo 298
+Ativo 375 é rejeitado por Passivo 167
+Par formado entre Ativo 375 e Passivo 101
+Ativo 376 é rejeitado por Passivo 362
+Par formado entre Ativo 376 e Passivo 474
+Ativo 377 é rejeitado por Passivo 445
+Ativo 377 é rejeitado por Passivo 116
+Ativo 377 é rejeitado por Passivo 303
+Par desfeito entre Ativo 293 e Passivo 60
+Par formado entre Ativo 377 e Passivo 60
+Par desfeito entre Ativo 170 e Passivo 159
+Par formado entre Ativo 378 e Passivo 159
+Par desfeito entre Ativo 326 e Passivo 176
+Par formado entre Ativo 379 e Passivo 176
+Par desfeito entre Ativo 276 e Passivo 18
+Par formado entre Ativo 380 e Passivo 18
+Par formado entre Ativo 381 e Passivo 75
+Ativo 382 é rejeitado por Passivo 437
+Ativo 382 é rejeitado por Passivo 431
+Par formado entre Ativo 382 e Passivo 348
+Par formado entre Ativo 383 e Passivo 438
+Ativo 384 é rejeitado por Passivo 438
+Ativo 384 é rejeitado por Passivo 369
+Par formado entre Ativo 384 e Passivo 87
+Ativo 385 é rejeitado por Passivo 127
+Ativo 385 é rejeitado por Passivo 398
+Par formado entre Ativo 385 e Passivo 28
+Par formado entre Ativo 386 e Passivo 383
+Par formado entre Ativo 387 e Passivo 275
+Par formado entre Ativo 388 e Passivo 30
+Par desfeito entre Ativo 282 e Passivo 222
+Par formado entre Ativo 389 e Passivo 222
+Par formado entre Ativo 390 e Passivo 171
+Par desfeito entre Ativo 302 e Passivo 393
+Par formado entre Ativo 391 e Passivo 393
+Par formado entre Ativo 392 e Passivo 399
+Par formado entre Ativo 393 e Passivo 120
+Par desfeito entre Ativo 0 e Passivo 150
+Par formado entre Ativo 394 e Passivo 150
+Par desfeito entre Ativo 115 e Passivo 31
+Par formado entre Ativo 395 e Passivo 31
+Par formado entre Ativo 396 e Passivo 8
+Par desfeito entre Ativo 110 e Passivo 44
+Par formado entre Ativo 397 e Passivo 44
+Par formado entre Ativo 398 e Passivo 392
+Par desfeito entre Ativo 338 e Passivo 246
+Par formado entre Ativo 399 e Passivo 246
+Ativo 400 é rejeitado por Passivo 231
+Par formado entre Ativo 400 e Passivo 67
+Par formado entre Ativo 401 e Passivo 308
+Par formado entre Ativo 402 e Passivo 450
+Ativo 403 é rejeitado por Passivo 123
+Par formado entre Ativo 403 e Passivo 212
+Par desfeito entre Ativo 345 e Passivo 314
+Par formado entre Ativo 404 e Passivo 314
+Ativo 405 é rejeitado por Passivo 48
+Par desfeito entre Ativo 381 e Passivo 75
+Par formado entre Ativo 405 e Passivo 75
+Par formado entre Ativo 406 e Passivo 462
+Ativo 407 é rejeitado por Passivo 314
+Par desfeito entre Ativo 340 e Passivo 104
+Par formado entre Ativo 407 e Passivo 104
+Par formado entre Ativo 408 e Passivo 307
+Par formado entre Ativo 409 e Passivo 105
+Par desfeito entre Ativo 380 e Passivo 18
+Par formado entre Ativo 410 e Passivo 18
+Par desfeito entre Ativo 77 e Passivo 89
+Par formado entre Ativo 411 e Passivo 89
+Ativo 412 é rejeitado por Passivo 279
+Ativo 412 é rejeitado por Passivo 374
+Par desfeito entre Ativo 336 e Passivo 346
+Par formado entre Ativo 412 e Passivo 346
+Par formado entre Ativo 413 e Passivo 201
+Par desfeito entre Ativo 27 e Passivo 137
+Par formado entre Ativo 414 e Passivo 137
+Ativo 415 é rejeitado por Passivo 134
+Ativo 415 é rejeitado por Passivo 187
+Par formado entre Ativo 415 e Passivo 130
+Par formado entre Ativo 416 e Passivo 334
+Par formado entre Ativo 417 e Passivo 448
+Ativo 418 é rejeitado por Passivo 422
+Par formado entre Ativo 418 e Passivo 122
+Ativo 419 é rejeitado por Passivo 177
+Ativo 419 é rejeitado por Passivo 353
+Par desfeito entre Ativo 236 e Passivo 454
+Par formado entre Ativo 419 e Passivo 454
+Par desfeito entre Ativo 119 e Passivo 378
+Par formado entre Ativo 420 e Passivo 378
+Par desfeito entre Ativo 189 e Passivo 405
+Par formado entre Ativo 421 e Passivo 405
+Ativo 422 é rejeitado por Passivo 126
+Par formado entre Ativo 422 e Passivo 452
+Par formado entre Ativo 423 e Passivo 2
+Par formado entre Ativo 424 e Passivo 175
+Ativo 425 é rejeitado por Passivo 270
+Par desfeito entre Ativo 125 e Passivo 35
+Par formado entre Ativo 425 e Passivo 35
+Ativo 426 é rejeitado por Passivo 35
+Par formado entre Ativo 426 e Passivo 281
+Par formado entre Ativo 427 e Passivo 414
+Par formado entre Ativo 428 e Passivo 115
+Ativo 429 é rejeitado por Passivo 204
+Ativo 429 é rejeitado por Passivo 479
+Par formado entre Ativo 429 e Passivo 335
+Par formado entre Ativo 430 e Passivo 225
+Par desfeito entre Ativo 394 e Passivo 150
+Par formado entre Ativo 431 e Passivo 150
+Ativo 432 é rejeitado por Passivo 30
+Par desfeito entre Ativo 82 e Passivo 24
+Par formado entre Ativo 432 e Passivo 24
+Par formado entre Ativo 433 e Passivo 224
+Par desfeito entre Ativo 323 e Passivo 241
+Par formado entre Ativo 434 e Passivo 241
+Par formado entre Ativo 435 e Passivo 418
+Par formado entre Ativo 436 e Passivo 113
+Ativo 437 é rejeitado por Passivo 302
+Ativo 437 é rejeitado por Passivo 139
+Par formado entre Ativo 437 e Passivo 484
+Par desfeito entre Ativo 238 e Passivo 164
+Par formado entre Ativo 438 e Passivo 164
+Ativo 439 é rejeitado por Passivo 202
+Ativo 439 é rejeitado por Passivo 132
+Par formado entre Ativo 439 e Passivo 463
+Par formado entre Ativo 440 e Passivo 364
+Par formado entre Ativo 441 e Passivo 245
+Ativo 442 é rejeitado por Passivo 443
+Ativo 442 é rejeitado por Passivo 355
+Par desfeito entre Ativo 163 e Passivo 11
+Par formado entre Ativo 442 e Passivo 11
+Par desfeito entre Ativo 178 e Passivo 424
+Par formado entre Ativo 443 e Passivo 424
+Ativo 444 é rejeitado por Passivo 134
+Ativo 444 é rejeitado por Passivo 50
+Ativo 444 é rejeitado por Passivo 454
+Par desfeito entre Ativo 246 e Passivo 339
+Par formado entre Ativo 444 e Passivo 339
+Ativo 445 é rejeitado por Passivo 313
+Par formado entre Ativo 445 e Passivo 408
+Ativo 446 é rejeitado por Passivo 128
+Par desfeito entre Ativo 375 e Passivo 101
+Par formado entre Ativo 446 e Passivo 101
+Par desfeito entre Ativo 197 e Passivo 108
+Par formado entre Ativo 447 e Passivo 108
+Par formado entre Ativo 448 e Passivo 138
+Par formado entre Ativo 449 e Passivo 372
+Par desfeito entre Ativo 180 e Passivo 29
+Par formado entre Ativo 450 e Passivo 29
+Par desfeito entre Ativo 327 e Passivo 204
+Par formado entre Ativo 451 e Passivo 204
+Ativo 452 é rejeitado por Passivo 348
+Par desfeito entre Ativo 72 e Passivo 186
+Par formado entre Ativo 452 e Passivo 186
+Par formado entre Ativo 453 e Passivo 342
+Par formado entre Ativo 454 e Passivo 468
+Par formado entre Ativo 455 e Passivo 45
+Par desfeito entre Ativo 160 e Passivo 152
+Par formado entre Ativo 456 e Passivo 152
+Par desfeito entre Ativo 196 e Passivo 6
+Par formado entre Ativo 457 e Passivo 6
+Par desfeito entre Ativo 406 e Passivo 462
+Par formado entre Ativo 458 e Passivo 462
+Par formado entre Ativo 459 e Passivo 410
+Par desfeito entre Ativo 68 e Passivo 476
+Par formado entre Ativo 460 e Passivo 476
+Par formado entre Ativo 461 e Passivo 292
+Ativo 462 é rejeitado por Passivo 395
+Ativo 462 é rejeitado por Passivo 473
+Par formado entre Ativo 462 e Passivo 318
+Par desfeito entre Ativo 452 e Passivo 186
+Par formado entre Ativo 463 e Passivo 186
+Ativo 464 é rejeitado por Passivo 204
+Par formado entre Ativo 464 e Passivo 288
+Ativo 465 é rejeitado por Passivo 417
+Par formado entre Ativo 465 e Passivo 85
+Ativo 466 é rejeitado por Passivo 364
+Ativo 466 é rejeitado por Passivo 20
+Ativo 466 é rejeitado por Passivo 251
+Par formado entre Ativo 466 e Passivo 465
+Ativo 467 é rejeitado por Passivo 458
+Ativo 467 é rejeitado por Passivo 443
+Par formado entre Ativo 467 e Passivo 22
+Ativo 468 é rejeitado por Passivo 175
+Par formado entre Ativo 468 e Passivo 95
+Par formado entre Ativo 469 e Passivo 420
+Par desfeito entre Ativo 445 e Passivo 408
+Par formado entre Ativo 470 e Passivo 408
+Par desfeito entre Ativo 409 e Passivo 105
+Par formado entre Ativo 471 e Passivo 105
+Ativo 472 é rejeitado por Passivo 52
+Par desfeito entre Ativo 95 e Passivo 147
+Par formado entre Ativo 472 e Passivo 147
+Ativo 473 é rejeitado por Passivo 484
+Ativo 473 é rejeitado por Passivo 3
+Par formado entre Ativo 473 e Passivo 162
+Ativo 474 é rejeitado por Passivo 58
+Par desfeito entre Ativo 310 e Passivo 135
+Par formado entre Ativo 474 e Passivo 135
+Ativo 475 é rejeitado por Passivo 2
+Par desfeito entre Ativo 69 e Passivo 443
+Par formado entre Ativo 475 e Passivo 443
+Ativo 476 é rejeitado por Passivo 446
+Par desfeito entre Ativo 439 e Passivo 463
+Par formado entre Ativo 476 e Passivo 463
+Ativo 477 é rejeitado por Passivo 374
+Par formado entre Ativo 477 e Passivo 435
+Par desfeito entre Ativo 138 e Passivo 117
+Par formado entre Ativo 478 e Passivo 117
+Par desfeito entre Ativo 335 e Passivo 189
+Par formado entre Ativo 479 e Passivo 189
+Par desfeito entre Ativo 254 e Passivo 357
+Par formado entre Ativo 480 e Passivo 357
+Ativo 481 é rejeitado por Passivo 157
+Par desfeito entre Ativo 253 e Passivo 467
+Par formado entre Ativo 481 e Passivo 467
+Ativo 482 é rejeitado por Passivo 74
+Ativo 482 é rejeitado por Passivo 175
+Par desfeito entre Ativo 12 e Passivo 442
+Par formado entre Ativo 482 e Passivo 442
+Par formado entre Ativo 483 e Passivo 498
+Ativo 484 é rejeitado por Passivo 355
+Ativo 484 é rejeitado por Passivo 457
+Par formado entre Ativo 484 e Passivo 441
+Par desfeito entre Ativo 166 e Passivo 412
+Par formado entre Ativo 485 e Passivo 412
+Par formado entre Ativo 486 e Passivo 291
+Par formado entre Ativo 487 e Passivo 169
+Par formado entre Ativo 488 e Passivo 477
+Par formado entre Ativo 489 e Passivo 453
+Par desfeito entre Ativo 337 e Passivo 504
+Par formado entre Ativo 490 e Passivo 504
+Ativo 491 é rejeitado por Passivo 209
+Ativo 491 é rejeitado por Passivo 65
+Par formado entre Ativo 491 e Passivo 345
+Ativo 492 é rejeitado por Passivo 194
+Par desfeito entre Ativo 204 e Passivo 492
+Par formado entre Ativo 492 e Passivo 492
+Par formado entre Ativo 493 e Passivo 161
+Par desfeito entre Ativo 348 e Passivo 207
+Par formado entre Ativo 494 e Passivo 207
+Par desfeito entre Ativo 99 e Passivo 70
+Par formado entre Ativo 495 e Passivo 70
+Par desfeito entre Ativo 483 e Passivo 498
+Par formado entre Ativo 496 e Passivo 498
+Ativo 497 é rejeitado por Passivo 24
+Par formado entre Ativo 497 e Passivo 205
+Ativo 498 é rejeitado por Passivo 41
+Ativo 498 é rejeitado por Passivo 388
+Ativo 498 é rejeitado por Passivo 268
+Ativo 498 é rejeitado por Passivo 203
+Ativo 498 é rejeitado por Passivo 45
+Par desfeito entre Ativo 146 e Passivo 217
+Par formado entre Ativo 498 e Passivo 217
+Par desfeito entre Ativo 405 e Passivo 75
+Par formado entre Ativo 499 e Passivo 75
+Par formado entre Ativo 500 e Passivo 328
+Ativo 501 é rejeitado por Passivo 17
+Ativo 501 é rejeitado por Passivo 279
+Ativo 501 é rejeitado por Passivo 341
+Par formado entre Ativo 501 e Passivo 53
+Par formado entre Ativo 502 e Passivo 197
+Ativo 503 é rejeitado por Passivo 175
+Par desfeito entre Ativo 421 e Passivo 405
+Par formado entre Ativo 503 e Passivo 405
+Ativo 504 é rejeitado por Passivo 475
+Par formado entre Ativo 504 e Passivo 360
+Par formado entre Ativo 505 e Passivo 469
+Ativo 506 é rejeitado por Passivo 346
+Ativo 506 é rejeitado por Passivo 222
+Par desfeito entre Ativo 128 e Passivo 154
+Par formado entre Ativo 506 e Passivo 154
+Par desfeito entre Ativo 480 e Passivo 357
+Par formado entre Ativo 507 e Passivo 357
+Par desfeito entre Ativo 214 e Passivo 231
+Par formado entre Ativo 508 e Passivo 231
+Ativo 509 é rejeitado por Passivo 273
+Par desfeito entre Ativo 231 e Passivo 444
+Par formado entre Ativo 509 e Passivo 444
+Ativo 510 é rejeitado por Passivo 13
+Par desfeito entre Ativo 497 e Passivo 205
+Par formado entre Ativo 510 e Passivo 205
+Ativo 26 é rejeitado por Passivo 174
+Ativo 26 é rejeitado por Passivo 35
+Ativo 26 é rejeitado por Passivo 123
+Ativo 26 é rejeitado por Passivo 122
+Par formado entre Ativo 26 e Passivo 240
+Ativo 25 é rejeitado por Passivo 133
+Ativo 25 é rejeitado por Passivo 277
+Par desfeito entre Ativo 317 e Passivo 404
+Par formado entre Ativo 25 e Passivo 404
+Ativo 35 é rejeitado por Passivo 133
+Ativo 35 é rejeitado por Passivo 446
+Par desfeito entre Ativo 64 e Passivo 191
+Par formado entre Ativo 35 e Passivo 191
+Ativo 79 é rejeitado por Passivo 268
+Par formado entre Ativo 79 e Passivo 425
+Ativo 44 é rejeitado por Passivo 147
+Par formado entre Ativo 44 e Passivo 218
+Ativo 23 é rejeitado por Passivo 231
+Ativo 23 é rejeitado por Passivo 362
+Ativo 23 é rejeitado por Passivo 340
+Ativo 23 é rejeitado por Passivo 165
+Par formado entre Ativo 23 e Passivo 33
+Ativo 80 é rejeitado por Passivo 280
+Ativo 80 é rejeitado por Passivo 108
+Par desfeito entre Ativo 84 e Passivo 248
+Par formado entre Ativo 80 e Passivo 248
+Ativo 97 é rejeitado por Passivo 177
+Par formado entre Ativo 97 e Passivo 49
+Ativo 21 é rejeitado por Passivo 390
+Par formado entre Ativo 21 e Passivo 99
+Ativo 42 é rejeitado por Passivo 35
+Par formado entre Ativo 42 e Passivo 170
+Ativo 105 é rejeitado por Passivo 127
+Par formado entre Ativo 105 e Passivo 151
+Ativo 20 é rejeitado por Passivo 41
+Ativo 20 é rejeitado por Passivo 251
+Par desfeito entre Ativo 288 e Passivo 344
+Par formado entre Ativo 20 e Passivo 344
+Ativo 127 é rejeitado por Passivo 446
+Ativo 127 é rejeitado por Passivo 288
+Ativo 127 é rejeitado por Passivo 437
+Par desfeito entre Ativo 496 e Passivo 498
+Par formado entre Ativo 127 e Passivo 498
+Ativo 1 é rejeitado por Passivo 269
+Ativo 1 é rejeitado por Passivo 230
+Ativo 1 é rejeitado por Passivo 435
+Par formado entre Ativo 1 e Passivo 51
+Ativo 9 é rejeitado por Passivo 228
+Par desfeito entre Ativo 428 e Passivo 115
+Par formado entre Ativo 9 e Passivo 115
+Ativo 91 é rejeitado por Passivo 206
+Ativo 91 é rejeitado por Passivo 79
+Ativo 91 é rejeitado por Passivo 489
+Par desfeito entre Ativo 475 e Passivo 443
+Par formado entre Ativo 91 e Passivo 443
+Ativo 4 é rejeitado por Passivo 273
+Ativo 4 é rejeitado por Passivo 253
+Ativo 4 é rejeitado por Passivo 139
+Par desfeito entre Ativo 396 e Passivo 8
+Par formado entre Ativo 4 e Passivo 8
+Ativo 18 é rejeitado por Passivo 355
+Ativo 18 é rejeitado por Passivo 209
+Ativo 18 é rejeitado por Passivo 341
+Par desfeito entre Ativo 391 e Passivo 393
+Par formado entre Ativo 18 e Passivo 393
+Ativo 104 é rejeitado por Passivo 417
+Par desfeito entre Ativo 219 e Passivo 315
+Par formado entre Ativo 104 e Passivo 315
+Ativo 167 é rejeitado por Passivo 293
+Par formado entre Ativo 167 e Passivo 455
+Ativo 188 é rejeitado por Passivo 402
+Par formado entre Ativo 188 e Passivo 272
+Ativo 103 é rejeitado por Passivo 56
+Par desfeito entre Ativo 220 e Passivo 350
+Par formado entre Ativo 103 e Passivo 350
+Ativo 53 é rejeitado por Passivo 202
+Par formado entre Ativo 53 e Passivo 330
+Ativo 100 é rejeitado por Passivo 231
+Ativo 100 é rejeitado por Passivo 242
+Par desfeito entre Ativo 269 e Passivo 145
+Par formado entre Ativo 100 e Passivo 145
+Ativo 70 é rejeitado por Passivo 157
+Ativo 70 é rejeitado por Passivo 127
+Par formado entre Ativo 70 e Passivo 371
+Ativo 181 é rejeitado por Passivo 79
+Ativo 181 é rejeitado por Passivo 51
+Ativo 181 é rejeitado por Passivo 496
+Ativo 181 é rejeitado por Passivo 441
+Ativo 181 é rejeitado por Passivo 157
+Ativo 181 é rejeitado por Passivo 258
+Ativo 181 é rejeitado por Passivo 393
+Ativo 181 é rejeitado por Passivo 305
+Par desfeito entre Ativo 316 e Passivo 88
+Par formado entre Ativo 181 e Passivo 88
+Ativo 210 é rejeitado por Passivo 131
+Ativo 210 é rejeitado por Passivo 419
+Ativo 210 é rejeitado por Passivo 164
+Par desfeito entre Ativo 278 e Passivo 76
+Par formado entre Ativo 210 e Passivo 76
+Ativo 212 é rejeitado por Passivo 129
+Ativo 212 é rejeitado por Passivo 467
+Ativo 212 é rejeitado por Passivo 228
+Par formado entre Ativo 212 e Passivo 252
+Ativo 11 é rejeitado por Passivo 64
+Par formado entre Ativo 11 e Passivo 264
+Ativo 190 é rejeitado por Passivo 339
+Ativo 190 é rejeitado por Passivo 52
+Ativo 190 é rejeitado por Passivo 277
+Ativo 190 é rejeitado por Passivo 457
+Par formado entre Ativo 190 e Passivo 98
+Ativo 133 é rejeitado por Passivo 41
+Ativo 133 é rejeitado por Passivo 420
+Par formado entre Ativo 133 e Passivo 365
+Ativo 107 é rejeitado por Passivo 230
+Par desfeito entre Ativo 306 e Passivo 90
+Par formado entre Ativo 107 e Passivo 90
+Ativo 147 é rejeitado por Passivo 259
+Par desfeito entre Ativo 175 e Passivo 302
+Par formado entre Ativo 147 e Passivo 302
+Ativo 255 é rejeitado por Passivo 340
+Par formado entre Ativo 255 e Passivo 156
+Ativo 155 é rejeitado por Passivo 368
+Ativo 155 é rejeitado por Passivo 90
+Par desfeito entre Ativo 402 e Passivo 450
+Par formado entre Ativo 155 e Passivo 450
+Ativo 43 é rejeitado por Passivo 20
+Ativo 43 é rejeitado por Passivo 241
+Ativo 43 é rejeitado por Passivo 493
+Par desfeito entre Ativo 63 e Passivo 132
+Par formado entre Ativo 43 e Passivo 132
+Ativo 143 é rejeitado por Passivo 250
+Ativo 143 é rejeitado por Passivo 367
+Par desfeito entre Ativo 171 e Passivo 144
+Par formado entre Ativo 143 e Passivo 144
+Ativo 29 é rejeitado por Passivo 174
+Ativo 29 é rejeitado por Passivo 50
+Ativo 29 é rejeitado por Passivo 101
+Par formado entre Ativo 29 e Passivo 255
+Ativo 30 é rejeitado por Passivo 389
+Ativo 30 é rejeitado por Passivo 251
+Par formado entre Ativo 30 e Passivo 287
+Ativo 121 é rejeitado por Passivo 203
+Par desfeito entre Ativo 44 e Passivo 218
+Par formado entre Ativo 121 e Passivo 218
+Ativo 86 é rejeitado por Passivo 153
+Par formado entre Ativo 86 e Passivo 309
+Ativo 61 é rejeitado por Passivo 489
+Par desfeito entre Ativo 470 e Passivo 408
+Par formado entre Ativo 61 e Passivo 408
+Ativo 198 é rejeitado por Passivo 139
+Ativo 198 é rejeitado por Passivo 400
+Par desfeito entre Ativo 459 e Passivo 410
+Par formado entre Ativo 198 e Passivo 410
+Ativo 291 é rejeitado por Passivo 139
+Ativo 291 é rejeitado por Passivo 509
+Ativo 291 é rejeitado por Passivo 345
+Ativo 291 é rejeitado por Passivo 225
+Par desfeito entre Ativo 379 e Passivo 176
+Par formado entre Ativo 291 e Passivo 176
+Ativo 270 é rejeitado por Passivo 60
+Par desfeito entre Ativo 450 e Passivo 29
+Par formado entre Ativo 270 e Passivo 29
+Ativo 229 é rejeitado por Passivo 253
+Par formado entre Ativo 229 e Passivo 179
+Ativo 186 é rejeitado por Passivo 417
+Par desfeito entre Ativo 329 e Passivo 121
+Par formado entre Ativo 186 e Passivo 121
+Ativo 165 é rejeitado por Passivo 458
+Ativo 165 é rejeitado por Passivo 27
+Par desfeito entre Ativo 50 e Passivo 430
+Par formado entre Ativo 165 e Passivo 430
+Ativo 313 é rejeitado por Passivo 400
+Par formado entre Ativo 313 e Passivo 377
+Ativo 60 é rejeitado por Passivo 347
+Ativo 60 é rejeitado por Passivo 466
+Ativo 60 é rejeitado por Passivo 59
+Ativo 60 é rejeitado por Passivo 225
+Ativo 60 é rejeitado por Passivo 31
+Ativo 60 é rejeitado por Passivo 332
+Par desfeito entre Ativo 205 e Passivo 232
+Par formado entre Ativo 60 e Passivo 232
+Ativo 228 é rejeitado por Passivo 238
+Par desfeito entre Ativo 199 e Passivo 178
+Par formado entre Ativo 228 e Passivo 178
+Ativo 331 é rejeitado por Passivo 346
+Par desfeito entre Ativo 126 e Passivo 27
+Par formado entre Ativo 331 e Passivo 27
+Ativo 52 é rejeitado por Passivo 104
+Ativo 52 é rejeitado por Passivo 150
+Par desfeito entre Ativo 65 e Passivo 460
+Par formado entre Ativo 52 e Passivo 460
+Ativo 332 é rejeitado por Passivo 238
+Par desfeito entre Ativo 275 e Passivo 326
+Par formado entre Ativo 332 e Passivo 326
+Ativo 222 é rejeitado por Passivo 304
+Par desfeito entre Ativo 454 e Passivo 468
+Par formado entre Ativo 222 e Passivo 468
+Ativo 334 é rejeitado por Passivo 207
+Par formado entre Ativo 334 e Passivo 142
+Ativo 217 é rejeitado por Passivo 68
+Ativo 217 é rejeitado por Passivo 431
+Par formado entre Ativo 217 e Passivo 478
+Ativo 333 é rejeitado por Passivo 256
+Par formado entre Ativo 333 e Passivo 470
+Ativo 224 é rejeitado por Passivo 422
+Par formado entre Ativo 224 e Passivo 69
+Ativo 177 é rejeitado por Passivo 257
+Ativo 177 é rejeitado por Passivo 224
+Ativo 177 é rejeitado por Passivo 24
+Par desfeito entre Ativo 222 e Passivo 468
+Par formado entre Ativo 177 e Passivo 468
+Ativo 33 é rejeitado por Passivo 65
+Ativo 33 é rejeitado por Passivo 457
+Ativo 33 é rejeitado por Passivo 398
+Par formado entre Ativo 33 e Passivo 406
+Ativo 259 é rejeitado por Passivo 376
+Par formado entre Ativo 259 e Passivo 42
+Ativo 49 é rejeitado por Passivo 493
+Ativo 49 é rejeitado por Passivo 286
+Par desfeito entre Ativo 200 e Passivo 436
+Par formado entre Ativo 49 e Passivo 436
+Ativo 122 é rejeitado por Passivo 298
+Par formado entre Ativo 122 e Passivo 343
+Ativo 293 é rejeitado por Passivo 60
+Ativo 293 é rejeitado por Passivo 221
+Par desfeito entre Ativo 349 e Passivo 236
+Par formado entre Ativo 293 e Passivo 236
+Ativo 170 é rejeitado por Passivo 159
+Ativo 170 é rejeitado por Passivo 468
+Ativo 170 é rejeitado por Passivo 462
+Ativo 170 é rejeitado por Passivo 29
+Ativo 170 é rejeitado por Passivo 42
+Ativo 170 é rejeitado por Passivo 114
+Ativo 170 é rejeitado por Passivo 463
+Ativo 170 é rejeitado por Passivo 377
+Par desfeito entre Ativo 22 e Passivo 93
+Par formado entre Ativo 170 e Passivo 93
+Ativo 326 é rejeitado por Passivo 176
+Par formado entre Ativo 326 e Passivo 141
+Ativo 276 é rejeitado por Passivo 18
+Ativo 276 é rejeitado por Passivo 343
+Ativo 276 é rejeitado por Passivo 490
+Par desfeito entre Ativo 145 e Passivo 54
+Par formado entre Ativo 276 e Passivo 54
+Ativo 282 é rejeitado por Passivo 222
+Ativo 282 é rejeitado por Passivo 347
+Ativo 282 é rejeitado por Passivo 114
+Par desfeito entre Ativo 451 e Passivo 204
+Par formado entre Ativo 282 e Passivo 204
+Ativo 302 é rejeitado por Passivo 393
+Par desfeito entre Ativo 272 e Passivo 174
+Par formado entre Ativo 302 e Passivo 174
+Ativo 0 é rejeitado por Passivo 150
+Par desfeito entre Ativo 418 e Passivo 122
+Par formado entre Ativo 0 e Passivo 122
+Ativo 115 é rejeitado por Passivo 31
+Ativo 115 é rejeitado por Passivo 458
+Ativo 115 é rejeitado por Passivo 377
+Ativo 115 é rejeitado por Passivo 126
+Ativo 115 é rejeitado por Passivo 115
+Par desfeito entre Ativo 356 e Passivo 181
+Par formado entre Ativo 115 e Passivo 181
+Ativo 110 é rejeitado por Passivo 44
+Ativo 110 é rejeitado por Passivo 505
+Ativo 110 é rejeitado por Passivo 368
+Par desfeito entre Ativo 311 e Passivo 417
+Par formado entre Ativo 110 e Passivo 417
+Ativo 338 é rejeitado por Passivo 246
+Par desfeito entre Ativo 289 e Passivo 290
+Par formado entre Ativo 338 e Passivo 290
+Ativo 345 é rejeitado por Passivo 314
+Par desfeito entre Ativo 368 e Passivo 419
+Par formado entre Ativo 345 e Passivo 419
+Ativo 381 é rejeitado por Passivo 75
+Ativo 381 é rejeitado por Passivo 454
+Par formado entre Ativo 381 e Passivo 78
+Ativo 340 é rejeitado por Passivo 104
+Par desfeito entre Ativo 133 e Passivo 365
+Par formado entre Ativo 340 e Passivo 365
+Ativo 380 é rejeitado por Passivo 18
+Par formado entre Ativo 380 e Passivo 229
+Ativo 77 é rejeitado por Passivo 89
+Ativo 77 é rejeitado por Passivo 189
+Ativo 77 é rejeitado por Passivo 108
+Ativo 77 é rejeitado por Passivo 153
+Ativo 77 é rejeitado por Passivo 431
+Par desfeito entre Ativo 110 e Passivo 417
+Par formado entre Ativo 77 e Passivo 417
+Ativo 336 é rejeitado por Passivo 346
+Par desfeito entre Ativo 108 e Passivo 19
+Par formado entre Ativo 336 e Passivo 19
+Ativo 27 é rejeitado por Passivo 137
+Par desfeito entre Ativo 305 e Passivo 55
+Par formado entre Ativo 27 e Passivo 55
+Ativo 236 é rejeitado por Passivo 454
+Par formado entre Ativo 236 e Passivo 143
+Ativo 119 é rejeitado por Passivo 378
+Par formado entre Ativo 119 e Passivo 299
+Ativo 189 é rejeitado por Passivo 405
+Ativo 189 é rejeitado por Passivo 65
+Par desfeito entre Ativo 87 e Passivo 123
+Par formado entre Ativo 189 e Passivo 123
+Ativo 125 é rejeitado por Passivo 35
+Par formado entre Ativo 125 e Passivo 382
+Ativo 394 é rejeitado por Passivo 150
+Par desfeito entre Ativo 173 e Passivo 319
+Par formado entre Ativo 394 e Passivo 319
+Ativo 82 é rejeitado por Passivo 24
+Par desfeito entre Ativo 333 e Passivo 470
+Par formado entre Ativo 82 e Passivo 470
+Ativo 323 é rejeitado por Passivo 241
+Par formado entre Ativo 323 e Passivo 148
+Ativo 238 é rejeitado por Passivo 164
+Par formado entre Ativo 238 e Passivo 109
+Ativo 163 é rejeitado por Passivo 11
+Par desfeito entre Ativo 339 e Passivo 403
+Par formado entre Ativo 163 e Passivo 403
+Ativo 178 é rejeitado por Passivo 424
+Ativo 178 é rejeitado por Passivo 463
+Ativo 178 é rejeitado por Passivo 447
+Par formado entre Ativo 178 e Passivo 391
+Ativo 246 é rejeitado por Passivo 339
+Ativo 246 é rejeitado por Passivo 11
+Ativo 246 é rejeitado por Passivo 230
+Par desfeito entre Ativo 503 e Passivo 405
+Par formado entre Ativo 246 e Passivo 405
+Ativo 375 é rejeitado por Passivo 101
+Par formado entre Ativo 375 e Passivo 500
+Ativo 197 é rejeitado por Passivo 108
+Ativo 197 é rejeitado por Passivo 3
+Ativo 197 é rejeitado por Passivo 75
+Ativo 197 é rejeitado por Passivo 447
+Ativo 197 é rejeitado por Passivo 448
+Ativo 197 é rejeitado por Passivo 208
+Ativo 197 é rejeitado por Passivo 204
+Par formado entre Ativo 197 e Passivo 416
+Ativo 180 é rejeitado por Passivo 29
+Ativo 180 é rejeitado por Passivo 74
+Ativo 180 é rejeitado por Passivo 175
+Ativo 180 é rejeitado por Passivo 409
+Par formado entre Ativo 180 e Passivo 119
+Ativo 327 é rejeitado por Passivo 204
+Par desfeito entre Ativo 96 e Passivo 258
+Par formado entre Ativo 327 e Passivo 258
+Ativo 72 é rejeitado por Passivo 186
+Ativo 72 é rejeitado por Passivo 239
+Ativo 72 é rejeitado por Passivo 67
+Ativo 72 é rejeitado por Passivo 126
+Ativo 72 é rejeitado por Passivo 412
+Par desfeito entre Ativo 415 e Passivo 130
+Par formado entre Ativo 72 e Passivo 130
+Ativo 160 é rejeitado por Passivo 152
+Par desfeito entre Ativo 344 e Passivo 304
+Par formado entre Ativo 160 e Passivo 304
+Ativo 196 é rejeitado por Passivo 6
+Par formado entre Ativo 196 e Passivo 63
+Ativo 406 é rejeitado por Passivo 462
+Par formado entre Ativo 406 e Passivo 7
+Ativo 68 é rejeitado por Passivo 476
+Ativo 68 é rejeitado por Passivo 436
+Par formado entre Ativo 68 e Passivo 66
+Ativo 452 é rejeitado por Passivo 186
+Par desfeito entre Ativo 57 e Passivo 306
+Par formado entre Ativo 452 e Passivo 306
+Ativo 445 é rejeitado por Passivo 408
+Ativo 445 é rejeitado por Passivo 119
+Par desfeito entre Ativo 309 e Passivo 32
+Par formado entre Ativo 445 e Passivo 32
+Ativo 409 é rejeitado por Passivo 105
+Ativo 409 é rejeitado por Passivo 393
+Par desfeito entre Ativo 81 e Passivo 92
+Par formado entre Ativo 409 e Passivo 92
+Ativo 95 é rejeitado por Passivo 147
+Ativo 95 é rejeitado por Passivo 496
+Ativo 95 é rejeitado por Passivo 208
+Ativo 95 é rejeitado por Passivo 116
+Par desfeito entre Ativo 298 e Passivo 479
+Par formado entre Ativo 95 e Passivo 479
+Ativo 310 é rejeitado por Passivo 135
+Par desfeito entre Ativo 380 e Passivo 229
+Par formado entre Ativo 310 e Passivo 229
+Ativo 69 é rejeitado por Passivo 443
+Par desfeito entre Ativo 395 e Passivo 31
+Par formado entre Ativo 69 e Passivo 31
+Ativo 439 é rejeitado por Passivo 463
+Par desfeito entre Ativo 197 e Passivo 416
+Par formado entre Ativo 439 e Passivo 416
+Ativo 138 é rejeitado por Passivo 117
+Ativo 138 é rejeitado por Passivo 304
+Par formado entre Ativo 138 e Passivo 434
+Ativo 335 é rejeitado por Passivo 189
+Par formado entre Ativo 335 e Passivo 385
+Ativo 254 é rejeitado por Passivo 357
+Ativo 254 é rejeitado por Passivo 448
+Par formado entre Ativo 254 e Passivo 439
+Ativo 253 é rejeitado por Passivo 467
+Ativo 253 é rejeitado por Passivo 185
+Ativo 253 é rejeitado por Passivo 115
+Par desfeito entre Ativo 29 e Passivo 255
+Par formado entre Ativo 253 e Passivo 255
+Ativo 12 é rejeitado por Passivo 442
+Ativo 12 é rejeitado por Passivo 12
+Ativo 12 é rejeitado por Passivo 374
+Par desfeito entre Ativo 26 e Passivo 240
+Par formado entre Ativo 12 e Passivo 240
+Ativo 166 é rejeitado por Passivo 412
+Par desfeito entre Ativo 366 e Passivo 74
+Par formado entre Ativo 166 e Passivo 74
+Ativo 337 é rejeitado por Passivo 504
+Ativo 337 é rejeitado por Passivo 426
+Ativo 337 é rejeitado por Passivo 289
+Par desfeito entre Ativo 66 e Passivo 300
+Par formado entre Ativo 337 e Passivo 300
+Ativo 204 é rejeitado por Passivo 492
+Par desfeito entre Ativo 373 e Passivo 493
+Par formado entre Ativo 204 e Passivo 493
+Ativo 348 é rejeitado por Passivo 207
+Ativo 348 é rejeitado por Passivo 198
+Par desfeito entre Ativo 352 e Passivo 509
+Par formado entre Ativo 348 e Passivo 509
+Ativo 99 é rejeitado por Passivo 70
+Par desfeito entre Ativo 82 e Passivo 470
+Par formado entre Ativo 99 e Passivo 470
+Ativo 483 é rejeitado por Passivo 498
+Par desfeito entre Ativo 78 e Passivo 361
+Par formado entre Ativo 483 e Passivo 361
+Ativo 146 é rejeitado por Passivo 217
+Ativo 146 é rejeitado por Passivo 7
+Ativo 146 é rejeitado por Passivo 168
+Par formado entre Ativo 146 e Passivo 237
+Ativo 405 é rejeitado por Passivo 75
+Ativo 405 é rejeitado por Passivo 442
+Par desfeito entre Ativo 178 e Passivo 391
+Par formado entre Ativo 405 e Passivo 391
+Ativo 421 é rejeitado por Passivo 405
+Ativo 421 é rejeitado por Passivo 355
+Ativo 421 é rejeitado por Passivo 102
+Par desfeito entre Ativo 111 e Passivo 494
+Par formado entre Ativo 421 e Passivo 494
+Ativo 128 é rejeitado por Passivo 154
+Par desfeito entre Ativo 243 e Passivo 496
+Par formado entre Ativo 128 e Passivo 496
+Ativo 480 é rejeitado por Passivo 357
+Ativo 480 é rejeitado por Passivo 384
+Par desfeito entre Ativo 161 e Passivo 118
+Par formado entre Ativo 480 e Passivo 118
+Ativo 214 é rejeitado por Passivo 231
+Par desfeito entre Ativo 318 e Passivo 81
+Par formado entre Ativo 214 e Passivo 81
+Ativo 231 é rejeitado por Passivo 444
+Par desfeito entre Ativo 33 e Passivo 406
+Par formado entre Ativo 231 e Passivo 406
+Ativo 497 é rejeitado por Passivo 205
+Ativo 497 é rejeitado por Passivo 76
+Ativo 497 é rejeitado por Passivo 84
+Ativo 497 é rejeitado por Passivo 508
+Ativo 497 é rejeitado por Passivo 41
+Par desfeito entre Ativo 479 e Passivo 189
+Par formado entre Ativo 497 e Passivo 189
+Ativo 317 é rejeitado por Passivo 404
+Ativo 317 é rejeitado por Passivo 134
+Par formado entre Ativo 317 e Passivo 21
+Ativo 64 é rejeitado por Passivo 191
+Par desfeito entre Ativo 225 e Passivo 106
+Par formado entre Ativo 64 e Passivo 106
+Ativo 84 é rejeitado por Passivo 248
+Ativo 84 é rejeitado por Passivo 395
+Ativo 84 é rejeitado por Passivo 357
+Ativo 84 é rejeitado por Passivo 445
+Par desfeito entre Ativo 427 e Passivo 414
+Par formado entre Ativo 84 e Passivo 414
+Ativo 288 é rejeitado por Passivo 344
+Ativo 288 é rejeitado por Passivo 400
+Ativo 288 é rejeitado por Passivo 3
+Ativo 288 é rejeitado por Passivo 167
+Par desfeito entre Ativo 323 e Passivo 148
+Par formado entre Ativo 288 e Passivo 148
+Ativo 496 é rejeitado por Passivo 498
+Ativo 496 é rejeitado por Passivo 337
+Par desfeito entre Ativo 279 e Passivo 289
+Par formado entre Ativo 496 e Passivo 289
+Ativo 428 é rejeitado por Passivo 115
+Par formado entre Ativo 428 e Passivo 71
+Ativo 475 é rejeitado por Passivo 443
+Par formado entre Ativo 475 e Passivo 491
+Ativo 396 é rejeitado por Passivo 8
+Par desfeito entre Ativo 378 e Passivo 159
+Par formado entre Ativo 396 e Passivo 159
+Ativo 391 é rejeitado por Passivo 393
+Ativo 391 é rejeitado por Passivo 358
+Par formado entre Ativo 391 e Passivo 227
+Ativo 219 é rejeitado por Passivo 315
+Par formado entre Ativo 219 e Passivo 333
+Ativo 220 é rejeitado por Passivo 350
+Ativo 220 é rejeitado por Passivo 437
+Par formado entre Ativo 220 e Passivo 199
+Ativo 269 é rejeitado por Passivo 145
+Par formado entre Ativo 269 e Passivo 373
+Ativo 316 é rejeitado por Passivo 88
+Par desfeito entre Ativo 502 e Passivo 197
+Par formado entre Ativo 316 e Passivo 197
+Ativo 278 é rejeitado por Passivo 76
+Ativo 278 é rejeitado por Passivo 258
+Par formado entre Ativo 278 e Passivo 401
+Ativo 306 é rejeitado por Passivo 90
+Par desfeito entre Ativo 317 e Passivo 21
+Par formado entre Ativo 306 e Passivo 21
+Ativo 175 é rejeitado por Passivo 302
+Ativo 175 é rejeitado por Passivo 353
+Ativo 175 é rejeitado por Passivo 306
+Par desfeito entre Ativo 404 e Passivo 314
+Par formado entre Ativo 175 e Passivo 314
+Ativo 402 é rejeitado por Passivo 450
+Ativo 402 é rejeitado por Passivo 379
+Par desfeito entre Ativo 228 e Passivo 178
+Par formado entre Ativo 402 e Passivo 178
+Ativo 63 é rejeitado por Passivo 132
+Ativo 63 é rejeitado por Passivo 128
+Ativo 63 é rejeitado por Passivo 417
+Ativo 63 é rejeitado por Passivo 472
+Par desfeito entre Ativo 236 e Passivo 143
+Par formado entre Ativo 63 e Passivo 143
+Ativo 171 é rejeitado por Passivo 144
+Par desfeito entre Ativo 203 e Passivo 233
+Par formado entre Ativo 171 e Passivo 233
+Ativo 44 é rejeitado por Passivo 218
+Par formado entre Ativo 44 e Passivo 266
+Ativo 470 é rejeitado por Passivo 408
+Ativo 470 é rejeitado por Passivo 384
+Par desfeito entre Ativo 354 e Passivo 146
+Par formado entre Ativo 470 e Passivo 146
+Ativo 459 é rejeitado por Passivo 410
+Ativo 459 é rejeitado por Passivo 473
+Par desfeito entre Ativo 224 e Passivo 69
+Par formado entre Ativo 459 e Passivo 69
+Ativo 379 é rejeitado por Passivo 176
+Ativo 379 é rejeitado por Passivo 60
+Par desfeito entre Ativo 469 e Passivo 420
+Par formado entre Ativo 379 e Passivo 420
+Ativo 450 é rejeitado por Passivo 29
+Ativo 450 é rejeitado por Passivo 60
+Par desfeito entre Ativo 384 e Passivo 87
+Par formado entre Ativo 450 e Passivo 87
+Ativo 329 é rejeitado por Passivo 121
+Ativo 329 é rejeitado por Passivo 259
+Par desfeito entre Ativo 504 e Passivo 360
+Par formado entre Ativo 329 e Passivo 360
+Ativo 50 é rejeitado por Passivo 430
+Par formado entre Ativo 50 e Passivo 432
+Ativo 205 é rejeitado por Passivo 232
+Par desfeito entre Ativo 294 e Passivo 39
+Par formado entre Ativo 205 e Passivo 39
+Ativo 199 é rejeitado por Passivo 178
+Ativo 199 é rejeitado por Passivo 414
+Par formado entre Ativo 199 e Passivo 62
+Ativo 126 é rejeitado por Passivo 27
+Par desfeito entre Ativo 190 e Passivo 98
+Par formado entre Ativo 126 e Passivo 98
+Ativo 65 é rejeitado por Passivo 460
+Par formado entre Ativo 65 e Passivo 482
+Ativo 275 é rejeitado por Passivo 326
+Ativo 275 é rejeitado por Passivo 226
+Par desfeito entre Ativo 77 e Passivo 417
+Par formado entre Ativo 275 e Passivo 417
+Ativo 454 é rejeitado por Passivo 468
+Par desfeito entre Ativo 219 e Passivo 333
+Par formado entre Ativo 454 e Passivo 333
+Ativo 222 é rejeitado por Passivo 468
+Ativo 222 é rejeitado por Passivo 319
+Ativo 222 é rejeitado por Passivo 42
+Par desfeito entre Ativo 7 e Passivo 353
+Par formado entre Ativo 222 e Passivo 353
+Ativo 200 é rejeitado por Passivo 436
+Ativo 200 é rejeitado por Passivo 79
+Par desfeito entre Ativo 413 e Passivo 201
+Par formado entre Ativo 200 e Passivo 201
+Ativo 349 é rejeitado por Passivo 236
+Ativo 349 é rejeitado por Passivo 8
+Ativo 349 é rejeitado por Passivo 66
+Ativo 349 é rejeitado por Passivo 148
+Par desfeito entre Ativo 387 e Passivo 275
+Par formado entre Ativo 349 e Passivo 275
+Ativo 22 é rejeitado por Passivo 93
+Par desfeito entre Ativo 398 e Passivo 392
+Par formado entre Ativo 22 e Passivo 392
+Ativo 145 é rejeitado por Passivo 54
+Ativo 145 é rejeitado por Passivo 104
+Par desfeito entre Ativo 105 e Passivo 151
+Par formado entre Ativo 145 e Passivo 151
+Ativo 451 é rejeitado por Passivo 204
+Ativo 451 é rejeitado por Passivo 395
+Par formado entre Ativo 451 e Passivo 97
+Ativo 272 é rejeitado por Passivo 174
+Ativo 272 é rejeitado por Passivo 228
+Ativo 272 é rejeitado por Passivo 368
+Ativo 272 é rejeitado por Passivo 504
+Par desfeito entre Ativo 405 e Passivo 391
+Par formado entre Ativo 272 e Passivo 391
+Ativo 418 é rejeitado por Passivo 122
+Ativo 418 é rejeitado por Passivo 237
+Ativo 418 é rejeitado por Passivo 62
+Par desfeito entre Ativo 227 e Passivo 323
+Par formado entre Ativo 418 e Passivo 323
+Ativo 356 é rejeitado por Passivo 181
+Ativo 356 é rejeitado por Passivo 340
+Ativo 356 é rejeitado por Passivo 330
+Ativo 356 é rejeitado por Passivo 446
+Par desfeito entre Ativo 471 e Passivo 105
+Par formado entre Ativo 356 e Passivo 105
+Ativo 311 é rejeitado por Passivo 417
+Ativo 311 é rejeitado por Passivo 71
+Par formado entre Ativo 311 e Passivo 421
+Ativo 289 é rejeitado por Passivo 290
+Ativo 289 é rejeitado por Passivo 435
+Par desfeito entre Ativo 327 e Passivo 258
+Par formado entre Ativo 289 e Passivo 258
+Ativo 368 é rejeitado por Passivo 419
+Par desfeito entre Ativo 242 e Passivo 251
+Par formado entre Ativo 368 e Passivo 251
+Ativo 133 é rejeitado por Passivo 365
+Ativo 133 é rejeitado por Passivo 242
+Ativo 133 é rejeitado por Passivo 189
+Ativo 133 é rejeitado por Passivo 161
+Ativo 133 é rejeitado por Passivo 460
+Par desfeito entre Ativo 397 e Passivo 44
+Par formado entre Ativo 133 e Passivo 44
+Ativo 110 é rejeitado por Passivo 417
+Par desfeito entre Ativo 402 e Passivo 178
+Par formado entre Ativo 110 e Passivo 178
+Ativo 108 é rejeitado por Passivo 19
+Ativo 108 é rejeitado por Passivo 186
+Par desfeito entre Ativo 324 e Passivo 347
+Par formado entre Ativo 108 e Passivo 347
+Ativo 305 é rejeitado por Passivo 55
+Par desfeito entre Ativo 325 e Passivo 172
+Par formado entre Ativo 305 e Passivo 172
+Ativo 87 é rejeitado por Passivo 123
+Ativo 87 é rejeitado por Passivo 115
+Ativo 87 é rejeitado por Passivo 65
+Ativo 87 é rejeitado por Passivo 346
+Par formado entre Ativo 87 e Passivo 216
+Ativo 173 é rejeitado por Passivo 319
+Par desfeito entre Ativo 360 e Passivo 256
+Par formado entre Ativo 173 e Passivo 256
+Ativo 333 é rejeitado por Passivo 470
+Ativo 333 é rejeitado por Passivo 291
+Ativo 333 é rejeitado por Passivo 436
+Ativo 333 é rejeitado por Passivo 91
+Ativo 333 é rejeitado por Passivo 467
+Par desfeito entre Ativo 21 e Passivo 99
+Par formado entre Ativo 333 e Passivo 99
+Ativo 339 é rejeitado por Passivo 403
+Ativo 339 é rejeitado por Passivo 65
+Ativo 339 é rejeitado por Passivo 330
+Par desfeito entre Ativo 510 e Passivo 205
+Par formado entre Ativo 339 e Passivo 205
+Ativo 503 é rejeitado por Passivo 405
+Ativo 503 é rejeitado por Passivo 92
+Ativo 503 é rejeitado por Passivo 190
+Ativo 503 é rejeitado por Passivo 259
+Ativo 503 é rejeitado por Passivo 158
+Par desfeito entre Ativo 70 e Passivo 371
+Par formado entre Ativo 503 e Passivo 371
+Ativo 96 é rejeitado por Passivo 258
+Ativo 96 é rejeitado por Passivo 438
+Ativo 96 é rejeitado por Passivo 301
+Par formado entre Ativo 96 e Passivo 94
+Ativo 415 é rejeitado por Passivo 130
+Par desfeito entre Ativo 357 e Passivo 283
+Par formado entre Ativo 415 e Passivo 283
+Ativo 344 é rejeitado por Passivo 304
+Par desfeito entre Ativo 119 e Passivo 299
+Par formado entre Ativo 344 e Passivo 299
+Ativo 57 é rejeitado por Passivo 306
+Ativo 57 é rejeitado por Passivo 175
+Ativo 57 é rejeitado por Passivo 276
+Par desfeito entre Ativo 215 e Passivo 208
+Par formado entre Ativo 57 e Passivo 208
+Ativo 309 é rejeitado por Passivo 32
+Ativo 309 é rejeitado por Passivo 209
+Par desfeito entre Ativo 316 e Passivo 197
+Par formado entre Ativo 309 e Passivo 197
+Ativo 81 é rejeitado por Passivo 92
+Ativo 81 é rejeitado por Passivo 58
+Par desfeito entre Ativo 338 e Passivo 290
+Par formado entre Ativo 81 e Passivo 290
+Ativo 298 é rejeitado por Passivo 479
+Ativo 298 é rejeitado por Passivo 23
+Par desfeito entre Ativo 135 e Passivo 370
+Par formado entre Ativo 298 e Passivo 370
+Ativo 380 é rejeitado por Passivo 229
+Ativo 380 é rejeitado por Passivo 296
+Ativo 380 é rejeitado por Passivo 51
+Par formado entre Ativo 380 e Passivo 149
+Ativo 395 é rejeitado por Passivo 31
+Ativo 395 é rejeitado por Passivo 185
+Ativo 395 é rejeitado por Passivo 286
+Par formado entre Ativo 395 e Passivo 381
+Ativo 197 é rejeitado por Passivo 416
+Par desfeito entre Ativo 107 e Passivo 90
+Par formado entre Ativo 197 e Passivo 90
+Ativo 29 é rejeitado por Passivo 255
+Par desfeito entre Ativo 286 e Passivo 489
+Par formado entre Ativo 29 e Passivo 489
+Ativo 26 é rejeitado por Passivo 240
+Ativo 26 é rejeitado por Passivo 196
+Par formado entre Ativo 26 e Passivo 501
+Ativo 366 é rejeitado por Passivo 74
+Ativo 366 é rejeitado por Passivo 323
+Ativo 366 é rejeitado por Passivo 214
+Ativo 366 é rejeitado por Passivo 325
+Ativo 366 é rejeitado por Passivo 132
+Par desfeito entre Ativo 509 e Passivo 444
+Par formado entre Ativo 366 e Passivo 444
+Ativo 66 é rejeitado por Passivo 300
+Par desfeito entre Ativo 401 e Passivo 308
+Par formado entre Ativo 66 e Passivo 308
+Ativo 373 é rejeitado por Passivo 493
+Par formado entre Ativo 373 e Passivo 249
+Ativo 352 é rejeitado por Passivo 509
+Par desfeito entre Ativo 290 e Passivo 449
+Par formado entre Ativo 352 e Passivo 449
+Ativo 82 é rejeitado por Passivo 470
+Ativo 82 é rejeitado por Passivo 500
+Ativo 82 é rejeitado por Passivo 49
+Ativo 82 é rejeitado por Passivo 37
+Par formado entre Ativo 82 e Passivo 155
+Ativo 78 é rejeitado por Passivo 361
+Par desfeito entre Ativo 245 e Passivo 16
+Par formado entre Ativo 78 e Passivo 16
+Ativo 178 é rejeitado por Passivo 391
+Par desfeito entre Ativo 355 e Passivo 116
+Par formado entre Ativo 178 e Passivo 116
+Ativo 111 é rejeitado por Passivo 494
+Par desfeito entre Ativo 248 e Passivo 41
+Par formado entre Ativo 111 e Passivo 41
+Ativo 243 é rejeitado por Passivo 496
+Par desfeito entre Ativo 239 e Passivo 226
+Par formado entre Ativo 243 e Passivo 226
+Ativo 161 é rejeitado por Passivo 118
+Par desfeito entre Ativo 55 e Passivo 107
+Par formado entre Ativo 161 e Passivo 107
+Ativo 318 é rejeitado por Passivo 81
+Ativo 318 é rejeitado por Passivo 403
+Ativo 318 é rejeitado por Passivo 395
+Ativo 318 é rejeitado por Passivo 289
+Ativo 318 é rejeitado por Passivo 224
+Par desfeito entre Ativo 35 e Passivo 191
+Par formado entre Ativo 318 e Passivo 191
+Ativo 33 é rejeitado por Passivo 406
+Par desfeito entre Ativo 196 e Passivo 63
+Par formado entre Ativo 33 e Passivo 63
+Ativo 479 é rejeitado por Passivo 189
+Par desfeito entre Ativo 368 e Passivo 251
+Par formado entre Ativo 479 e Passivo 251
+Ativo 225 é rejeitado por Passivo 106
+Ativo 225 é rejeitado por Passivo 465
+Ativo 225 é rejeitado por Passivo 244
+Par desfeito entre Ativo 124 e Passivo 390
+Par formado entre Ativo 225 e Passivo 390
+Ativo 427 é rejeitado por Passivo 414
+Ativo 427 é rejeitado por Passivo 174
+Ativo 427 é rejeitado por Passivo 484
+Par desfeito entre Ativo 475 e Passivo 491
+Par formado entre Ativo 427 e Passivo 491
+Ativo 323 é rejeitado por Passivo 148
+Ativo 323 é rejeitado por Passivo 145
+Ativo 323 é rejeitado por Passivo 152
+Par formado entre Ativo 323 e Passivo 274
+Ativo 279 é rejeitado por Passivo 289
+Par desfeito entre Ativo 24 e Passivo 200
+Par formado entre Ativo 279 e Passivo 200
+Ativo 378 é rejeitado por Passivo 159
+Ativo 378 é rejeitado por Passivo 114
+Ativo 378 é rejeitado por Passivo 134
+Ativo 378 é rejeitado por Passivo 433
+Ativo 378 é rejeitado por Passivo 17
+Par desfeito entre Ativo 200 e Passivo 201
+Par formado entre Ativo 378 e Passivo 201
+Ativo 502 é rejeitado por Passivo 197
+Par desfeito entre Ativo 378 e Passivo 201
+Par formado entre Ativo 502 e Passivo 201
+Ativo 317 é rejeitado por Passivo 21
+Ativo 317 é rejeitado por Passivo 443
+Par formado entre Ativo 317 e Passivo 210
+Ativo 404 é rejeitado por Passivo 314
+Ativo 404 é rejeitado por Passivo 379
+Ativo 404 é rejeitado por Passivo 390
+Ativo 404 é rejeitado por Passivo 22
+Ativo 404 é rejeitado por Passivo 230
+Ativo 404 é rejeitado por Passivo 370
+Par formado entre Ativo 404 e Passivo 25
+Ativo 228 é rejeitado por Passivo 178
+Ativo 228 é rejeitado por Passivo 420
+Ativo 228 é rejeitado por Passivo 479
+Par desfeito entre Ativo 340 e Passivo 365
+Par formado entre Ativo 228 e Passivo 365
+Ativo 236 é rejeitado por Passivo 143
+Ativo 236 é rejeitado por Passivo 134
+Ativo 236 é rejeitado por Passivo 147
+Ativo 236 é rejeitado por Passivo 224
+Ativo 236 é rejeitado por Passivo 444
+Ativo 236 é rejeitado por Passivo 3
+Ativo 236 é rejeitado por Passivo 330
+Ativo 236 é rejeitado por Passivo 247
+Ativo 236 é rejeitado por Passivo 79
+Par desfeito entre Ativo 220 e Passivo 199
+Par formado entre Ativo 236 e Passivo 199
+Ativo 203 é rejeitado por Passivo 233
+Par desfeito entre Ativo 435 e Passivo 418
+Par formado entre Ativo 203 e Passivo 418
+Ativo 354 é rejeitado por Passivo 146
+Par formado entre Ativo 354 e Passivo 284
+Ativo 224 é rejeitado por Passivo 69
+Par desfeito entre Ativo 304 e Passivo 209
+Par formado entre Ativo 224 e Passivo 209
+Ativo 469 é rejeitado por Passivo 420
+Ativo 469 é rejeitado por Passivo 44
+Ativo 469 é rejeitado por Passivo 209
+Ativo 469 é rejeitado por Passivo 135
+Par desfeito entre Ativo 299 e Passivo 296
+Par formado entre Ativo 469 e Passivo 296
+Ativo 384 é rejeitado por Passivo 87
+Par desfeito entre Ativo 17 e Passivo 384
+Par formado entre Ativo 384 e Passivo 384
+Ativo 504 é rejeitado por Passivo 360
+Ativo 504 é rejeitado por Passivo 380
+Ativo 504 é rejeitado por Passivo 417
+Ativo 504 é rejeitado por Passivo 49
+Ativo 504 é rejeitado por Passivo 495
+Ativo 504 é rejeitado por Passivo 448
+Ativo 504 é rejeitado por Passivo 19
+Ativo 504 é rejeitado por Passivo 230
+Par desfeito entre Ativo 142 e Passivo 367
+Par formado entre Ativo 504 e Passivo 367
+Ativo 294 é rejeitado por Passivo 39
+Ativo 294 é rejeitado por Passivo 256
+Par desfeito entre Ativo 460 e Passivo 476
+Par formado entre Ativo 294 e Passivo 476
+Ativo 190 é rejeitado por Passivo 98
+Par formado entre Ativo 190 e Passivo 481
+Ativo 77 é rejeitado por Passivo 417
+Ativo 77 é rejeitado por Passivo 17
+Ativo 77 é rejeitado por Passivo 280
+Ativo 77 é rejeitado por Passivo 35
+Ativo 77 é rejeitado por Passivo 13
+Ativo 77 é rejeitado por Passivo 292
+Par desfeito entre Ativo 152 e Passivo 429
+Par formado entre Ativo 77 e Passivo 429
+Ativo 219 é rejeitado por Passivo 333
+Ativo 219 é rejeitado por Passivo 64
+Par desfeito entre Ativo 195 e Passivo 56
+Par formado entre Ativo 219 e Passivo 56
+Ativo 7 é rejeitado por Passivo 353
+Ativo 7 é rejeitado por Passivo 89
+Ativo 7 é rejeitado por Passivo 19
+Par desfeito entre Ativo 160 e Passivo 304
+Par formado entre Ativo 7 e Passivo 304
+Ativo 413 é rejeitado por Passivo 201
+Par desfeito entre Ativo 263 e Passivo 82
+Par formado entre Ativo 413 e Passivo 82
+Ativo 387 é rejeitado por Passivo 275
+Par formado entre Ativo 387 e Passivo 507
+Ativo 398 é rejeitado por Passivo 392
+Ativo 398 é rejeitado por Passivo 473
+Par desfeito entre Ativo 260 e Passivo 321
+Par formado entre Ativo 398 e Passivo 321
+Ativo 105 é rejeitado por Passivo 151
+Ativo 105 é rejeitado por Passivo 202
+Par desfeito entre Ativo 72 e Passivo 130
+Par formado entre Ativo 105 e Passivo 130
+Ativo 405 é rejeitado por Passivo 391
+Par formado entre Ativo 405 e Passivo 310
+Ativo 227 é rejeitado por Passivo 323
+Ativo 227 é rejeitado por Passivo 106
+Ativo 227 é rejeitado por Passivo 159
+Ativo 227 é rejeitado por Passivo 316
+Ativo 227 é rejeitado por Passivo 167
+Ativo 227 é rejeitado por Passivo 61
+Ativo 227 é rejeitado por Passivo 5
+Ativo 227 é rejeitado por Passivo 197
+Par desfeito entre Ativo 335 e Passivo 385
+Par formado entre Ativo 227 e Passivo 385
+Ativo 471 é rejeitado por Passivo 105
+Ativo 471 é rejeitado por Passivo 134
+Ativo 471 é rejeitado por Passivo 328
+Ativo 471 é rejeitado por Passivo 106
+Par desfeito entre Ativo 114 e Passivo 80
+Par formado entre Ativo 471 e Passivo 80
+Ativo 327 é rejeitado por Passivo 258
+Par desfeito entre Ativo 269 e Passivo 373
+Par formado entre Ativo 327 e Passivo 373
+Ativo 242 é rejeitado por Passivo 251
+Ativo 242 é rejeitado por Passivo 130
+Ativo 242 é rejeitado por Passivo 296
+Ativo 242 é rejeitado por Passivo 496
+Par desfeito entre Ativo 265 e Passivo 490
+Par formado entre Ativo 242 e Passivo 490
+Ativo 397 é rejeitado por Passivo 44
+Ativo 397 é rejeitado por Passivo 337
+Ativo 397 é rejeitado por Passivo 479
+Ativo 397 é rejeitado por Passivo 218
+Par formado entre Ativo 397 e Passivo 57
+Ativo 402 é rejeitado por Passivo 178
+Par desfeito entre Ativo 146 e Passivo 237
+Par formado entre Ativo 402 e Passivo 237
+Ativo 324 é rejeitado por Passivo 347
+Ativo 324 é rejeitado por Passivo 207
+Par desfeito entre Ativo 65 e Passivo 482
+Par formado entre Ativo 324 e Passivo 482
+Ativo 325 é rejeitado por Passivo 172
+Par desfeito entre Ativo 153 e Passivo 86
+Par formado entre Ativo 325 e Passivo 86
+Ativo 360 é rejeitado por Passivo 256
+Par desfeito entre Ativo 156 e Passivo 459
+Par formado entre Ativo 360 e Passivo 459
+Ativo 21 é rejeitado por Passivo 99
+Ativo 21 é rejeitado por Passivo 378
+Ativo 21 é rejeitado por Passivo 293
+Par desfeito entre Ativo 120 e Passivo 177
+Par formado entre Ativo 21 e Passivo 177
+Ativo 510 é rejeitado por Passivo 205
+Ativo 510 é rejeitado por Passivo 281
+Par desfeito entre Ativo 501 e Passivo 53
+Par formado entre Ativo 510 e Passivo 53
+Ativo 70 é rejeitado por Passivo 371
+Par desfeito entre Ativo 422 e Passivo 452
+Par formado entre Ativo 70 e Passivo 452
+Ativo 357 é rejeitado por Passivo 283
+Ativo 357 é rejeitado por Passivo 436
+Ativo 357 é rejeitado por Passivo 331
+Ativo 357 é rejeitado por Passivo 340
+Par formado entre Ativo 357 e Passivo 282
+Ativo 119 é rejeitado por Passivo 299
+Par desfeito entre Ativo 450 e Passivo 87
+Par formado entre Ativo 119 e Passivo 87
+Ativo 215 é rejeitado por Passivo 208
+Ativo 215 é rejeitado por Passivo 184
+Ativo 215 é rejeitado por Passivo 496
+Ativo 215 é rejeitado por Passivo 405
+Par desfeito entre Ativo 453 e Passivo 342
+Par formado entre Ativo 215 e Passivo 342
+Ativo 316 é rejeitado por Passivo 197
+Par desfeito entre Ativo 207 e Passivo 202
+Par formado entre Ativo 316 e Passivo 202
+Ativo 338 é rejeitado por Passivo 290
+Par desfeito entre Ativo 326 e Passivo 141
+Par formado entre Ativo 338 e Passivo 141
+Ativo 135 é rejeitado por Passivo 370
+Par desfeito entre Ativo 483 e Passivo 361
+Par formado entre Ativo 135 e Passivo 361
+Ativo 107 é rejeitado por Passivo 90
+Par desfeito entre Ativo 493 e Passivo 161
+Par formado entre Ativo 107 e Passivo 161
+Ativo 286 é rejeitado por Passivo 489
+Ativo 286 é rejeitado por Passivo 185
+Ativo 286 é rejeitado por Passivo 114
+Ativo 286 é rejeitado por Passivo 121
+Par formado entre Ativo 286 e Passivo 499
+Ativo 509 é rejeitado por Passivo 444
+Par desfeito entre Ativo 286 e Passivo 499
+Par formado entre Ativo 509 e Passivo 499
+Ativo 401 é rejeitado por Passivo 308
+Ativo 401 é rejeitado por Passivo 458
+Par desfeito entre Ativo 81 e Passivo 290
+Par formado entre Ativo 401 e Passivo 290
+Ativo 290 é rejeitado por Passivo 449
+Par desfeito entre Ativo 2 e Passivo 411
+Par formado entre Ativo 290 e Passivo 411
+Ativo 245 é rejeitado por Passivo 16
+Ativo 245 é rejeitado por Passivo 339
+Ativo 245 é rejeitado por Passivo 438
+Ativo 245 é rejeitado por Passivo 332
+Ativo 245 é rejeitado por Passivo 149
+Par formado entre Ativo 245 e Passivo 278
+Ativo 355 é rejeitado por Passivo 116
+Ativo 355 é rejeitado por Passivo 135
+Ativo 355 é rejeitado por Passivo 89
+Ativo 355 é rejeitado por Passivo 267
+Par desfeito entre Ativo 121 e Passivo 218
+Par formado entre Ativo 355 e Passivo 218
+Ativo 248 é rejeitado por Passivo 41
+Ativo 248 é rejeitado por Passivo 310
+Ativo 248 é rejeitado por Passivo 248
+Par formado entre Ativo 248 e Passivo 503
+Ativo 239 é rejeitado por Passivo 226
+Ativo 239 é rejeitado por Passivo 68
+Par formado entre Ativo 239 e Passivo 415
+Ativo 55 é rejeitado por Passivo 107
+Ativo 55 é rejeitado por Passivo 423
+Ativo 55 é rejeitado por Passivo 250
+Ativo 55 é rejeitado por Passivo 377
+Ativo 55 é rejeitado por Passivo 11
+Ativo 55 é rejeitado por Passivo 166
+Ativo 55 é rejeitado por Passivo 280
+Ativo 55 é rejeitado por Passivo 2
+Par desfeito entre Ativo 339 e Passivo 205
+Par formado entre Ativo 55 e Passivo 205
+Ativo 35 é rejeitado por Passivo 191
+Ativo 35 é rejeitado por Passivo 253
+Ativo 35 é rejeitado por Passivo 433
+Ativo 35 é rejeitado por Passivo 199
+Par desfeito entre Ativo 490 e Passivo 504
+Par formado entre Ativo 35 e Passivo 504
+Ativo 196 é rejeitado por Passivo 63
+Ativo 196 é rejeitado por Passivo 44
+Ativo 196 é rejeitado por Passivo 180
+Ativo 196 é rejeitado por Passivo 221
+Par formado entre Ativo 196 e Passivo 15
+Ativo 368 é rejeitado por Passivo 251
+Ativo 368 é rejeitado por Passivo 402
+Par desfeito entre Ativo 150 e Passivo 112
+Par formado entre Ativo 368 e Passivo 112
+Ativo 124 é rejeitado por Passivo 390
+Par desfeito entre Ativo 428 e Passivo 71
+Par formado entre Ativo 124 e Passivo 71
+Ativo 475 é rejeitado por Passivo 491
+Ativo 475 é rejeitado por Passivo 442
+Par desfeito entre Ativo 177 e Passivo 468
+Par formado entre Ativo 475 e Passivo 468
+Ativo 24 é rejeitado por Passivo 200
+Par desfeito entre Ativo 132 e Passivo 279
+Par formado entre Ativo 24 e Passivo 279
+Ativo 200 é rejeitado por Passivo 201
+Par desfeito entre Ativo 137 e Passivo 239
+Par formado entre Ativo 200 e Passivo 239
+Ativo 378 é rejeitado por Passivo 201
+Ativo 378 é rejeitado por Passivo 402
+Ativo 378 é rejeitado por Passivo 361
+Ativo 378 é rejeitado por Passivo 399
+Ativo 378 é rejeitado por Passivo 386
+Par desfeito entre Ativo 248 e Passivo 503
+Par formado entre Ativo 378 e Passivo 503
+Ativo 340 é rejeitado por Passivo 365
+Par desfeito entre Ativo 163 e Passivo 403
+Par formado entre Ativo 340 e Passivo 403
+Ativo 220 é rejeitado por Passivo 199
+Ativo 220 é rejeitado por Passivo 152
+Ativo 220 é rejeitado por Passivo 340
+Par desfeito entre Ativo 30 e Passivo 287
+Par formado entre Ativo 220 e Passivo 287
+Ativo 435 é rejeitado por Passivo 418
+Par desfeito entre Ativo 464 e Passivo 288
+Par formado entre Ativo 435 e Passivo 288
+Ativo 304 é rejeitado por Passivo 209
+Ativo 304 é rejeitado por Passivo 495
+Ativo 304 é rejeitado por Passivo 337
+Par desfeito entre Ativo 276 e Passivo 54
+Par formado entre Ativo 304 e Passivo 54
+Ativo 299 é rejeitado por Passivo 296
+Ativo 299 é rejeitado por Passivo 239
+Ativo 299 é rejeitado por Passivo 431
+Ativo 299 é rejeitado por Passivo 421
+Ativo 299 é rejeitado por Passivo 465
+Par desfeito entre Ativo 83 e Passivo 464
+Par formado entre Ativo 299 e Passivo 464
+Ativo 17 é rejeitado por Passivo 384
+Ativo 17 é rejeitado por Passivo 411
+Par desfeito entre Ativo 61 e Passivo 408
+Par formado entre Ativo 17 e Passivo 408
+Ativo 142 é rejeitado por Passivo 367
+Ativo 142 é rejeitado por Passivo 366
+Ativo 142 é rejeitado por Passivo 463
+Ativo 142 é rejeitado por Passivo 49
+Par formado entre Ativo 142 e Passivo 317
+Ativo 460 é rejeitado por Passivo 476
+Par desfeito entre Ativo 194 e Passivo 427
+Par formado entre Ativo 460 e Passivo 427
+Ativo 152 é rejeitado por Passivo 429
+Ativo 152 é rejeitado por Passivo 302
+Ativo 152 é rejeitado por Passivo 119
+Ativo 152 é rejeitado por Passivo 128
+Ativo 152 é rejeitado por Passivo 107
+Ativo 152 é rejeitado por Passivo 412
+Ativo 152 é rejeitado por Passivo 117
+Ativo 152 é rejeitado por Passivo 120
+Ativo 152 é rejeitado por Passivo 207
+Ativo 152 é rejeitado por Passivo 267
+Ativo 152 é rejeitado por Passivo 127
+Par desfeito entre Ativo 449 e Passivo 372
+Par formado entre Ativo 152 e Passivo 372
+Ativo 195 é rejeitado por Passivo 56
+Ativo 195 é rejeitado por Passivo 429
+Ativo 195 é rejeitado por Passivo 276
+Par formado entre Ativo 195 e Passivo 100
+Ativo 160 é rejeitado por Passivo 304
+Ativo 160 é rejeitado por Passivo 296
+Par desfeito entre Ativo 57 e Passivo 208
+Par formado entre Ativo 160 e Passivo 208
+Ativo 263 é rejeitado por Passivo 82
+Par desfeito entre Ativo 26 e Passivo 501
+Par formado entre Ativo 263 e Passivo 501
+Ativo 260 é rejeitado por Passivo 321
+Par formado entre Ativo 260 e Passivo 26
+Ativo 72 é rejeitado por Passivo 130
+Ativo 72 é rejeitado por Passivo 196
+Ativo 72 é rejeitado por Passivo 45
+Ativo 72 é rejeitado por Passivo 35
+Ativo 72 é rejeitado por Passivo 333
+Ativo 72 é rejeitado por Passivo 137
+Ativo 72 é rejeitado por Passivo 364
+Ativo 72 é rejeitado por Passivo 438
+Par desfeito entre Ativo 258 e Passivo 14
+Par formado entre Ativo 72 e Passivo 14
+Ativo 335 é rejeitado por Passivo 385
+Ativo 335 é rejeitado por Passivo 97
+Ativo 335 é rejeitado por Passivo 51
+Ativo 335 é rejeitado por Passivo 79
+Ativo 335 é rejeitado por Passivo 18
+Ativo 335 é rejeitado por Passivo 494
+Par desfeito entre Ativo 435 e Passivo 288
+Par formado entre Ativo 335 e Passivo 288
+Ativo 114 é rejeitado por Passivo 80
+Ativo 114 é rejeitado por Passivo 353
+Ativo 114 é rejeitado por Passivo 133
+Ativo 114 é rejeitado por Passivo 144
+Ativo 114 é rejeitado por Passivo 395
+Ativo 114 é rejeitado por Passivo 177
+Ativo 114 é rejeitado por Passivo 439
+Par desfeito entre Ativo 408 e Passivo 307
+Par formado entre Ativo 114 e Passivo 307
+Ativo 269 é rejeitado por Passivo 373
+Par formado entre Ativo 269 e Passivo 394
+Ativo 265 é rejeitado por Passivo 490
+Par desfeito entre Ativo 400 e Passivo 67
+Par formado entre Ativo 265 e Passivo 67
+Ativo 146 é rejeitado por Passivo 237
+Ativo 146 é rejeitado por Passivo 211
+Ativo 146 é rejeitado por Passivo 114
+Par desfeito entre Ativo 227 e Passivo 385
+Par formado entre Ativo 146 e Passivo 385
+Ativo 65 é rejeitado por Passivo 482
+Ativo 65 é rejeitado por Passivo 418
+Ativo 65 é rejeitado por Passivo 259
+Ativo 65 é rejeitado por Passivo 406
+Ativo 65 é rejeitado por Passivo 500
+Ativo 65 é rejeitado por Passivo 178
+Ativo 65 é rejeitado por Passivo 353
+Ativo 65 é rejeitado por Passivo 296
+Ativo 65 é rejeitado por Passivo 29
+Ativo 65 é rejeitado por Passivo 384
+Ativo 65 é rejeitado por Passivo 84
+Ativo 65 é rejeitado por Passivo 509
+Ativo 65 é rejeitado por Passivo 251
+Par formado entre Ativo 65 e Passivo 195
+Ativo 153 é rejeitado por Passivo 86
+Ativo 153 é rejeitado por Passivo 229
+Par desfeito entre Ativo 505 e Passivo 469
+Par formado entre Ativo 153 e Passivo 469
+Ativo 156 é rejeitado por Passivo 459
+Par formado entre Ativo 156 e Passivo 73
+Ativo 120 é rejeitado por Passivo 177
+Ativo 120 é rejeitado por Passivo 35
+Par desfeito entre Ativo 87 e Passivo 216
+Par formado entre Ativo 120 e Passivo 216
+Ativo 501 é rejeitado por Passivo 53
+Par desfeito entre Ativo 391 e Passivo 227
+Par formado entre Ativo 501 e Passivo 227
+Ativo 422 é rejeitado por Passivo 452
+Ativo 422 é rejeitado por Passivo 181
+Par desfeito entre Ativo 495 e Passivo 70
+Par formado entre Ativo 422 e Passivo 70
+Ativo 450 é rejeitado por Passivo 87
+Ativo 450 é rejeitado por Passivo 91
+Ativo 450 é rejeitado por Passivo 155
+Ativo 450 é rejeitado por Passivo 131
+Par desfeito entre Ativo 269 e Passivo 394
+Par formado entre Ativo 450 e Passivo 394
+Ativo 453 é rejeitado por Passivo 342
+Ativo 453 é rejeitado por Passivo 79
+Par desfeito entre Ativo 118 e Passivo 396
+Par formado entre Ativo 453 e Passivo 396
+Ativo 207 é rejeitado por Passivo 202
+Par desfeito entre Ativo 226 e Passivo 131
+Par formado entre Ativo 207 e Passivo 131
+Ativo 326 é rejeitado por Passivo 141
+Par desfeito entre Ativo 341 e Passivo 238
+Par formado entre Ativo 326 e Passivo 238
+Ativo 483 é rejeitado por Passivo 361
+Ativo 483 é rejeitado por Passivo 154
+Ativo 483 é rejeitado por Passivo 116
+Ativo 483 é rejeitado por Passivo 351
+Par desfeito entre Ativo 390 e Passivo 171
+Par formado entre Ativo 483 e Passivo 171
+Ativo 493 é rejeitado por Passivo 161
+Ativo 493 é rejeitado por Passivo 449
+Ativo 493 é rejeitado por Passivo 287
+Ativo 493 é rejeitado por Passivo 27
+Par desfeito entre Ativo 20 e Passivo 344
+Par formado entre Ativo 493 e Passivo 344
+Ativo 286 é rejeitado por Passivo 499
+Ativo 286 é rejeitado por Passivo 355
+Par desfeito entre Ativo 278 e Passivo 401
+Par formado entre Ativo 286 e Passivo 401
+Ativo 81 é rejeitado por Passivo 290
+Par desfeito entre Ativo 154 e Passivo 111
+Par formado entre Ativo 81 e Passivo 111
+Ativo 2 é rejeitado por Passivo 411
+Ativo 2 é rejeitado por Passivo 337
+Ativo 2 é rejeitado por Passivo 18
+Ativo 2 é rejeitado por Passivo 175
+Ativo 2 é rejeitado por Passivo 209
+Ativo 2 é rejeitado por Passivo 329
+Par desfeito entre Ativo 439 e Passivo 416
+Par formado entre Ativo 2 e Passivo 416
+Ativo 121 é rejeitado por Passivo 218
+Par desfeito entre Ativo 249 e Passivo 230
+Par formado entre Ativo 121 e Passivo 230
+Ativo 339 é rejeitado por Passivo 205
+Ativo 339 é rejeitado por Passivo 171
+Par formado entre Ativo 339 e Passivo 260
+Ativo 490 é rejeitado por Passivo 504
+Ativo 490 é rejeitado por Passivo 462
+Ativo 490 é rejeitado por Passivo 197
+Par desfeito entre Ativo 78 e Passivo 16
+Par formado entre Ativo 490 e Passivo 16
+Ativo 150 é rejeitado por Passivo 112
+Par desfeito entre Ativo 424 e Passivo 175
+Par formado entre Ativo 150 e Passivo 175
+Ativo 428 é rejeitado por Passivo 71
+Ativo 428 é rejeitado por Passivo 415
+Ativo 428 é rejeitado por Passivo 381
+Ativo 428 é rejeitado por Passivo 5
+Ativo 428 é rejeitado por Passivo 403
+Ativo 428 é rejeitado por Passivo 376
+Ativo 428 é rejeitado por Passivo 440
+Ativo 428 é rejeitado por Passivo 302
+Ativo 428 é rejeitado por Passivo 167
+Par desfeito entre Ativo 492 e Passivo 492
+Par formado entre Ativo 428 e Passivo 492
+Ativo 177 é rejeitado por Passivo 468
+Ativo 177 é rejeitado por Passivo 301
+Ativo 177 é rejeitado por Passivo 416
+Ativo 177 é rejeitado por Passivo 374
+Par desfeito entre Ativo 122 e Passivo 343
+Par formado entre Ativo 177 e Passivo 343
+Ativo 132 é rejeitado por Passivo 279
+Par desfeito entre Ativo 51 e Passivo 96
+Par formado entre Ativo 132 e Passivo 96
+Ativo 137 é rejeitado por Passivo 239
+Ativo 137 é rejeitado por Passivo 436
+Ativo 137 é rejeitado por Passivo 28
+Ativo 137 é rejeitado por Passivo 27
+Ativo 137 é rejeitado por Passivo 292
+Par desfeito entre Ativo 232 e Passivo 166
+Par formado entre Ativo 137 e Passivo 166
+Ativo 248 é rejeitado por Passivo 503
+Ativo 248 é rejeitado por Passivo 268
+Ativo 248 é rejeitado por Passivo 337
+Ativo 248 é rejeitado por Passivo 3
+Ativo 248 é rejeitado por Passivo 273
+Par desfeito entre Ativo 436 e Passivo 113
+Par formado entre Ativo 248 e Passivo 113
+Ativo 163 é rejeitado por Passivo 403
+Par desfeito entre Ativo 8 e Passivo 43
+Par formado entre Ativo 163 e Passivo 43
+Ativo 30 é rejeitado por Passivo 287
+Par formado entre Ativo 30 e Passivo 510
+Ativo 464 é rejeitado por Passivo 288
+Ativo 464 é rejeitado por Passivo 117
+Par desfeito entre Ativo 458 e Passivo 462
+Par formado entre Ativo 464 e Passivo 462
+Ativo 276 é rejeitado por Passivo 54
+Par desfeito entre Ativo 214 e Passivo 81
+Par formado entre Ativo 276 e Passivo 81
+Ativo 83 é rejeitado por Passivo 464
+Ativo 83 é rejeitado por Passivo 238
+Ativo 83 é rejeitado por Passivo 377
+Ativo 83 é rejeitado por Passivo 125
+Par desfeito entre Ativo 66 e Passivo 308
+Par formado entre Ativo 83 e Passivo 308
+Ativo 61 é rejeitado por Passivo 408
+Ativo 61 é rejeitado por Passivo 361
+Ativo 61 é rejeitado por Passivo 75
+Ativo 61 é rejeitado por Passivo 69
+Par desfeito entre Ativo 304 e Passivo 54
+Par formado entre Ativo 61 e Passivo 54
+Ativo 194 é rejeitado por Passivo 427
+Par desfeito entre Ativo 263 e Passivo 501
+Par formado entre Ativo 194 e Passivo 501
+Ativo 449 é rejeitado por Passivo 372
+Ativo 449 é rejeitado por Passivo 250
+Par desfeito entre Ativo 70 e Passivo 452
+Par formado entre Ativo 449 e Passivo 452
+Ativo 57 é rejeitado por Passivo 208
+Ativo 57 é rejeitado por Passivo 41
+Ativo 57 é rejeitado por Passivo 177
+Par desfeito entre Ativo 386 e Passivo 383
+Par formado entre Ativo 57 e Passivo 383
+Ativo 26 é rejeitado por Passivo 501
+Par desfeito entre Ativo 155 e Passivo 450
+Par formado entre Ativo 26 e Passivo 450
+Ativo 258 é rejeitado por Passivo 14
+Ativo 258 é rejeitado por Passivo 22
+Ativo 258 é rejeitado por Passivo 409
+Par desfeito entre Ativo 356 e Passivo 105
+Par formado entre Ativo 258 e Passivo 105
+Ativo 435 é rejeitado por Passivo 288
+Par formado entre Ativo 435 e Passivo 183
+Ativo 408 é rejeitado por Passivo 307
+Ativo 408 é rejeitado por Passivo 167
+Ativo 408 é rejeitado por Passivo 290
+Ativo 408 é rejeitado por Passivo 435
+Ativo 408 é rejeitado por Passivo 487
+Ativo 408 é rejeitado por Passivo 296
+Ativo 408 é rejeitado por Passivo 190
+Ativo 408 é rejeitado por Passivo 8
+Ativo 408 é rejeitado por Passivo 323
+Ativo 408 é rejeitado por Passivo 416
+Ativo 408 é rejeitado por Passivo 188
+Par desfeito entre Ativo 41 e Passivo 173
+Par formado entre Ativo 408 e Passivo 173
+Ativo 400 é rejeitado por Passivo 67
+Ativo 400 é rejeitado por Passivo 220
+Ativo 400 é rejeitado por Passivo 48
+Par formado entre Ativo 400 e Passivo 322
+Ativo 227 é rejeitado por Passivo 385
+Par formado entre Ativo 227 e Passivo 338
+Ativo 505 é rejeitado por Passivo 469
+Ativo 505 é rejeitado por Passivo 457
+Ativo 505 é rejeitado por Passivo 398
+Par desfeito entre Ativo 28 e Passivo 243
+Par formado entre Ativo 505 e Passivo 243
+Ativo 87 é rejeitado por Passivo 216
+Ativo 87 é rejeitado por Passivo 279
+Par formado entre Ativo 87 e Passivo 263
+Ativo 391 é rejeitado por Passivo 227
+Par desfeito entre Ativo 365 e Passivo 331
+Par formado entre Ativo 391 e Passivo 331
+Ativo 495 é rejeitado por Passivo 70
+Ativo 495 é rejeitado por Passivo 267
+Ativo 495 é rejeitado por Passivo 427
+Par desfeito entre Ativo 250 e Passivo 502
+Par formado entre Ativo 495 e Passivo 502
+Ativo 269 é rejeitado por Passivo 394
+Par desfeito entre Ativo 201 e Passivo 47
+Par formado entre Ativo 269 e Passivo 47
+Ativo 118 é rejeitado por Passivo 396
+Ativo 118 é rejeitado por Passivo 350
+Ativo 118 é rejeitado por Passivo 328
+Ativo 118 é rejeitado por Passivo 174
+Ativo 118 é rejeitado por Passivo 124
+Ativo 118 é rejeitado por Passivo 334
+Ativo 118 é rejeitado por Passivo 269
+Ativo 118 é rejeitado por Passivo 510
+Par formado entre Ativo 118 e Passivo 213
+Ativo 226 é rejeitado por Passivo 131
+Ativo 226 é rejeitado por Passivo 337
+Ativo 226 é rejeitado por Passivo 481
+Ativo 226 é rejeitado por Passivo 68
+Par desfeito entre Ativo 343 e Passivo 140
+Par formado entre Ativo 226 e Passivo 140
+Ativo 341 é rejeitado por Passivo 238
+Ativo 341 é rejeitado por Passivo 260
+Par desfeito entre Ativo 336 e Passivo 19
+Par formado entre Ativo 341 e Passivo 19
+Ativo 390 é rejeitado por Passivo 171
+Ativo 390 é rejeitado por Passivo 342
+Ativo 390 é rejeitado por Passivo 442
+Ativo 390 é rejeitado por Passivo 129
+Ativo 390 é rejeitado por Passivo 132
+Ativo 390 é rejeitado por Passivo 396
+Ativo 390 é rejeitado por Passivo 341
+Par desfeito entre Ativo 63 e Passivo 143
+Par formado entre Ativo 390 e Passivo 143
+Ativo 20 é rejeitado por Passivo 344
+Par formado entre Ativo 20 e Passivo 461
+Ativo 278 é rejeitado por Passivo 401
+Par formado entre Ativo 278 e Passivo 103
+Ativo 154 é rejeitado por Passivo 111
+Ativo 154 é rejeitado por Passivo 409
+Ativo 154 é rejeitado por Passivo 57
+Par desfeito entre Ativo 359 e Passivo 505
+Par formado entre Ativo 154 e Passivo 505
+Ativo 439 é rejeitado por Passivo 416
+Ativo 439 é rejeitado por Passivo 265
+Par formado entre Ativo 439 e Passivo 36
+Ativo 249 é rejeitado por Passivo 230
+Ativo 249 é rejeitado por Passivo 122
+Par desfeito entre Ativo 385 e Passivo 28
+Par formado entre Ativo 249 e Passivo 28
+Ativo 78 é rejeitado por Passivo 16
+Ativo 78 é rejeitado por Passivo 205
+Ativo 78 é rejeitado por Passivo 237
+Par desfeito entre Ativo 292 e Passivo 139
+Par formado entre Ativo 78 e Passivo 139
+Ativo 424 é rejeitado por Passivo 175
+Par desfeito entre Ativo 168 e Passivo 375
+Par formado entre Ativo 424 e Passivo 375
+Ativo 492 é rejeitado por Passivo 492
+Ativo 492 é rejeitado por Passivo 193
+Par desfeito entre Ativo 42 e Passivo 170
+Par formado entre Ativo 492 e Passivo 170
+Ativo 122 é rejeitado por Passivo 343
+Ativo 122 é rejeitado por Passivo 502
+Par desfeito entre Ativo 295 e Passivo 52
+Par formado entre Ativo 122 e Passivo 52
+Ativo 51 é rejeitado por Passivo 96
+Ativo 51 é rejeitado por Passivo 494
+Ativo 51 é rejeitado por Passivo 37
+Ativo 51 é rejeitado por Passivo 433
+Ativo 51 é rejeitado por Passivo 468
+Ativo 51 é rejeitado por Passivo 2
+Par desfeito entre Ativo 348 e Passivo 509
+Par formado entre Ativo 51 e Passivo 509
+Ativo 232 é rejeitado por Passivo 166
+Ativo 232 é rejeitado por Passivo 107
+Par formado entre Ativo 232 e Passivo 223
+Ativo 436 é rejeitado por Passivo 113
+Par desfeito entre Ativo 223 e Passivo 297
+Par formado entre Ativo 436 e Passivo 297
+Ativo 8 é rejeitado por Passivo 43
+Ativo 8 é rejeitado por Passivo 103
+Ativo 8 é rejeitado por Passivo 178
+Ativo 8 é rejeitado por Passivo 119
+Par formado entre Ativo 8 e Passivo 352
+Ativo 458 é rejeitado por Passivo 462
+Ativo 458 é rejeitado por Passivo 116
+Par formado entre Ativo 458 e Passivo 356
+Ativo 214 é rejeitado por Passivo 81
+Par desfeito entre Ativo 476 e Passivo 463
+Par formado entre Ativo 214 e Passivo 463
+Ativo 66 é rejeitado por Passivo 308
+Ativo 66 é rejeitado por Passivo 420
+Ativo 66 é rejeitado por Passivo 18
+Ativo 66 é rejeitado por Passivo 310
+Par desfeito entre Ativo 161 e Passivo 107
+Par formado entre Ativo 66 e Passivo 107
+Ativo 304 é rejeitado por Passivo 54
+Ativo 304 é rejeitado por Passivo 427
+Par desfeito entre Ativo 79 e Passivo 425
+Par formado entre Ativo 304 e Passivo 425
+Ativo 263 é rejeitado por Passivo 501
+Ativo 263 é rejeitado por Passivo 63
+Ativo 263 é rejeitado por Passivo 135
+Ativo 263 é rejeitado por Passivo 486
+Ativo 263 é rejeitado por Passivo 181
+Ativo 263 é rejeitado por Passivo 285
+Ativo 263 é rejeitado por Passivo 495
+Ativo 263 é rejeitado por Passivo 121
+Ativo 263 é rejeitado por Passivo 434
+Ativo 263 é rejeitado por Passivo 194
+Par desfeito entre Ativo 269 e Passivo 47
+Par formado entre Ativo 263 e Passivo 47
+Ativo 70 é rejeitado por Passivo 452
+Par desfeito entre Ativo 339 e Passivo 260
+Par formado entre Ativo 70 e Passivo 260
+Ativo 386 é rejeitado por Passivo 383
+Ativo 386 é rejeitado por Passivo 91
+Ativo 386 é rejeitado por Passivo 269
+Par desfeito entre Ativo 194 e Passivo 501
+Par formado entre Ativo 386 e Passivo 501
+Ativo 155 é rejeitado por Passivo 450
+Ativo 155 é rejeitado por Passivo 461
+Ativo 155 é rejeitado por Passivo 224
+Ativo 155 é rejeitado por Passivo 214
+Ativo 155 é rejeitado por Passivo 234
+Ativo 155 é rejeitado por Passivo 501
+Ativo 155 é rejeitado por Passivo 98
+Ativo 155 é rejeitado por Passivo 202
+Ativo 155 é rejeitado por Passivo 338
+Par desfeito entre Ativo 15 e Passivo 102
+Par formado entre Ativo 155 e Passivo 102
+Ativo 356 é rejeitado por Passivo 105
+Ativo 356 é rejeitado por Passivo 8
+Ativo 356 é rejeitado por Passivo 242
+Ativo 356 é rejeitado por Passivo 233
+Ativo 356 é rejeitado por Passivo 171
+Par desfeito entre Ativo 247 e Passivo 380
+Par formado entre Ativo 356 e Passivo 380
+Ativo 41 é rejeitado por Passivo 173
+Ativo 41 é rejeitado por Passivo 423
+Par formado entre Ativo 41 e Passivo 182
+Ativo 28 é rejeitado por Passivo 243
+Par desfeito entre Ativo 420 e Passivo 378
+Par formado entre Ativo 28 e Passivo 378
+Ativo 365 é rejeitado por Passivo 331
+Ativo 365 é rejeitado por Passivo 135
+Ativo 365 é rejeitado por Passivo 444
+Par desfeito entre Ativo 361 e Passivo 23
+Par formado entre Ativo 365 e Passivo 23
+Ativo 250 é rejeitado por Passivo 502
+Par desfeito entre Ativo 452 e Passivo 306
+Par formado entre Ativo 250 e Passivo 306
+Ativo 201 é rejeitado por Passivo 47
+Ativo 201 é rejeitado por Passivo 372
+Ativo 201 é rejeitado por Passivo 54
+Ativo 201 é rejeitado por Passivo 246
+Ativo 201 é rejeitado por Passivo 30
+Ativo 201 é rejeitado por Passivo 78
+Par formado entre Ativo 201 e Passivo 488
+Ativo 343 é rejeitado por Passivo 140
+Par desfeito entre Ativo 138 e Passivo 434
+Par formado entre Ativo 343 e Passivo 434
+Ativo 336 é rejeitado por Passivo 19
+Ativo 336 é rejeitado por Passivo 185
+Ativo 336 é rejeitado por Passivo 353
+Ativo 336 é rejeitado por Passivo 387
+Ativo 336 é rejeitado por Passivo 99
+Ativo 336 é rejeitado por Passivo 470
+Ativo 336 é rejeitado por Passivo 201
+Ativo 336 é rejeitado por Passivo 495
+Par desfeito entre Ativo 448 e Passivo 138
+Par formado entre Ativo 336 e Passivo 138
+Ativo 63 é rejeitado por Passivo 143
+Par desfeito entre Ativo 404 e Passivo 25
+Par formado entre Ativo 63 e Passivo 25
+Ativo 359 é rejeitado por Passivo 505
+Ativo 359 é rejeitado por Passivo 289
+Par desfeito entre Ativo 130 e Passivo 305
+Par formado entre Ativo 359 e Passivo 305
+Ativo 385 é rejeitado por Passivo 28
+Ativo 385 é rejeitado por Passivo 39
+Par desfeito entre Ativo 507 e Passivo 357
+Par formado entre Ativo 385 e Passivo 357
+Ativo 292 é rejeitado por Passivo 139
+Ativo 292 é rejeitado por Passivo 366
+Ativo 292 é rejeitado por Passivo 468
+Ativo 292 é rejeitado por Passivo 55
+Ativo 292 é rejeitado por Passivo 240
+Ativo 292 é rejeitado por Passivo 253
+Par desfeito entre Ativo 231 e Passivo 406
+Par formado entre Ativo 292 e Passivo 406
+Ativo 168 é rejeitado por Passivo 375
+Par desfeito entre Ativo 304 e Passivo 425
+Par formado entre Ativo 168 e Passivo 425
+Ativo 42 é rejeitado por Passivo 170
+Par desfeito entre Ativo 429 e Passivo 335
+Par formado entre Ativo 42 e Passivo 335
+Ativo 295 é rejeitado por Passivo 52
+Ativo 295 é rejeitado por Passivo 375
+Par desfeito entre Ativo 65 e Passivo 195
+Par formado entre Ativo 295 e Passivo 195
+Ativo 348 é rejeitado por Passivo 509
+Ativo 348 é rejeitado por Passivo 374
+Ativo 348 é rejeitado por Passivo 57
+Par desfeito entre Ativo 295 e Passivo 195
+Par formado entre Ativo 348 e Passivo 195
+Ativo 223 é rejeitado por Passivo 297
+Ativo 223 é rejeitado por Passivo 404
+Par desfeito entre Ativo 86 e Passivo 309
+Par formado entre Ativo 223 e Passivo 309
+Ativo 476 é rejeitado por Passivo 463
+Ativo 476 é rejeitado por Passivo 399
+Ativo 476 é rejeitado por Passivo 315
+Ativo 476 é rejeitado por Passivo 58
+Par desfeito entre Ativo 332 e Passivo 326
+Par formado entre Ativo 476 e Passivo 326
+Ativo 161 é rejeitado por Passivo 107
+Ativo 161 é rejeitado por Passivo 495
+Ativo 161 é rejeitado por Passivo 269
+Ativo 161 é rejeitado por Passivo 371
+Ativo 161 é rejeitado por Passivo 198
+Par desfeito entre Ativo 87 e Passivo 263
+Par formado entre Ativo 161 e Passivo 263
+Ativo 79 é rejeitado por Passivo 425
+Ativo 79 é rejeitado por Passivo 47
+Ativo 79 é rejeitado por Passivo 481
+Ativo 79 é rejeitado por Passivo 482
+Ativo 79 é rejeitado por Passivo 213
+Ativo 79 é rejeitado por Passivo 295
+Ativo 79 é rejeitado por Passivo 95
+Par desfeito entre Ativo 44 e Passivo 266
+Par formado entre Ativo 79 e Passivo 266
+Ativo 269 é rejeitado por Passivo 47
+Par desfeito entre Ativo 324 e Passivo 482
+Par formado entre Ativo 269 e Passivo 482
+Ativo 339 é rejeitado por Passivo 260
+Ativo 339 é rejeitado por Passivo 200
+Ativo 339 é rejeitado por Passivo 133
+Par desfeito entre Ativo 408 e Passivo 173
+Par formado entre Ativo 339 e Passivo 173
+Ativo 194 é rejeitado por Passivo 501
+Ativo 194 é rejeitado por Passivo 93
+Par desfeito entre Ativo 299 e Passivo 464
+Par formado entre Ativo 194 e Passivo 464
+Ativo 15 é rejeitado por Passivo 102
+Ativo 15 é rejeitado por Passivo 414
+Ativo 15 é rejeitado por Passivo 76
+Ativo 15 é rejeitado por Passivo 79
+Ativo 15 é rejeitado por Passivo 382
+Par desfeito entre Ativo 160 e Passivo 208
+Par formado entre Ativo 15 e Passivo 208
+Ativo 247 é rejeitado por Passivo 380
+Par desfeito entre Ativo 238 e Passivo 109
+Par formado entre Ativo 247 e Passivo 109
+Ativo 420 é rejeitado por Passivo 378
+Ativo 420 é rejeitado por Passivo 445
+Ativo 420 é rejeitado por Passivo 300
+Ativo 420 é rejeitado por Passivo 431
+Par desfeito entre Ativo 260 e Passivo 26
+Par formado entre Ativo 420 e Passivo 26
+Ativo 361 é rejeitado por Passivo 23
+Ativo 361 é rejeitado por Passivo 307
+Par desfeito entre Ativo 355 e Passivo 218
+Par formado entre Ativo 361 e Passivo 218
+Ativo 452 é rejeitado por Passivo 306
+Ativo 452 é rejeitado por Passivo 12
+Ativo 452 é rejeitado por Passivo 105
+Ativo 452 é rejeitado por Passivo 263
+Ativo 452 é rejeitado por Passivo 412
+Ativo 452 é rejeitado por Passivo 115
+Par desfeito entre Ativo 365 e Passivo 23
+Par formado entre Ativo 452 e Passivo 23
+Ativo 138 é rejeitado por Passivo 434
+Par desfeito entre Ativo 248 e Passivo 113
+Par formado entre Ativo 138 e Passivo 113
+Ativo 448 é rejeitado por Passivo 138
+Par formado entre Ativo 448 e Passivo 312
+Ativo 404 é rejeitado por Passivo 25
+Par desfeito entre Ativo 499 e Passivo 75
+Par formado entre Ativo 404 e Passivo 75
+Ativo 130 é rejeitado por Passivo 305
+Par desfeito entre Ativo 330 e Passivo 320
+Par formado entre Ativo 130 e Passivo 320
+Ativo 507 é rejeitado por Passivo 357
+Par desfeito entre Ativo 403 e Passivo 212
+Par formado entre Ativo 507 e Passivo 212
+Ativo 231 é rejeitado por Passivo 406
+Ativo 231 é rejeitado por Passivo 116
+Ativo 231 é rejeitado por Passivo 405
+Ativo 231 é rejeitado por Passivo 289
+Ativo 231 é rejeitado por Passivo 15
+Par desfeito entre Ativo 290 e Passivo 411
+Par formado entre Ativo 231 e Passivo 411
+Ativo 304 é rejeitado por Passivo 425
+Par desfeito entre Ativo 31 e Passivo 5
+Par formado entre Ativo 304 e Passivo 5
+Ativo 429 é rejeitado por Passivo 335
+Ativo 429 é rejeitado por Passivo 139
+Ativo 429 é rejeitado por Passivo 261
+Par desfeito entre Ativo 489 e Passivo 453
+Par formado entre Ativo 429 e Passivo 453
+Ativo 65 é rejeitado por Passivo 195
+Par desfeito entre Ativo 239 e Passivo 415
+Par formado entre Ativo 65 e Passivo 415
+Ativo 295 é rejeitado por Passivo 195
+Ativo 295 é rejeitado por Passivo 74
+Par desfeito entre Ativo 474 e Passivo 135
+Par formado entre Ativo 295 e Passivo 135
+Ativo 86 é rejeitado por Passivo 309
+Par desfeito entre Ativo 60 e Passivo 232
+Par formado entre Ativo 86 e Passivo 232
+Ativo 332 é rejeitado por Passivo 326
+Ativo 332 é rejeitado por Passivo 269
+Ativo 332 é rejeitado por Passivo 87
+Par desfeito entre Ativo 429 e Passivo 453
+Par formado entre Ativo 332 e Passivo 453
+Ativo 87 é rejeitado por Passivo 263
+Ativo 87 é rejeitado por Passivo 21
+Ativo 87 é rejeitado por Passivo 260
+Ativo 87 é rejeitado por Passivo 460
+Ativo 87 é rejeitado por Passivo 120
+Ativo 87 é rejeitado por Passivo 159
+Ativo 87 é rejeitado por Passivo 91
+Ativo 87 é rejeitado por Passivo 108
+Ativo 87 é rejeitado por Passivo 475
+Ativo 87 é rejeitado por Passivo 29
+Ativo 87 é rejeitado por Passivo 301
+Par desfeito entre Ativo 267 e Passivo 20
+Par formado entre Ativo 87 e Passivo 20
+Ativo 44 é rejeitado por Passivo 266
+Ativo 44 é rejeitado por Passivo 498
+Ativo 44 é rejeitado por Passivo 204
+Ativo 44 é rejeitado por Passivo 299
+Ativo 44 é rejeitado por Passivo 424
+Ativo 44 é rejeitado por Passivo 406
+Ativo 44 é rejeitado por Passivo 134
+Ativo 44 é rejeitado por Passivo 385
+Ativo 44 é rejeitado por Passivo 295
+Par desfeito entre Ativo 155 e Passivo 102
+Par formado entre Ativo 44 e Passivo 102
+Ativo 324 é rejeitado por Passivo 482
+Par desfeito entre Ativo 184 e Passivo 270
+Par formado entre Ativo 324 e Passivo 270
+Ativo 408 é rejeitado por Passivo 173
+Par formado entre Ativo 408 e Passivo 497
+Ativo 299 é rejeitado por Passivo 464
+Ativo 299 é rejeitado por Passivo 253
+Ativo 299 é rejeitado por Passivo 426
+Ativo 299 é rejeitado por Passivo 478
+Ativo 299 é rejeitado por Passivo 89
+Par desfeito entre Ativo 212 e Passivo 252
+Par formado entre Ativo 299 e Passivo 252
+Ativo 160 é rejeitado por Passivo 208
+Par formado entre Ativo 160 e Passivo 480
+Ativo 238 é rejeitado por Passivo 109
+Ativo 238 é rejeitado por Passivo 449
+Par desfeito entre Ativo 162 e Passivo 196
+Par formado entre Ativo 238 e Passivo 196
+Ativo 260 é rejeitado por Passivo 26
+Ativo 260 é rejeitado por Passivo 378
+Ativo 260 é rejeitado por Passivo 232
+Ativo 260 é rejeitado por Passivo 422
+Ativo 260 é rejeitado por Passivo 478
+Ativo 260 é rejeitado por Passivo 486
+Par desfeito entre Ativo 453 e Passivo 396
+Par formado entre Ativo 260 e Passivo 396
+Ativo 355 é rejeitado por Passivo 218
+Ativo 355 é rejeitado por Passivo 243
+Ativo 355 é rejeitado por Passivo 125
+Ativo 355 é rejeitado por Passivo 319
+Par desfeito entre Ativo 139 e Passivo 388
+Par formado entre Ativo 355 e Passivo 388
+Ativo 365 é rejeitado por Passivo 23
+Ativo 365 é rejeitado por Passivo 5
+Par desfeito entre Ativo 112 e Passivo 351
+Par formado entre Ativo 365 e Passivo 351
+Ativo 248 é rejeitado por Passivo 113
+Ativo 248 é rejeitado por Passivo 26
+Par formado entre Ativo 248 e Passivo 9
+Ativo 499 é rejeitado por Passivo 75
+Ativo 499 é rejeitado por Passivo 477
+Par desfeito entre Ativo 338 e Passivo 141
+Par formado entre Ativo 499 e Passivo 141
+Ativo 330 é rejeitado por Passivo 320
+Ativo 330 é rejeitado por Passivo 16
+Par desfeito entre Ativo 216 e Passivo 157
+Par formado entre Ativo 330 e Passivo 157
+Ativo 403 é rejeitado por Passivo 212
+Par desfeito entre Ativo 183 e Passivo 355
+Par formado entre Ativo 403 e Passivo 355
+Ativo 290 é rejeitado por Passivo 411
+Ativo 290 é rejeitado por Passivo 317
+Ativo 290 é rejeitado por Passivo 231
+Ativo 290 é rejeitado por Passivo 309
+Ativo 290 é rejeitado por Passivo 172
+Ativo 290 é rejeitado por Passivo 151
+Par desfeito entre Ativo 0 e Passivo 122
+Par formado entre Ativo 290 e Passivo 122
+Ativo 31 é rejeitado por Passivo 5
+Ativo 31 é rejeitado por Passivo 121
+Ativo 31 é rejeitado por Passivo 44
+Ativo 31 é rejeitado por Passivo 190
+Ativo 31 é rejeitado por Passivo 352
+Ativo 31 é rejeitado por Passivo 160
+Ativo 31 é rejeitado por Passivo 278
+Ativo 31 é rejeitado por Passivo 436
+Ativo 31 é rejeitado por Passivo 461
+Ativo 31 é rejeitado por Passivo 199
+Ativo 31 é rejeitado por Passivo 476
+Ativo 31 é rejeitado por Passivo 378
+Ativo 31 é rejeitado por Passivo 59
+Ativo 31 é rejeitado por Passivo 98
+Ativo 31 é rejeitado por Passivo 484
+Ativo 31 é rejeitado por Passivo 489
+Ativo 31 é rejeitado por Passivo 213
+Par desfeito entre Ativo 10 e Passivo 114
+Par formado entre Ativo 31 e Passivo 114
+Ativo 489 é rejeitado por Passivo 453
+Par formado entre Ativo 489 e Passivo 46
+Ativo 239 é rejeitado por Passivo 415
+Ativo 239 é rejeitado por Passivo 259
+Ativo 239 é rejeitado por Passivo 475
+Ativo 239 é rejeitado por Passivo 423
+Ativo 239 é rejeitado por Passivo 438
+Ativo 239 é rejeitado por Passivo 335
+Ativo 239 é rejeitado por Passivo 127
+Par desfeito entre Ativo 292 e Passivo 406
+Par formado entre Ativo 239 e Passivo 406
+Ativo 474 é rejeitado por Passivo 135
+Ativo 474 é rejeitado por Passivo 37
+Par desfeito entre Ativo 23 e Passivo 33
+Par formado entre Ativo 474 e Passivo 33
+Ativo 60 é rejeitado por Passivo 232
+Ativo 60 é rejeitado por Passivo 374
+Par formado entre Ativo 60 e Passivo 4
+Ativo 429 é rejeitado por Passivo 453
+Par desfeito entre Ativo 47 e Passivo 124
+Par formado entre Ativo 429 e Passivo 124
+Ativo 267 é rejeitado por Passivo 20
+Ativo 267 é rejeitado por Passivo 334
+Ativo 267 é rejeitado por Passivo 81
+Ativo 267 é rejeitado por Passivo 141
+Ativo 267 é rejeitado por Passivo 283
+Ativo 267 é rejeitado por Passivo 333
+Ativo 267 é rejeitado por Passivo 326
+Ativo 267 é rejeitado por Passivo 401
+Ativo 267 é rejeitado por Passivo 222
+Par desfeito entre Ativo 305 e Passivo 172
+Par formado entre Ativo 267 e Passivo 172
+Ativo 155 é rejeitado por Passivo 102
+Ativo 155 é rejeitado por Passivo 446
+Par desfeito entre Ativo 116 e Passivo 50
+Par formado entre Ativo 155 e Passivo 50
+Ativo 184 é rejeitado por Passivo 270
+Par desfeito entre Ativo 274 e Passivo 126
+Par formado entre Ativo 184 e Passivo 126
+Ativo 212 é rejeitado por Passivo 252
+Par desfeito entre Ativo 188 e Passivo 272
+Par formado entre Ativo 212 e Passivo 272
+Ativo 162 é rejeitado por Passivo 196
+Par desfeito entre Ativo 16 e Passivo 456
+Par formado entre Ativo 162 e Passivo 456
+Ativo 453 é rejeitado por Passivo 396
+Par desfeito entre Ativo 232 e Passivo 223
+Par formado entre Ativo 453 e Passivo 223
+Ativo 139 é rejeitado por Passivo 388
+Ativo 139 é rejeitado por Passivo 169
+Ativo 139 é rejeitado por Passivo 20
+Ativo 139 é rejeitado por Passivo 126
+Par desfeito entre Ativo 192 e Passivo 369
+Par formado entre Ativo 139 e Passivo 369
+Ativo 112 é rejeitado por Passivo 351
+Par desfeito entre Ativo 30 e Passivo 510
+Par formado entre Ativo 112 e Passivo 510
+Ativo 338 é rejeitado por Passivo 141
+Ativo 338 é rejeitado por Passivo 47
+Ativo 338 é rejeitado por Passivo 376
+Ativo 338 é rejeitado por Passivo 96
+Par desfeito entre Ativo 372 e Passivo 285
+Par formado entre Ativo 338 e Passivo 285
+Ativo 216 é rejeitado por Passivo 157
+Par desfeito entre Ativo 506 e Passivo 154
+Par formado entre Ativo 216 e Passivo 154
+Ativo 183 é rejeitado por Passivo 355
+Ativo 183 é rejeitado por Passivo 323
+Ativo 183 é rejeitado por Passivo 48
+Ativo 183 é rejeitado por Passivo 385
+Ativo 183 é rejeitado por Passivo 336
+Ativo 183 é rejeitado por Passivo 182
+Ativo 183 é rejeitado por Passivo 156
+Ativo 183 é rejeitado por Passivo 306
+Ativo 183 é rejeitado por Passivo 301
+Ativo 183 é rejeitado por Passivo 148
+Par desfeito entre Ativo 411 e Passivo 89
+Par formado entre Ativo 183 e Passivo 89
+Ativo 0 é rejeitado por Passivo 122
+Ativo 0 é rejeitado por Passivo 236
+Ativo 0 é rejeitado por Passivo 455
+Ativo 0 é rejeitado por Passivo 118
+Par desfeito entre Ativo 271 e Passivo 250
+Par formado entre Ativo 0 e Passivo 250
+Ativo 10 é rejeitado por Passivo 114
+Par desfeito entre Ativo 465 e Passivo 85
+Par formado entre Ativo 10 e Passivo 85
+Ativo 292 é rejeitado por Passivo 406
+Ativo 292 é rejeitado por Passivo 195
+Ativo 292 é rejeitado por Passivo 288
+Ativo 292 é rejeitado por Passivo 29
+Ativo 292 é rejeitado por Passivo 467
+Ativo 292 é rejeitado por Passivo 464
+Ativo 292 é rejeitado por Passivo 251
+Par desfeito entre Ativo 366 e Passivo 444
+Par formado entre Ativo 292 e Passivo 444
+Ativo 23 é rejeitado por Passivo 33
+Ativo 23 é rejeitado por Passivo 505
+Par desfeito entre Ativo 105 e Passivo 130
+Par formado entre Ativo 23 e Passivo 130
+Ativo 47 é rejeitado por Passivo 124
+Ativo 47 é rejeitado por Passivo 218
+Ativo 47 é rejeitado por Passivo 269
+Ativo 47 é rejeitado por Passivo 211
+Par desfeito entre Ativo 346 e Passivo 303
+Par formado entre Ativo 47 e Passivo 303
+Ativo 305 é rejeitado por Passivo 172
+Ativo 305 é rejeitado por Passivo 16
+Ativo 305 é rejeitado por Passivo 185
+Par desfeito entre Ativo 76 e Passivo 294
+Par formado entre Ativo 305 e Passivo 294
+Ativo 116 é rejeitado por Passivo 50
+Par desfeito entre Ativo 445 e Passivo 32
+Par formado entre Ativo 116 e Passivo 32
+Ativo 274 é rejeitado por Passivo 126
+Ativo 274 é rejeitado por Passivo 355
+Ativo 274 é rejeitado por Passivo 410
+Ativo 274 é rejeitado por Passivo 481
+Par desfeito entre Ativo 495 e Passivo 502
+Par formado entre Ativo 274 e Passivo 502
+Ativo 188 é rejeitado por Passivo 272
+Ativo 188 é rejeitado por Passivo 248
+Ativo 188 é rejeitado por Passivo 247
+Ativo 188 é rejeitado por Passivo 306
+Ativo 188 é rejeitado por Passivo 399
+Ativo 188 é rejeitado por Passivo 459
+Ativo 188 é rejeitado por Passivo 257
+Ativo 188 é rejeitado por Passivo 461
+Ativo 188 é rejeitado por Passivo 297
+Ativo 188 é rejeitado por Passivo 9
+Par desfeito entre Ativo 427 e Passivo 491
+Par formado entre Ativo 188 e Passivo 491
+Ativo 16 é rejeitado por Passivo 456
+Ativo 16 é rejeitado por Passivo 307
+Ativo 16 é rejeitado por Passivo 483
+Ativo 16 é rejeitado por Passivo 357
+Ativo 16 é rejeitado por Passivo 390
+Par desfeito entre Ativo 60 e Passivo 4
+Par formado entre Ativo 16 e Passivo 4
+Ativo 232 é rejeitado por Passivo 223
+Ativo 232 é rejeitado por Passivo 314
+Ativo 232 é rejeitado por Passivo 199
+Par formado entre Ativo 232 e Passivo 471
+Ativo 192 é rejeitado por Passivo 369
+Ativo 192 é rejeitado por Passivo 476
+Ativo 192 é rejeitado por Passivo 8
+Par desfeito entre Ativo 394 e Passivo 319
+Par formado entre Ativo 192 e Passivo 319
+Ativo 30 é rejeitado por Passivo 510
+Par formado entre Ativo 30 e Passivo 72
+Ativo 372 é rejeitado por Passivo 285
+Ativo 372 é rejeitado por Passivo 275
+Ativo 372 é rejeitado por Passivo 220
+Ativo 372 é rejeitado por Passivo 108
+Ativo 372 é rejeitado por Passivo 443
+Ativo 372 é rejeitado por Passivo 57
+Ativo 372 é rejeitado por Passivo 195
+Ativo 372 é rejeitado por Passivo 350
+Ativo 372 é rejeitado por Passivo 450
+Ativo 372 é rejeitado por Passivo 325
+Par desfeito entre Ativo 308 e Passivo 276
+Par formado entre Ativo 372 e Passivo 276
+Ativo 506 é rejeitado por Passivo 154
+Ativo 506 é rejeitado por Passivo 467
+Par desfeito entre Ativo 367 e Passivo 65
+Par formado entre Ativo 506 e Passivo 65
+Ativo 411 é rejeitado por Passivo 89
+Ativo 411 é rejeitado por Passivo 287
+Ativo 411 é rejeitado por Passivo 349
+Ativo 411 é rejeitado por Passivo 253
+Ativo 411 é rejeitado por Passivo 490
+Ativo 411 é rejeitado por Passivo 7
+Ativo 411 é rejeitado por Passivo 200
+Ativo 411 é rejeitado por Passivo 431
+Par desfeito entre Ativo 497 e Passivo 189
+Par formado entre Ativo 411 e Passivo 189
+Ativo 271 é rejeitado por Passivo 250
+Ativo 271 é rejeitado por Passivo 90
+Ativo 271 é rejeitado por Passivo 181
+Par formado entre Ativo 271 e Passivo 1
+Ativo 465 é rejeitado por Passivo 85
+Ativo 465 é rejeitado por Passivo 208
+Ativo 465 é rejeitado por Passivo 160
+Ativo 465 é rejeitado por Passivo 135
+Ativo 465 é rejeitado por Passivo 163
+Ativo 465 é rejeitado por Passivo 319
+Par desfeito entre Ativo 303 e Passivo 12
+Par formado entre Ativo 465 e Passivo 12
+Ativo 366 é rejeitado por Passivo 444
+Par desfeito entre Ativo 334 e Passivo 142
+Par formado entre Ativo 366 e Passivo 142
+Ativo 105 é rejeitado por Passivo 130
+Ativo 105 é rejeitado por Passivo 495
+Par desfeito entre Ativo 428 e Passivo 492
+Par formado entre Ativo 105 e Passivo 492
+Ativo 346 é rejeitado por Passivo 303
+Ativo 346 é rejeitado por Passivo 508
+Ativo 346 é rejeitado por Passivo 159
+Ativo 346 é rejeitado por Passivo 75
+Ativo 346 é rejeitado por Passivo 211
+Ativo 346 é rejeitado por Passivo 495
+Par desfeito entre Ativo 285 e Passivo 165
+Par formado entre Ativo 346 e Passivo 165
+Ativo 76 é rejeitado por Passivo 294
+Par desfeito entre Ativo 466 e Passivo 465
+Par formado entre Ativo 76 e Passivo 465
+Ativo 445 é rejeitado por Passivo 32
+Par desfeito entre Ativo 400 e Passivo 322
+Par formado entre Ativo 445 e Passivo 322
+Ativo 495 é rejeitado por Passivo 502
+Par desfeito entre Ativo 1 e Passivo 51
+Par formado entre Ativo 495 e Passivo 51
+Ativo 427 é rejeitado por Passivo 491
+Ativo 427 é rejeitado por Passivo 87
+Ativo 427 é rejeitado por Passivo 381
+Ativo 427 é rejeitado por Passivo 489
+Ativo 427 é rejeitado por Passivo 328
+Ativo 427 é rejeitado por Passivo 42
+Ativo 427 é rejeitado por Passivo 68
+Par formado entre Ativo 427 e Passivo 192
+Ativo 60 é rejeitado por Passivo 4
+Ativo 60 é rejeitado por Passivo 47
+Ativo 60 é rejeitado por Passivo 114
+Ativo 60 é rejeitado por Passivo 128
+Par desfeito entre Ativo 160 e Passivo 480
+Par formado entre Ativo 60 e Passivo 480
+Ativo 394 é rejeitado por Passivo 319
+Par desfeito entre Ativo 241 e Passivo 261
+Par formado entre Ativo 394 e Passivo 261
+Ativo 308 é rejeitado por Passivo 276
+Ativo 308 é rejeitado por Passivo 473
+Ativo 308 é rejeitado por Passivo 79
+Ativo 308 é rejeitado por Passivo 381
+Ativo 308 é rejeitado por Passivo 502
+Ativo 308 é rejeitado por Passivo 382
+Ativo 308 é rejeitado por Passivo 218
+Ativo 308 é rejeitado por Passivo 244
+Ativo 308 é rejeitado por Passivo 305
+Ativo 308 é rejeitado por Passivo 196
+Par desfeito entre Ativo 388 e Passivo 30
+Par formado entre Ativo 308 e Passivo 30
+Ativo 367 é rejeitado por Passivo 65
+Ativo 367 é rejeitado por Passivo 321
+Ativo 367 é rejeitado por Passivo 398
+Par desfeito entre Ativo 176 e Passivo 206
+Par formado entre Ativo 367 e Passivo 206
+Ativo 497 é rejeitado por Passivo 189
+Ativo 497 é rejeitado por Passivo 330
+Ativo 497 é rejeitado por Passivo 375
+Ativo 497 é rejeitado por Passivo 387
+Ativo 497 é rejeitado por Passivo 369
+Ativo 497 é rejeitado por Passivo 339
+Ativo 497 é rejeitado por Passivo 449
+Ativo 497 é rejeitado por Passivo 258
+Ativo 497 é rejeitado por Passivo 202
+Ativo 497 é rejeitado por Passivo 151
+Ativo 497 é rejeitado por Passivo 180
+Par desfeito entre Ativo 349 e Passivo 275
+Par formado entre Ativo 497 e Passivo 275
+Ativo 303 é rejeitado por Passivo 12
+Ativo 303 é rejeitado por Passivo 406
+Ativo 303 é rejeitado por Passivo 71
+Ativo 303 é rejeitado por Passivo 501
+Par desfeito entre Ativo 109 e Passivo 407
+Par formado entre Ativo 303 e Passivo 407
+Ativo 334 é rejeitado por Passivo 142
+Par desfeito entre Ativo 112 e Passivo 510
+Par formado entre Ativo 334 e Passivo 510
+Ativo 428 é rejeitado por Passivo 492
+Par desfeito entre Ativo 305 e Passivo 294
+Par formado entre Ativo 428 e Passivo 294
+Ativo 285 é rejeitado por Passivo 165
+Ativo 285 é rejeitado por Passivo 4
+Par desfeito entre Ativo 105 e Passivo 492
+Par formado entre Ativo 285 e Passivo 492
+Ativo 466 é rejeitado por Passivo 465
+Par desfeito entre Ativo 415 e Passivo 283
+Par formado entre Ativo 466 e Passivo 283
+Ativo 400 é rejeitado por Passivo 322
+Par formado entre Ativo 400 e Passivo 34
+Ativo 1 é rejeitado por Passivo 51
+Ativo 1 é rejeitado por Passivo 432
+Ativo 1 é rejeitado por Passivo 308
+Ativo 1 é rejeitado por Passivo 207
+Par desfeito entre Ativo 68 e Passivo 66
+Par formado entre Ativo 1 e Passivo 66
+Ativo 160 é rejeitado por Passivo 480
+Par desfeito entre Ativo 290 e Passivo 122
+Par formado entre Ativo 160 e Passivo 122
+Ativo 241 é rejeitado por Passivo 261
+Par desfeito entre Ativo 470 e Passivo 146
+Par formado entre Ativo 241 e Passivo 146
+Ativo 388 é rejeitado por Passivo 30
+Ativo 388 é rejeitado por Passivo 454
+Ativo 388 é rejeitado por Passivo 62
+Par desfeito entre Ativo 336 e Passivo 138
+Par formado entre Ativo 388 e Passivo 138
+Ativo 176 é rejeitado por Passivo 206
+Ativo 176 é rejeitado por Passivo 71
+Par desfeito entre Ativo 369 e Passivo 376
+Par formado entre Ativo 176 e Passivo 376
+Ativo 349 é rejeitado por Passivo 275
+Par desfeito entre Ativo 11 e Passivo 264
+Par formado entre Ativo 349 e Passivo 264
+Ativo 109 é rejeitado por Passivo 407
+Par desfeito entre Ativo 272 e Passivo 391
+Par formado entre Ativo 109 e Passivo 391
+Ativo 112 é rejeitado por Passivo 510
+Ativo 112 é rejeitado por Passivo 60
+Ativo 112 é rejeitado por Passivo 36
+Ativo 112 é rejeitado por Passivo 154
+Ativo 112 é rejeitado por Passivo 334
+Ativo 112 é rejeitado por Passivo 100
+Ativo 112 é rejeitado por Passivo 87
+Par desfeito entre Ativo 168 e Passivo 425
+Par formado entre Ativo 112 e Passivo 425
+Ativo 305 é rejeitado por Passivo 294
+Ativo 305 é rejeitado por Passivo 283
+Ativo 305 é rejeitado por Passivo 260
+Ativo 305 é rejeitado por Passivo 367
+Ativo 305 é rejeitado por Passivo 15
+Ativo 305 é rejeitado por Passivo 118
+Ativo 305 é rejeitado por Passivo 227
+Ativo 305 é rejeitado por Passivo 84
+Ativo 305 é rejeitado por Passivo 42
+Par desfeito entre Ativo 242 e Passivo 490
+Par formado entre Ativo 305 e Passivo 490
+Ativo 105 é rejeitado por Passivo 492
+Par desfeito entre Ativo 53 e Passivo 330
+Par formado entre Ativo 105 e Passivo 330
+Ativo 415 é rejeitado por Passivo 283
+Par desfeito entre Ativo 484 e Passivo 441
+Par formado entre Ativo 415 e Passivo 441
+Ativo 68 é rejeitado por Passivo 66
+Ativo 68 é rejeitado por Passivo 499
+Ativo 68 é rejeitado por Passivo 11
+Ativo 68 é rejeitado por Passivo 294
+Par desfeito entre Ativo 421 e Passivo 494
+Par formado entre Ativo 68 e Passivo 494
+Ativo 290 é rejeitado por Passivo 122
+Ativo 290 é rejeitado por Passivo 73
+Par desfeito entre Ativo 408 e Passivo 497
+Par formado entre Ativo 290 e Passivo 497
+Ativo 470 é rejeitado por Passivo 146
+Ativo 470 é rejeitado por Passivo 48
+Par desfeito entre Ativo 423 e Passivo 2
+Par formado entre Ativo 470 e Passivo 2
+Ativo 336 é rejeitado por Passivo 138
+Ativo 336 é rejeitado por Passivo 339
+Ativo 336 é rejeitado por Passivo 145
+Ativo 336 é rejeitado por Passivo 152
+Ativo 336 é rejeitado por Passivo 36
+Ativo 336 é rejeitado por Passivo 459
+Ativo 336 é rejeitado por Passivo 363
+Ativo 336 é rejeitado por Passivo 475
+Par desfeito entre Ativo 343 e Passivo 434
+Par formado entre Ativo 336 e Passivo 434
+Ativo 369 é rejeitado por Passivo 376
+Par desfeito entre Ativo 202 e Passivo 483
+Par formado entre Ativo 369 e Passivo 483
+Ativo 11 é rejeitado por Passivo 264
+Ativo 11 é rejeitado por Passivo 124
+Ativo 11 é rejeitado por Passivo 499
+Par desfeito entre Ativo 198 e Passivo 410
+Par formado entre Ativo 11 e Passivo 410
+Ativo 272 é rejeitado por Passivo 391
+Ativo 272 é rejeitado por Passivo 420
+Ativo 272 é rejeitado por Passivo 444
+Ativo 272 é rejeitado por Passivo 237
+Par desfeito entre Ativo 34 e Passivo 379
+Par formado entre Ativo 272 e Passivo 379
+Ativo 168 é rejeitado por Passivo 425
+Par desfeito entre Ativo 498 e Passivo 217
+Par formado entre Ativo 168 e Passivo 217
+Ativo 242 é rejeitado por Passivo 490
+Par desfeito entre Ativo 118 e Passivo 213
+Par formado entre Ativo 242 e Passivo 213
+Ativo 53 é rejeitado por Passivo 330
+Ativo 53 é rejeitado por Passivo 407
+Ativo 53 é rejeitado por Passivo 460
+Par desfeito entre Ativo 437 e Passivo 484
+Par formado entre Ativo 53 e Passivo 484
+Ativo 484 é rejeitado por Passivo 441
+Ativo 484 é rejeitado por Passivo 195
+Ativo 484 é rejeitado por Passivo 422
+Par desfeito entre Ativo 232 e Passivo 471
+Par formado entre Ativo 484 e Passivo 471
+Ativo 421 é rejeitado por Passivo 494
+Ativo 421 é rejeitado por Passivo 151
+Ativo 421 é rejeitado por Passivo 25
+Ativo 421 é rejeitado por Passivo 177
+Ativo 421 é rejeitado por Passivo 400
+Ativo 421 é rejeitado por Passivo 48
+Ativo 421 é rejeitado por Passivo 271
+Ativo 421 é rejeitado por Passivo 13
+Par desfeito entre Ativo 92 e Passivo 215
+Par formado entre Ativo 421 e Passivo 215
+Ativo 408 é rejeitado por Passivo 497
+Par desfeito entre Ativo 405 e Passivo 310
+Par formado entre Ativo 408 e Passivo 310
+Ativo 423 é rejeitado por Passivo 2
+Ativo 423 é rejeitado por Passivo 502
+Par desfeito entre Ativo 499 e Passivo 141
+Par formado entre Ativo 423 e Passivo 141
+Ativo 343 é rejeitado por Passivo 434
+Ativo 343 é rejeitado por Passivo 8
+Ativo 343 é rejeitado por Passivo 240
+Ativo 343 é rejeitado por Passivo 156
+Par desfeito entre Ativo 159 e Passivo 91
+Par formado entre Ativo 343 e Passivo 91
+Ativo 202 é rejeitado por Passivo 483
+Ativo 202 é rejeitado por Passivo 337
+Par desfeito entre Ativo 101 e Passivo 413
+Par formado entre Ativo 202 e Passivo 413
+Ativo 198 é rejeitado por Passivo 410
+Ativo 198 é rejeitado por Passivo 409
+Par desfeito entre Ativo 442 e Passivo 11
+Par formado entre Ativo 198 e Passivo 11
+Ativo 34 é rejeitado por Passivo 379
+Ativo 34 é rejeitado por Passivo 94
+Ativo 34 é rejeitado por Passivo 37
+Ativo 34 é rejeitado por Passivo 144
+Par desfeito entre Ativo 268 e Passivo 327
+Par formado entre Ativo 34 e Passivo 327
+Ativo 498 é rejeitado por Passivo 217
+Par desfeito entre Ativo 227 e Passivo 338
+Par formado entre Ativo 498 e Passivo 338
+Ativo 118 é rejeitado por Passivo 213
+Ativo 118 é rejeitado por Passivo 68
+Ativo 118 é rejeitado por Passivo 229
+Par desfeito entre Ativo 347 e Passivo 336
+Par formado entre Ativo 118 e Passivo 336
+Ativo 437 é rejeitado por Passivo 484
+Par desfeito entre Ativo 261 e Passivo 358
+Par formado entre Ativo 437 e Passivo 358
+Ativo 232 é rejeitado por Passivo 471
+Par desfeito entre Ativo 13 e Passivo 409
+Par formado entre Ativo 232 e Passivo 409
+Ativo 92 é rejeitado por Passivo 215
+Par desfeito entre Ativo 369 e Passivo 483
+Par formado entre Ativo 92 e Passivo 483
+Ativo 405 é rejeitado por Passivo 310
+Ativo 405 é rejeitado por Passivo 291
+Ativo 405 é rejeitado por Passivo 433
+Ativo 405 é rejeitado por Passivo 451
+Ativo 405 é rejeitado por Passivo 484
+Ativo 405 é rejeitado por Passivo 330
+Ativo 405 é rejeitado por Passivo 465
+Ativo 405 é rejeitado por Passivo 321
+Ativo 405 é rejeitado por Passivo 71
+Ativo 405 é rejeitado por Passivo 9
+Ativo 405 é rejeitado por Passivo 186
+Par desfeito entre Ativo 441 e Passivo 245
+Par formado entre Ativo 405 e Passivo 245
+Ativo 499 é rejeitado por Passivo 141
+Ativo 499 é rejeitado por Passivo 400
+Ativo 499 é rejeitado por Passivo 281
+Ativo 499 é rejeitado por Passivo 177
+Par desfeito entre Ativo 288 e Passivo 148
+Par formado entre Ativo 499 e Passivo 148
+Ativo 159 é rejeitado por Passivo 91
+Par desfeito entre Ativo 208 e Passivo 374
+Par formado entre Ativo 159 e Passivo 374
+Ativo 101 é rejeitado por Passivo 413
+Ativo 101 é rejeitado por Passivo 74
+Ativo 101 é rejeitado por Passivo 70
+Ativo 101 é rejeitado por Passivo 123
+Ativo 101 é rejeitado por Passivo 283
+Ativo 101 é rejeitado por Passivo 339
+Par desfeito entre Ativo 427 e Passivo 192
+Par formado entre Ativo 101 e Passivo 192
+Ativo 442 é rejeitado por Passivo 11
+Ativo 442 é rejeitado por Passivo 331
+Ativo 442 é rejeitado por Passivo 496
+Ativo 442 é rejeitado por Passivo 304
+Ativo 442 é rejeitado por Passivo 345
+Ativo 442 é rejeitado por Passivo 384
+Ativo 442 é rejeitado por Passivo 140
+Ativo 442 é rejeitado por Passivo 141
+Ativo 442 é rejeitado por Passivo 395
+Ativo 442 é rejeitado por Passivo 188
+Ativo 442 é rejeitado por Passivo 405
+Par desfeito entre Ativo 284 e Passivo 235
+Par formado entre Ativo 442 e Passivo 235
+Ativo 268 é rejeitado por Passivo 327
+Ativo 268 é rejeitado por Passivo 14
+Par desfeito entre Ativo 40 e Passivo 158
+Par formado entre Ativo 268 e Passivo 158
+Ativo 227 é rejeitado por Passivo 338
+Ativo 227 é rejeitado por Passivo 452
+Ativo 227 é rejeitado por Passivo 466
+Ativo 227 é rejeitado por Passivo 207
+Ativo 227 é rejeitado por Passivo 470
+Ativo 227 é rejeitado por Passivo 120
+Ativo 227 é rejeitado por Passivo 403
+Par desfeito entre Ativo 333 e Passivo 99
+Par formado entre Ativo 227 e Passivo 99
+Ativo 347 é rejeitado por Passivo 336
+Ativo 347 é rejeitado por Passivo 445
+Ativo 347 é rejeitado por Passivo 64
+Ativo 347 é rejeitado por Passivo 408
+Ativo 347 é rejeitado por Passivo 194
+Ativo 347 é rejeitado por Passivo 290
+Ativo 347 é rejeitado por Passivo 427
+Ativo 347 é rejeitado por Passivo 466
+Ativo 347 é rejeitado por Passivo 410
+Par desfeito entre Ativo 467 e Passivo 22
+Par formado entre Ativo 347 e Passivo 22
+Ativo 261 é rejeitado por Passivo 358
+Ativo 261 é rejeitado por Passivo 419
+Ativo 261 é rejeitado por Passivo 18
+Ativo 261 é rejeitado por Passivo 241
+Ativo 261 é rejeitado por Passivo 296
+Ativo 261 é rejeitado por Passivo 424
+Ativo 261 é rejeitado por Passivo 202
+Ativo 261 é rejeitado por Passivo 297
+Ativo 261 é rejeitado por Passivo 185
+Par desfeito entre Ativo 115 e Passivo 181
+Par formado entre Ativo 261 e Passivo 181
+Ativo 13 é rejeitado por Passivo 409
+Ativo 13 é rejeitado por Passivo 314
+Par desfeito entre Ativo 88 e Passivo 486
+Par formado entre Ativo 13 e Passivo 486
+Ativo 369 é rejeitado por Passivo 483
+Ativo 369 é rejeitado por Passivo 459
+Ativo 369 é rejeitado por Passivo 127
+Ativo 369 é rejeitado por Passivo 313
+Ativo 369 é rejeitado por Passivo 281
+Ativo 369 é rejeitado por Passivo 96
+Ativo 369 é rejeitado por Passivo 499
+Ativo 369 é rejeitado por Passivo 269
+Par desfeito entre Ativo 264 e Passivo 198
+Par formado entre Ativo 369 e Passivo 198
+Ativo 441 é rejeitado por Passivo 245
+Ativo 441 é rejeitado por Passivo 87
+Ativo 441 é rejeitado por Passivo 300
+Par desfeito entre Ativo 167 e Passivo 455
+Par formado entre Ativo 441 e Passivo 455
+Ativo 288 é rejeitado por Passivo 148
+Ativo 288 é rejeitado por Passivo 141
+Par desfeito entre Ativo 48 e Passivo 160
+Par formado entre Ativo 288 e Passivo 160
+Ativo 208 é rejeitado por Passivo 374
+Ativo 208 é rejeitado por Passivo 378
+Ativo 208 é rejeitado por Passivo 103
+Ativo 208 é rejeitado por Passivo 149
+Ativo 208 é rejeitado por Passivo 436
+Par desfeito entre Ativo 64 e Passivo 106
+Par formado entre Ativo 208 e Passivo 106
+Ativo 427 é rejeitado por Passivo 192
+Ativo 427 é rejeitado por Passivo 182
+Par desfeito entre Ativo 111 e Passivo 41
+Par formado entre Ativo 427 e Passivo 41
+Ativo 284 é rejeitado por Passivo 235
+Ativo 284 é rejeitado por Passivo 213
+Ativo 284 é rejeitado por Passivo 120
+Ativo 284 é rejeitado por Passivo 91
+Ativo 284 é rejeitado por Passivo 460
+Par desfeito entre Ativo 281 e Passivo 447
+Par formado entre Ativo 284 e Passivo 447
+Ativo 40 é rejeitado por Passivo 158
+Par desfeito entre Ativo 33 e Passivo 63
+Par formado entre Ativo 40 e Passivo 63
+Ativo 333 é rejeitado por Passivo 99
+Par desfeito entre Ativo 185 e Passivo 61
+Par formado entre Ativo 333 e Passivo 61
+Ativo 467 é rejeitado por Passivo 22
+Par desfeito entre Ativo 265 e Passivo 67
+Par formado entre Ativo 467 e Passivo 67
+Ativo 115 é rejeitado por Passivo 181
+Par desfeito entre Ativo 356 e Passivo 380
+Par formado entre Ativo 115 e Passivo 380
+Ativo 88 é rejeitado por Passivo 486
+Ativo 88 é rejeitado por Passivo 314
+Par desfeito entre Ativo 432 e Passivo 24
+Par formado entre Ativo 88 e Passivo 24
+Ativo 264 é rejeitado por Passivo 198
+Par desfeito entre Ativo 187 e Passivo 293
+Par formado entre Ativo 264 e Passivo 293
+Ativo 167 é rejeitado por Passivo 455
+Ativo 167 é rejeitado por Passivo 201
+Par desfeito entre Ativo 125 e Passivo 382
+Par formado entre Ativo 167 e Passivo 382
+Ativo 48 é rejeitado por Passivo 160
+Ativo 48 é rejeitado por Passivo 2
+Ativo 48 é rejeitado por Passivo 349
+Ativo 48 é rejeitado por Passivo 464
+Ativo 48 é rejeitado por Passivo 138
+Ativo 48 é rejeitado por Passivo 132
+Ativo 48 é rejeitado por Passivo 24
+Ativo 48 é rejeitado por Passivo 19
+Ativo 48 é rejeitado por Passivo 322
+Ativo 48 é rejeitado por Passivo 251
+Ativo 48 é rejeitado por Passivo 26
+Ativo 48 é rejeitado por Passivo 116
+Ativo 48 é rejeitado por Passivo 124
+Ativo 48 é rejeitado por Passivo 453
+Par desfeito entre Ativo 345 e Passivo 419
+Par formado entre Ativo 48 e Passivo 419
+Ativo 64 é rejeitado por Passivo 106
+Ativo 64 é rejeitado por Passivo 394
+Par desfeito entre Ativo 77 e Passivo 429
+Par formado entre Ativo 64 e Passivo 429
+Ativo 111 é rejeitado por Passivo 41
+Ativo 111 é rejeitado por Passivo 322
+Ativo 111 é rejeitado por Passivo 28
+Par desfeito entre Ativo 314 e Passivo 458
+Par formado entre Ativo 111 e Passivo 458
+Ativo 281 é rejeitado por Passivo 447
+Ativo 281 é rejeitado por Passivo 213
+Ativo 281 é rejeitado por Passivo 151
+Ativo 281 é rejeitado por Passivo 25
+Par desfeito entre Ativo 335 e Passivo 288
+Par formado entre Ativo 281 e Passivo 288
+Ativo 33 é rejeitado por Passivo 63
+Ativo 33 é rejeitado por Passivo 335
+Ativo 33 é rejeitado por Passivo 195
+Ativo 33 é rejeitado por Passivo 224
+Ativo 33 é rejeitado por Passivo 443
+Ativo 33 é rejeitado por Passivo 462
+Ativo 33 é rejeitado por Passivo 217
+Par formado entre Ativo 33 e Passivo 40
+Ativo 185 é rejeitado por Passivo 61
+Par desfeito entre Ativo 30 e Passivo 72
+Par formado entre Ativo 185 e Passivo 72
+Ativo 265 é rejeitado por Passivo 67
+Ativo 265 é rejeitado por Passivo 191
+Ativo 265 é rejeitado por Passivo 378
+Ativo 265 é rejeitado por Passivo 165
+Ativo 265 é rejeitado por Passivo 328
+Ativo 265 é rejeitado por Passivo 133
+Ativo 265 é rejeitado por Passivo 15
+Ativo 265 é rejeitado por Passivo 90
+Ativo 265 é rejeitado por Passivo 18
+Ativo 265 é rejeitado por Passivo 505
+Ativo 265 é rejeitado por Passivo 451
+Ativo 265 é rejeitado por Passivo 410
+Ativo 265 é rejeitado por Passivo 313
+Ativo 265 é rejeitado por Passivo 26
+Par desfeito entre Ativo 56 e Passivo 59
+Par formado entre Ativo 265 e Passivo 59
+Ativo 356 é rejeitado por Passivo 380
+Ativo 356 é rejeitado por Passivo 207
+Ativo 356 é rejeitado por Passivo 80
+Ativo 356 é rejeitado por Passivo 400
+Ativo 356 é rejeitado por Passivo 251
+Ativo 356 é rejeitado por Passivo 335
+Par desfeito entre Ativo 200 e Passivo 239
+Par formado entre Ativo 356 e Passivo 239
+Ativo 432 é rejeitado por Passivo 24
+Ativo 432 é rejeitado por Passivo 265
+Ativo 432 é rejeitado por Passivo 341
+Ativo 432 é rejeitado por Passivo 274
+Ativo 432 é rejeitado por Passivo 360
+Ativo 432 é rejeitado por Passivo 333
+Par desfeito entre Ativo 64 e Passivo 429
+Par formado entre Ativo 432 e Passivo 429
+Ativo 187 é rejeitado por Passivo 293
+Par desfeito entre Ativo 82 e Passivo 155
+Par formado entre Ativo 187 e Passivo 155
+Ativo 125 é rejeitado por Passivo 382
+Ativo 125 é rejeitado por Passivo 254
+Ativo 125 é rejeitado por Passivo 31
+Ativo 125 é rejeitado por Passivo 223
+Ativo 125 é rejeitado por Passivo 333
+Ativo 125 é rejeitado por Passivo 228
+Par desfeito entre Ativo 320 e Passivo 423
+Par formado entre Ativo 125 e Passivo 423
+Ativo 345 é rejeitado por Passivo 419
+Ativo 345 é rejeitado por Passivo 197
+Ativo 345 é rejeitado por Passivo 25
+Ativo 345 é rejeitado por Passivo 60
+Par desfeito entre Ativo 84 e Passivo 414
+Par formado entre Ativo 345 e Passivo 414
+Ativo 77 é rejeitado por Passivo 429
+Ativo 77 é rejeitado por Passivo 501
+Ativo 77 é rejeitado por Passivo 127
+Ativo 77 é rejeitado por Passivo 242
+Par desfeito entre Ativo 96 e Passivo 94
+Par formado entre Ativo 77 e Passivo 94
+Ativo 314 é rejeitado por Passivo 458
+Ativo 314 é rejeitado por Passivo 267
+Ativo 314 é rejeitado por Passivo 21
+Ativo 314 é rejeitado por Passivo 441
+Ativo 314 é rejeitado por Passivo 346
+Ativo 314 é rejeitado por Passivo 442
+Par desfeito entre Ativo 57 e Passivo 383
+Par formado entre Ativo 314 e Passivo 383
+Ativo 335 é rejeitado por Passivo 288
+Par desfeito entre Ativo 322 e Passivo 163
+Par formado entre Ativo 335 e Passivo 163
+Ativo 30 é rejeitado por Passivo 72
+Ativo 30 é rejeitado por Passivo 128
+Ativo 30 é rejeitado por Passivo 135
+Ativo 30 é rejeitado por Passivo 97
+Par desfeito entre Ativo 98 e Passivo 337
+Par formado entre Ativo 30 e Passivo 337
+Ativo 56 é rejeitado por Passivo 59
+Ativo 56 é rejeitado por Passivo 255
+Par desfeito entre Ativo 148 e Passivo 485
+Par formado entre Ativo 56 e Passivo 485
+Ativo 200 é rejeitado por Passivo 239
+Ativo 200 é rejeitado por Passivo 471
+Ativo 200 é rejeitado por Passivo 30
+Ativo 200 é rejeitado por Passivo 45
+Ativo 200 é rejeitado por Passivo 158
+Par desfeito entre Ativo 349 e Passivo 264
+Par formado entre Ativo 200 e Passivo 264
+Ativo 64 é rejeitado por Passivo 429
+Ativo 64 é rejeitado por Passivo 315
+Par desfeito entre Ativo 5 e Passivo 487
+Par formado entre Ativo 64 e Passivo 487
+Ativo 82 é rejeitado por Passivo 155
+Par desfeito entre Ativo 118 e Passivo 336
+Par formado entre Ativo 82 e Passivo 336
+Ativo 320 é rejeitado por Passivo 423
+Par desfeito entre Ativo 467 e Passivo 67
+Par formado entre Ativo 320 e Passivo 67
+Ativo 84 é rejeitado por Passivo 414
+Par desfeito entre Ativo 462 e Passivo 318
+Par formado entre Ativo 84 e Passivo 318
+Ativo 96 é rejeitado por Passivo 94
+Ativo 96 é rejeitado por Passivo 498
+Ativo 96 é rejeitado por Passivo 471
+Ativo 96 é rejeitado por Passivo 131
+Ativo 96 é rejeitado por Passivo 405
+Par desfeito entre Ativo 450 e Passivo 394
+Par formado entre Ativo 96 e Passivo 394
+Ativo 57 é rejeitado por Passivo 383
+Ativo 57 é rejeitado por Passivo 300
+Ativo 57 é rejeitado por Passivo 258
+Par desfeito entre Ativo 408 e Passivo 310
+Par formado entre Ativo 57 e Passivo 310
+Ativo 322 é rejeitado por Passivo 163
+Par desfeito entre Ativo 66 e Passivo 107
+Par formado entre Ativo 322 e Passivo 107
+Ativo 98 é rejeitado por Passivo 337
+Ativo 98 é rejeitado por Passivo 253
+Ativo 98 é rejeitado por Passivo 65
+Ativo 98 é rejeitado por Passivo 459
+Ativo 98 é rejeitado por Passivo 88
+Ativo 98 é rejeitado por Passivo 18
+Ativo 98 é rejeitado por Passivo 243
+Ativo 98 é rejeitado por Passivo 401
+Par formado entre Ativo 98 e Passivo 506
+Ativo 148 é rejeitado por Passivo 485
+Par desfeito entre Ativo 487 e Passivo 169
+Par formado entre Ativo 148 e Passivo 169
+Ativo 349 é rejeitado por Passivo 264
+Ativo 349 é rejeitado por Passivo 131
+Ativo 349 é rejeitado por Passivo 146
+Ativo 349 é rejeitado por Passivo 399
+Ativo 349 é rejeitado por Passivo 363
+Par desfeito entre Ativo 506 e Passivo 65
+Par formado entre Ativo 349 e Passivo 65
+Ativo 5 é rejeitado por Passivo 487
+Ativo 5 é rejeitado por Passivo 35
+Ativo 5 é rejeitado por Passivo 216
+Par desfeito entre Ativo 75 e Passivo 445
+Par formado entre Ativo 5 e Passivo 445
+Ativo 118 é rejeitado por Passivo 336
+Par desfeito entre Ativo 263 e Passivo 47
+Par formado entre Ativo 118 e Passivo 47
+Ativo 467 é rejeitado por Passivo 67
+Ativo 467 é rejeitado por Passivo 71
+Ativo 467 é rejeitado por Passivo 118
+Ativo 467 é rejeitado por Passivo 13
+Ativo 467 é rejeitado por Passivo 336
+Ativo 467 é rejeitado por Passivo 368
+Ativo 467 é rejeitado por Passivo 29
+Ativo 467 é rejeitado por Passivo 157
+Ativo 467 é rejeitado por Passivo 151
+Ativo 467 é rejeitado por Passivo 214
+Ativo 467 é rejeitado por Passivo 504
+Par desfeito entre Ativo 61 e Passivo 54
+Par formado entre Ativo 467 e Passivo 54
+Ativo 462 é rejeitado por Passivo 318
+Ativo 462 é rejeitado por Passivo 200
+Ativo 462 é rejeitado por Passivo 57
+Ativo 462 é rejeitado por Passivo 393
+Ativo 462 é rejeitado por Passivo 296
+Par desfeito entre Ativo 390 e Passivo 143
+Par formado entre Ativo 462 e Passivo 143
+Ativo 450 é rejeitado por Passivo 394
+Ativo 450 é rejeitado por Passivo 78
+Par desfeito entre Ativo 60 e Passivo 480
+Par formado entre Ativo 450 e Passivo 480
+Ativo 408 é rejeitado por Passivo 310
+Ativo 408 é rejeitado por Passivo 253
+Ativo 408 é rejeitado por Passivo 509
+Par desfeito entre Ativo 42 e Passivo 335
+Par formado entre Ativo 408 e Passivo 335
+Ativo 66 é rejeitado por Passivo 107
+Ativo 66 é rejeitado por Passivo 283
+Par formado entre Ativo 66 e Passivo 262
+Ativo 487 é rejeitado por Passivo 169
+Par desfeito entre Ativo 67 e Passivo 133
+Par formado entre Ativo 487 e Passivo 133
+Ativo 506 é rejeitado por Passivo 65
+Ativo 506 é rejeitado por Passivo 460
+Ativo 506 é rejeitado por Passivo 90
+Par desfeito entre Ativo 476 e Passivo 326
+Par formado entre Ativo 506 e Passivo 326
+Ativo 75 é rejeitado por Passivo 445
+Ativo 75 é rejeitado por Passivo 212
+Ativo 75 é rejeitado por Passivo 224
+Ativo 75 é rejeitado por Passivo 485
+Ativo 75 é rejeitado por Passivo 200
+Ativo 75 é rejeitado por Passivo 188
+Ativo 75 é rejeitado por Passivo 134
+Ativo 75 é rejeitado por Passivo 125
+Ativo 75 é rejeitado por Passivo 144
+Ativo 75 é rejeitado por Passivo 102
+Ativo 75 é rejeitado por Passivo 178
+Par desfeito entre Ativo 367 e Passivo 206
+Par formado entre Ativo 75 e Passivo 206
+Ativo 263 é rejeitado por Passivo 47
+Ativo 263 é rejeitado por Passivo 378
+Ativo 263 é rejeitado por Passivo 119
+Ativo 263 é rejeitado por Passivo 508
+Ativo 263 é rejeitado por Passivo 207
+Ativo 263 é rejeitado por Passivo 241
+Par desfeito entre Ativo 205 e Passivo 39
+Par formado entre Ativo 263 e Passivo 39
+Ativo 61 é rejeitado por Passivo 54
+Ativo 61 é rejeitado por Passivo 269
+Ativo 61 é rejeitado por Passivo 167
+Ativo 61 é rejeitado por Passivo 316
+Ativo 61 é rejeitado por Passivo 255
+Ativo 61 é rejeitado por Passivo 79
+Ativo 61 é rejeitado por Passivo 113
+Ativo 61 é rejeitado por Passivo 39
+Ativo 61 é rejeitado por Passivo 286
+Ativo 61 é rejeitado por Passivo 350
+Par desfeito entre Ativo 358 e Passivo 219
+Par formado entre Ativo 61 e Passivo 219
+Ativo 390 é rejeitado por Passivo 143
+Ativo 390 é rejeitado por Passivo 461
+Par desfeito entre Ativo 472 e Passivo 147
+Par formado entre Ativo 390 e Passivo 147
+Ativo 60 é rejeitado por Passivo 480
+Ativo 60 é rejeitado por Passivo 58
+Ativo 60 é rejeitado por Passivo 464
+Ativo 60 é rejeitado por Passivo 75
+Ativo 60 é rejeitado por Passivo 478
+Ativo 60 é rejeitado por Passivo 34
+Par desfeito entre Ativo 364 e Passivo 257
+Par formado entre Ativo 60 e Passivo 257
+Ativo 42 é rejeitado por Passivo 335
+Ativo 42 é rejeitado por Passivo 406
+Ativo 42 é rejeitado por Passivo 481
+Ativo 42 é rejeitado por Passivo 36
+Ativo 42 é rejeitado por Passivo 306
+Par desfeito entre Ativo 402 e Passivo 237
+Par formado entre Ativo 42 e Passivo 237
+Ativo 67 é rejeitado por Passivo 133
+Ativo 67 é rejeitado por Passivo 346
+Par formado entre Ativo 67 e Passivo 77
+Ativo 476 é rejeitado por Passivo 326
+Ativo 476 é rejeitado por Passivo 211
+Par desfeito entre Ativo 44 e Passivo 102
+Par formado entre Ativo 476 e Passivo 102
+Ativo 367 é rejeitado por Passivo 206
+Ativo 367 é rejeitado por Passivo 239
+Ativo 367 é rejeitado por Passivo 285
+Ativo 367 é rejeitado por Passivo 309
+Par desfeito entre Ativo 6 e Passivo 332
+Par formado entre Ativo 367 e Passivo 332
+Ativo 205 é rejeitado por Passivo 39
+Par desfeito entre Ativo 46 e Passivo 386
+Par formado entre Ativo 205 e Passivo 386
+Ativo 358 é rejeitado por Passivo 219
+Ativo 358 é rejeitado por Passivo 456
+Ativo 358 é rejeitado por Passivo 424
+Ativo 358 é rejeitado por Passivo 340
+Ativo 358 é rejeitado por Passivo 81
+Ativo 358 é rejeitado por Passivo 344
+Ativo 358 é rejeitado por Passivo 222
+Ativo 358 é rejeitado por Passivo 416
+Ativo 358 é rejeitado por Passivo 183
+Par desfeito entre Ativo 132 e Passivo 96
+Par formado entre Ativo 358 e Passivo 96
+Ativo 472 é rejeitado por Passivo 147
+Ativo 472 é rejeitado por Passivo 329
+Ativo 472 é rejeitado por Passivo 133
+Ativo 472 é rejeitado por Passivo 78
+Ativo 472 é rejeitado por Passivo 84
+Ativo 472 é rejeitado por Passivo 160
+Ativo 472 é rejeitado por Passivo 386
+Par desfeito entre Ativo 201 e Passivo 488
+Par formado entre Ativo 472 e Passivo 488
+Ativo 364 é rejeitado por Passivo 257
+Ativo 364 é rejeitado por Passivo 120
+Ativo 364 é rejeitado por Passivo 302
+Ativo 364 é rejeitado por Passivo 457
+Ativo 364 é rejeitado por Passivo 481
+Par desfeito entre Ativo 498 e Passivo 338
+Par formado entre Ativo 364 e Passivo 338
+Ativo 402 é rejeitado por Passivo 237
+Ativo 402 é rejeitado por Passivo 184
+Ativo 402 é rejeitado por Passivo 138
+Ativo 402 é rejeitado por Passivo 2
+Ativo 402 é rejeitado por Passivo 453
+Ativo 402 é rejeitado por Passivo 345
+Ativo 402 é rejeitado por Passivo 277
+Ativo 402 é rejeitado por Passivo 73
+Ativo 402 é rejeitado por Passivo 425
+Par desfeito entre Ativo 338 e Passivo 285
+Par formado entre Ativo 402 e Passivo 285
+Ativo 44 é rejeitado por Passivo 102
+Ativo 44 é rejeitado por Passivo 471
+Ativo 44 é rejeitado por Passivo 302
+Par desfeito entre Ativo 11 e Passivo 410
+Par formado entre Ativo 44 e Passivo 410
+Ativo 6 é rejeitado por Passivo 332
+Par desfeito entre Ativo 172 e Passivo 508
+Par formado entre Ativo 6 e Passivo 508
+Ativo 46 é rejeitado por Passivo 386
+Ativo 46 é rejeitado por Passivo 485
+Ativo 46 é rejeitado por Passivo 282
+Ativo 46 é rejeitado por Passivo 288
+Ativo 46 é rejeitado por Passivo 130
+Ativo 46 é rejeitado por Passivo 502
+Ativo 46 é rejeitado por Passivo 5
+Ativo 46 é rejeitado por Passivo 96
+Par desfeito entre Ativo 244 e Passivo 426
+Par formado entre Ativo 46 e Passivo 426
+Ativo 132 é rejeitado por Passivo 96
+Ativo 132 é rejeitado por Passivo 87
+Par desfeito entre Ativo 264 e Passivo 293
+Par formado entre Ativo 132 e Passivo 293
+Ativo 201 é rejeitado por Passivo 488
+Par desfeito entre Ativo 306 e Passivo 21
+Par formado entre Ativo 201 e Passivo 21
+Ativo 498 é rejeitado por Passivo 338
+Par desfeito entre Ativo 100 e Passivo 145
+Par formado entre Ativo 498 e Passivo 145
+Ativo 338 é rejeitado por Passivo 285
+Ativo 338 é rejeitado por Passivo 452
+Par desfeito entre Ativo 405 e Passivo 245
+Par formado entre Ativo 338 e Passivo 245
+Ativo 11 é rejeitado por Passivo 410
+Ativo 11 é rejeitado por Passivo 293
+Ativo 11 é rejeitado por Passivo 229
+Par desfeito entre Ativo 449 e Passivo 452
+Par formado entre Ativo 11 e Passivo 452
+Ativo 172 é rejeitado por Passivo 508
+Ativo 172 é rejeitado por Passivo 442
+Ativo 172 é rejeitado por Passivo 361
+Ativo 172 é rejeitado por Passivo 117
+Ativo 172 é rejeitado por Passivo 378
+Ativo 172 é rejeitado por Passivo 286
+Par desfeito entre Ativo 258 e Passivo 105
+Par formado entre Ativo 172 e Passivo 105
+Ativo 244 é rejeitado por Passivo 426
+Ativo 244 é rejeitado por Passivo 216
+Ativo 244 é rejeitado por Passivo 504
+Ativo 244 é rejeitado por Passivo 15
+Ativo 244 é rejeitado por Passivo 293
+Ativo 244 é rejeitado por Passivo 210
+Par desfeito entre Ativo 86 e Passivo 232
+Par formado entre Ativo 244 e Passivo 232
+Ativo 264 é rejeitado por Passivo 293
+Ativo 264 é rejeitado por Passivo 151
+Ativo 264 é rejeitado por Passivo 257
+Par desfeito entre Ativo 256 e Passivo 340
+Par formado entre Ativo 264 e Passivo 340
+Ativo 306 é rejeitado por Passivo 21
+Ativo 306 é rejeitado por Passivo 45
+Ativo 306 é rejeitado por Passivo 192
+Ativo 306 é rejeitado por Passivo 448
+Ativo 306 é rejeitado por Passivo 209
+Ativo 306 é rejeitado por Passivo 376
+Ativo 306 é rejeitado por Passivo 224
+Ativo 306 é rejeitado por Passivo 200
+Ativo 306 é rejeitado por Passivo 304
+Ativo 306 é rejeitado por Passivo 140
+Ativo 306 é rejeitado por Passivo 461
+Par desfeito entre Ativo 334 e Passivo 510
+Par formado entre Ativo 306 e Passivo 510
+Ativo 100 é rejeitado por Passivo 145
+Par desfeito entre Ativo 164 e Passivo 325
+Par formado entre Ativo 100 e Passivo 325
+Ativo 405 é rejeitado por Passivo 245
+Ativo 405 é rejeitado por Passivo 325
+Ativo 405 é rejeitado por Passivo 303
+Ativo 405 é rejeitado por Passivo 379
+Ativo 405 é rejeitado por Passivo 318
+Ativo 405 é rejeitado por Passivo 196
+Ativo 405 é rejeitado por Passivo 192
+Ativo 405 é rejeitado por Passivo 446
+Par desfeito entre Ativo 276 e Passivo 81
+Par formado entre Ativo 405 e Passivo 81
+Ativo 449 é rejeitado por Passivo 452
+Ativo 449 é rejeitado por Passivo 156
+Ativo 449 é rejeitado por Passivo 135
+Ativo 449 é rejeitado por Passivo 111
+Ativo 449 é rejeitado por Passivo 295
+Ativo 449 é rejeitado por Passivo 292
+Ativo 449 é rejeitado por Passivo 318
+Ativo 449 é rejeitado por Passivo 36
+Par desfeito entre Ativo 31 e Passivo 114
+Par formado entre Ativo 449 e Passivo 114
+Ativo 258 é rejeitado por Passivo 105
+Ativo 258 é rejeitado por Passivo 293
+Par desfeito entre Ativo 312 e Passivo 349
+Par formado entre Ativo 258 e Passivo 349
+Ativo 86 é rejeitado por Passivo 232
+Ativo 86 é rejeitado por Passivo 460
+Ativo 86 é rejeitado por Passivo 322
+Ativo 86 é rejeitado por Passivo 156
+Ativo 86 é rejeitado por Passivo 11
+Ativo 86 é rejeitado por Passivo 376
+Par desfeito entre Ativo 399 e Passivo 246
+Par formado entre Ativo 86 e Passivo 246
+Ativo 256 é rejeitado por Passivo 340
+Par desfeito entre Ativo 394 e Passivo 261
+Par formado entre Ativo 256 e Passivo 261
+Ativo 334 é rejeitado por Passivo 510
+Ativo 334 é rejeitado por Passivo 443
+Ativo 334 é rejeitado por Passivo 44
+Ativo 334 é rejeitado por Passivo 4
+Ativo 334 é rejeitado por Passivo 138
+Ativo 334 é rejeitado por Passivo 408
+Ativo 334 é rejeitado por Passivo 147
+Ativo 334 é rejeitado por Passivo 252
+Par desfeito entre Ativo 373 e Passivo 249
+Par formado entre Ativo 334 e Passivo 249
+Ativo 164 é rejeitado por Passivo 325
+Ativo 164 é rejeitado por Passivo 354
+Ativo 164 é rejeitado por Passivo 326
+Par desfeito entre Ativo 425 e Passivo 35
+Par formado entre Ativo 164 e Passivo 35
+Ativo 276 é rejeitado por Passivo 81
+Ativo 276 é rejeitado por Passivo 301
+Ativo 276 é rejeitado por Passivo 342
+Par desfeito entre Ativo 406 e Passivo 7
+Par formado entre Ativo 276 e Passivo 7
+Ativo 31 é rejeitado por Passivo 114
+Par desfeito entre Ativo 357 e Passivo 282
+Par formado entre Ativo 31 e Passivo 282
+Ativo 312 é rejeitado por Passivo 349
+Ativo 312 é rejeitado por Passivo 432
+Ativo 312 é rejeitado por Passivo 210
+Ativo 312 é rejeitado por Passivo 313
+Ativo 312 é rejeitado por Passivo 211
+Ativo 312 é rejeitado por Passivo 198
+Ativo 312 é rejeitado por Passivo 146
+Par desfeito entre Ativo 336 e Passivo 434
+Par formado entre Ativo 312 e Passivo 434
+Ativo 399 é rejeitado por Passivo 246
+Par formado entre Ativo 399 e Passivo 428
+Ativo 394 é rejeitado por Passivo 261
+Ativo 394 é rejeitado por Passivo 273
+Ativo 394 é rejeitado por Passivo 139
+Ativo 394 é rejeitado por Passivo 234
+Ativo 394 é rejeitado por Passivo 189
+Ativo 394 é rejeitado por Passivo 188
+Ativo 394 é rejeitado por Passivo 68
+Ativo 394 é rejeitado por Passivo 102
+Ativo 394 é rejeitado por Passivo 249
+Ativo 394 é rejeitado por Passivo 325
+Ativo 394 é rejeitado por Passivo 192
+Ativo 394 é rejeitado por Passivo 219
+Ativo 394 é rejeitado por Passivo 48
+Ativo 394 é rejeitado por Passivo 368
+Ativo 394 é rejeitado por Passivo 408
+Ativo 394 é rejeitado por Passivo 201
+Ativo 394 é rejeitado por Passivo 118
+Ativo 394 é rejeitado por Passivo 138
+Ativo 394 é rejeitado por Passivo 401
+Par desfeito entre Ativo 204 e Passivo 493
+Par formado entre Ativo 394 e Passivo 493
+Ativo 373 é rejeitado por Passivo 249
+Par desfeito entre Ativo 16 e Passivo 4
+Par formado entre Ativo 373 e Passivo 4
+Ativo 425 é rejeitado por Passivo 35
+Par desfeito entre Ativo 53 e Passivo 484
+Par formado entre Ativo 425 e Passivo 484
+Ativo 406 é rejeitado por Passivo 7
+Ativo 406 é rejeitado por Passivo 485
+Ativo 406 é rejeitado por Passivo 416
+Ativo 406 é rejeitado por Passivo 214
+Ativo 406 é rejeitado por Passivo 273
+Ativo 406 é rejeitado por Passivo 302
+Ativo 406 é rejeitado por Passivo 236
+Par desfeito entre Ativo 368 e Passivo 112
+Par formado entre Ativo 406 e Passivo 112
+Ativo 357 é rejeitado por Passivo 282
+Ativo 357 é rejeitado por Passivo 133
+Ativo 357 é rejeitado por Passivo 295
+Ativo 357 é rejeitado por Passivo 59
+Ativo 357 é rejeitado por Passivo 475
+Ativo 357 é rejeitado por Passivo 127
+Ativo 357 é rejeitado por Passivo 348
+Ativo 357 é rejeitado por Passivo 91
+Ativo 357 é rejeitado por Passivo 181
+Par desfeito entre Ativo 430 e Passivo 225
+Par formado entre Ativo 357 e Passivo 225
+Ativo 336 é rejeitado por Passivo 434
+Ativo 336 é rejeitado por Passivo 2
+Ativo 336 é rejeitado por Passivo 221
+Ativo 336 é rejeitado por Passivo 332
+Ativo 336 é rejeitado por Passivo 91
+Par desfeito entre Ativo 354 e Passivo 284
+Par formado entre Ativo 336 e Passivo 284
+Ativo 204 é rejeitado por Passivo 493
+Ativo 204 é rejeitado por Passivo 103
+Ativo 204 é rejeitado por Passivo 108
+Ativo 204 é rejeitado por Passivo 268
+Par desfeito entre Ativo 116 e Passivo 32
+Par formado entre Ativo 204 e Passivo 32
+Ativo 16 é rejeitado por Passivo 4
+Par desfeito entre Ativo 172 e Passivo 105
+Par formado entre Ativo 16 e Passivo 105
+Ativo 53 é rejeitado por Passivo 484
+Ativo 53 é rejeitado por Passivo 106
+Ativo 53 é rejeitado por Passivo 490
+Ativo 53 é rejeitado por Passivo 303
+Ativo 53 é rejeitado por Passivo 218
+Ativo 53 é rejeitado por Passivo 292
+Ativo 53 é rejeitado por Passivo 367
+Ativo 53 é rejeitado por Passivo 373
+Ativo 53 é rejeitado por Passivo 495
+Ativo 53 é rejeitado por Passivo 198
+Ativo 53 é rejeitado por Passivo 289
+Ativo 53 é rejeitado por Passivo 123
+Ativo 53 é rejeitado por Passivo 444
+Ativo 53 é rejeitado por Passivo 165
+Par desfeito entre Ativo 438 e Passivo 164
+Par formado entre Ativo 53 e Passivo 164
+Ativo 368 é rejeitado por Passivo 112
+Ativo 368 é rejeitado por Passivo 350
+Ativo 368 é rejeitado por Passivo 180
+Ativo 368 é rejeitado por Passivo 509
+Ativo 368 é rejeitado por Passivo 474
+Ativo 368 é rejeitado por Passivo 498
+Ativo 368 é rejeitado por Passivo 374
+Ativo 368 é rejeitado por Passivo 52
+Ativo 368 é rejeitado por Passivo 195
+Ativo 368 é rejeitado por Passivo 4
+Ativo 368 é rejeitado por Passivo 137
+Ativo 368 é rejeitado por Passivo 305
+Ativo 368 é rejeitado por Passivo 216
+Ativo 368 é rejeitado por Passivo 202
+Par desfeito entre Ativo 315 e Passivo 184
+Par formado entre Ativo 368 e Passivo 184
+Ativo 430 é rejeitado por Passivo 225
+Ativo 430 é rejeitado por Passivo 215
+Par desfeito entre Ativo 79 e Passivo 266
+Par formado entre Ativo 430 e Passivo 266
+Ativo 354 é rejeitado por Passivo 284
+Ativo 354 é rejeitado por Passivo 168
+Ativo 354 é rejeitado por Passivo 416
+Ativo 354 é rejeitado por Passivo 283
+Ativo 354 é rejeitado por Passivo 328
+Ativo 354 é rejeitado por Passivo 237
+Ativo 354 é rejeitado por Passivo 318
+Par desfeito entre Ativo 445 e Passivo 322
+Par formado entre Ativo 354 e Passivo 322
+Ativo 116 é rejeitado por Passivo 32
+Par formado entre Ativo 116 e Passivo 324
+Ativo 172 é rejeitado por Passivo 105
+Ativo 172 é rejeitado por Passivo 325
+Par desfeito entre Ativo 11 e Passivo 452
+Par formado entre Ativo 172 e Passivo 452
+Ativo 438 é rejeitado por Passivo 164
+Ativo 438 é rejeitado por Passivo 262
+Ativo 438 é rejeitado por Passivo 299
+Ativo 438 é rejeitado por Passivo 330
+Ativo 438 é rejeitado por Passivo 35
+Ativo 438 é rejeitado por Passivo 471
+Ativo 438 é rejeitado por Passivo 424
+Ativo 438 é rejeitado por Passivo 14
+Par desfeito entre Ativo 234 e Passivo 457
+Par formado entre Ativo 438 e Passivo 457
+Ativo 315 é rejeitado por Passivo 184
+Ativo 315 é rejeitado por Passivo 277
+Ativo 315 é rejeitado por Passivo 155
+Ativo 315 é rejeitado por Passivo 218
+Ativo 315 é rejeitado por Passivo 473
+Ativo 315 é rejeitado por Passivo 58
+Ativo 315 é rejeitado por Passivo 360
+Ativo 315 é rejeitado por Passivo 28
+Ativo 315 é rejeitado por Passivo 185
+Ativo 315 é rejeitado por Passivo 86
+Ativo 315 é rejeitado por Passivo 59
+Ativo 315 é rejeitado por Passivo 239
+Ativo 315 é rejeitado por Passivo 18
+Ativo 315 é rejeitado por Passivo 149
+Ativo 315 é rejeitado por Passivo 384
+Ativo 315 é rejeitado por Passivo 257
+Ativo 315 é rejeitado por Passivo 269
+Ativo 315 é rejeitado por Passivo 259
+Par desfeito entre Ativo 276 e Passivo 7
+Par formado entre Ativo 315 e Passivo 7
+Ativo 79 é rejeitado por Passivo 266
+Ativo 79 é rejeitado por Passivo 118
+Par desfeito entre Ativo 130 e Passivo 320
+Par formado entre Ativo 79 e Passivo 320
+Ativo 445 é rejeitado por Passivo 322
+Par desfeito entre Ativo 40 e Passivo 63
+Par formado entre Ativo 445 e Passivo 63
+Ativo 11 é rejeitado por Passivo 452
+Ativo 11 é rejeitado por Passivo 360
+Ativo 11 é rejeitado por Passivo 107
+Ativo 11 é rejeitado por Passivo 75
+Ativo 11 é rejeitado por Passivo 495
+Par desfeito entre Ativo 254 e Passivo 439
+Par formado entre Ativo 11 e Passivo 439
+Ativo 234 é rejeitado por Passivo 457
+Par desfeito entre Ativo 445 e Passivo 63
+Par formado entre Ativo 234 e Passivo 63
+Ativo 276 é rejeitado por Passivo 7
+Ativo 276 é rejeitado por Passivo 182
+Ativo 276 é rejeitado por Passivo 250
+Ativo 276 é rejeitado por Passivo 36
+Par desfeito entre Ativo 390 e Passivo 147
+Par formado entre Ativo 276 e Passivo 147
+Ativo 130 é rejeitado por Passivo 320
+Par desfeito entre Ativo 127 e Passivo 498
+Par formado entre Ativo 130 e Passivo 498
+Ativo 40 é rejeitado por Passivo 63
+Ativo 40 é rejeitado por Passivo 497
+Ativo 40 é rejeitado por Passivo 443
+Ativo 40 é rejeitado por Passivo 244
+Ativo 40 é rejeitado por Passivo 340
+Ativo 40 é rejeitado por Passivo 278
+Ativo 40 é rejeitado por Passivo 354
+Ativo 40 é rejeitado por Passivo 502
+Par desfeito entre Ativo 230 e Passivo 129
+Par formado entre Ativo 40 e Passivo 129
+Ativo 254 é rejeitado por Passivo 439
+Ativo 254 é rejeitado por Passivo 225
+Ativo 254 é rejeitado por Passivo 214
+Ativo 254 é rejeitado por Passivo 350
+Par desfeito entre Ativo 376 e Passivo 474
+Par formado entre Ativo 254 e Passivo 474
+Ativo 445 é rejeitado por Passivo 63
+Ativo 445 é rejeitado por Passivo 407
+Ativo 445 é rejeitado por Passivo 176
+Ativo 445 é rejeitado por Passivo 315
+Par desfeito entre Ativo 162 e Passivo 456
+Par formado entre Ativo 445 e Passivo 456
+Ativo 390 é rejeitado por Passivo 147
+Ativo 390 é rejeitado por Passivo 491
+Ativo 390 é rejeitado por Passivo 345
+Ativo 390 é rejeitado por Passivo 262
+Ativo 390 é rejeitado por Passivo 492
+Ativo 390 é rejeitado por Passivo 316
+Ativo 390 é rejeitado por Passivo 64
+Ativo 390 é rejeitado por Passivo 188
+Par desfeito entre Ativo 353 e Passivo 247
+Par formado entre Ativo 390 e Passivo 247
+Ativo 127 é rejeitado por Passivo 498
+Ativo 127 é rejeitado por Passivo 191
+Par desfeito entre Ativo 33 e Passivo 40
+Par formado entre Ativo 127 e Passivo 40
+Ativo 230 é rejeitado por Passivo 129
+Ativo 230 é rejeitado por Passivo 185
+Ativo 230 é rejeitado por Passivo 150
+Par desfeito entre Ativo 245 e Passivo 278
+Par formado entre Ativo 230 e Passivo 278
+Ativo 376 é rejeitado por Passivo 474
+Ativo 376 é rejeitado por Passivo 333
+Par desfeito entre Ativo 422 e Passivo 70
+Par formado entre Ativo 376 e Passivo 70
+Ativo 162 é rejeitado por Passivo 456
+Ativo 162 é rejeitado por Passivo 445
+Par desfeito entre Ativo 281 e Passivo 288
+Par formado entre Ativo 162 e Passivo 288
+Ativo 353 é rejeitado por Passivo 247
+Ativo 353 é rejeitado por Passivo 506
+Ativo 353 é rejeitado por Passivo 462
+Ativo 353 é rejeitado por Passivo 476
+Ativo 353 é rejeitado por Passivo 219
+Ativo 353 é rejeitado por Passivo 222
+Ativo 353 é rejeitado por Passivo 287
+Ativo 353 é rejeitado por Passivo 344
+Ativo 353 é rejeitado por Passivo 240
+Ativo 353 é rejeitado por Passivo 215
+Par desfeito entre Ativo 44 e Passivo 410
+Par formado entre Ativo 353 e Passivo 410
+Ativo 33 é rejeitado por Passivo 40
+Par desfeito entre Ativo 31 e Passivo 282
+Par formado entre Ativo 33 e Passivo 282
+Ativo 245 é rejeitado por Passivo 278
+Ativo 245 é rejeitado por Passivo 46
+Par desfeito entre Ativo 485 e Passivo 412
+Par formado entre Ativo 245 e Passivo 412
+Ativo 422 é rejeitado por Passivo 70
+Ativo 422 é rejeitado por Passivo 158
+Ativo 422 é rejeitado por Passivo 209
+Ativo 422 é rejeitado por Passivo 212
+Ativo 422 é rejeitado por Passivo 370
+Ativo 422 é rejeitado por Passivo 301
+Par desfeito entre Ativo 506 e Passivo 326
+Par formado entre Ativo 422 e Passivo 326
+Ativo 281 é rejeitado por Passivo 288
+Ativo 281 é rejeitado por Passivo 115
+Ativo 281 é rejeitado por Passivo 338
+Ativo 281 é rejeitado por Passivo 97
+Ativo 281 é rejeitado por Passivo 264
+Ativo 281 é rejeitado por Passivo 404
+Ativo 281 é rejeitado por Passivo 424
+Par desfeito entre Ativo 106 e Passivo 280
+Par formado entre Ativo 281 e Passivo 280
+Ativo 44 é rejeitado por Passivo 410
+Par desfeito entre Ativo 507 e Passivo 212
+Par formado entre Ativo 44 e Passivo 212
+Ativo 31 é rejeitado por Passivo 282
+Ativo 31 é rejeitado por Passivo 387
+Ativo 31 é rejeitado por Passivo 276
+Ativo 31 é rejeitado por Passivo 24
+Par desfeito entre Ativo 114 e Passivo 307
+Par formado entre Ativo 31 e Passivo 307
+Ativo 485 é rejeitado por Passivo 412
+Ativo 485 é rejeitado por Passivo 102
+Par desfeito entre Ativo 99 e Passivo 470
+Par formado entre Ativo 485 e Passivo 470
+Ativo 506 é rejeitado por Passivo 326
+Ativo 506 é rejeitado por Passivo 496
+Ativo 506 é rejeitado por Passivo 79
+Ativo 506 é rejeitado por Passivo 470
+Ativo 506 é rejeitado por Passivo 464
+Ativo 506 é rejeitado por Passivo 422
+Ativo 506 é rejeitado por Passivo 396
+Ativo 506 é rejeitado por Passivo 263
+Ativo 506 é rejeitado por Passivo 189
+Ativo 506 é rejeitado por Passivo 431
+Ativo 506 é rejeitado por Passivo 214
+Ativo 506 é rejeitado por Passivo 25
+Par desfeito entre Ativo 173 e Passivo 256
+Par formado entre Ativo 506 e Passivo 256
+Ativo 106 é rejeitado por Passivo 280
+Par formado entre Ativo 106 e Passivo 0
+Ativo 507 é rejeitado por Passivo 212
+Par desfeito entre Ativo 303 e Passivo 407
+Par formado entre Ativo 507 e Passivo 407
+Ativo 114 é rejeitado por Passivo 307
+Ativo 114 é rejeitado por Passivo 156
+Ativo 114 é rejeitado por Passivo 316
+Ativo 114 é rejeitado por Passivo 8
+Ativo 114 é rejeitado por Passivo 147
+Ativo 114 é rejeitado por Passivo 503
+Ativo 114 é rejeitado por Passivo 351
+Ativo 114 é rejeitado por Passivo 94
+Ativo 114 é rejeitado por Passivo 495
+Ativo 114 é rejeitado por Passivo 326
+Ativo 114 é rejeitado por Passivo 97
+Par desfeito entre Ativo 259 e Passivo 42
+Par formado entre Ativo 114 e Passivo 42
+Ativo 99 é rejeitado por Passivo 470
+Par desfeito entre Ativo 247 e Passivo 109
+Par formado entre Ativo 99 e Passivo 109
+Ativo 173 é rejeitado por Passivo 256
+Par desfeito entre Ativo 495 e Passivo 51
+Par formado entre Ativo 173 e Passivo 51
+Ativo 303 é rejeitado por Passivo 407
+Ativo 303 é rejeitado por Passivo 262
+Ativo 303 é rejeitado por Passivo 251
+Ativo 303 é rejeitado por Passivo 253
+Ativo 303 é rejeitado por Passivo 96
+Ativo 303 é rejeitado por Passivo 18
+Ativo 303 é rejeitado por Passivo 489
+Ativo 303 é rejeitado por Passivo 465
+Par desfeito entre Ativo 504 e Passivo 367
+Par formado entre Ativo 303 e Passivo 367
+Ativo 259 é rejeitado por Passivo 42
+Ativo 259 é rejeitado por Passivo 111
+Ativo 259 é rejeitado por Passivo 281
+Ativo 259 é rejeitado por Passivo 330
+Ativo 259 é rejeitado por Passivo 466
+Ativo 259 é rejeitado por Passivo 184
+Ativo 259 é rejeitado por Passivo 458
+Ativo 259 é rejeitado por Passivo 147
+Ativo 259 é rejeitado por Passivo 245
+Ativo 259 é rejeitado por Passivo 168
+Par desfeito entre Ativo 494 e Passivo 207
+Par formado entre Ativo 259 e Passivo 207
+Ativo 247 é rejeitado por Passivo 109
+Par desfeito entre Ativo 57 e Passivo 310
+Par formado entre Ativo 247 e Passivo 310
+Ativo 495 é rejeitado por Passivo 51
+Ativo 495 é rejeitado por Passivo 120
+Ativo 495 é rejeitado por Passivo 242
+Ativo 495 é rejeitado por Passivo 260
+Ativo 495 é rejeitado por Passivo 381
+Ativo 495 é rejeitado por Passivo 495
+Par desfeito entre Ativo 238 e Passivo 196
+Par formado entre Ativo 495 e Passivo 196
+Ativo 504 é rejeitado por Passivo 367
+Par desfeito entre Ativo 473 e Passivo 162
+Par formado entre Ativo 504 e Passivo 162
+Ativo 494 é rejeitado por Passivo 207
+Par desfeito entre Ativo 88 e Passivo 24
+Par formado entre Ativo 494 e Passivo 24
+Ativo 57 é rejeitado por Passivo 310
+Ativo 57 é rejeitado por Passivo 199
+Par desfeito entre Ativo 67 e Passivo 77
+Par formado entre Ativo 57 e Passivo 77
+Ativo 238 é rejeitado por Passivo 196
+Ativo 238 é rejeitado por Passivo 378
+Ativo 238 é rejeitado por Passivo 456
+Ativo 238 é rejeitado por Passivo 14
+Ativo 238 é rejeitado por Passivo 194
+Ativo 238 é rejeitado por Passivo 139
+Ativo 238 é rejeitado por Passivo 184
+Par desfeito entre Ativo 87 e Passivo 20
+Par formado entre Ativo 238 e Passivo 20
+Ativo 473 é rejeitado por Passivo 162
+Par desfeito entre Ativo 508 e Passivo 231
+Par formado entre Ativo 473 e Passivo 231
+Ativo 88 é rejeitado por Passivo 24
+Ativo 88 é rejeitado por Passivo 329
+Ativo 88 é rejeitado por Passivo 212
+Ativo 88 é rejeitado por Passivo 87
+Ativo 88 é rejeitado por Passivo 182
+Ativo 88 é rejeitado por Passivo 417
+Ativo 88 é rejeitado por Passivo 183
+Ativo 88 é rejeitado por Passivo 310
+Ativo 88 é rejeitado por Passivo 135
+Par desfeito entre Ativo 509 e Passivo 499
+Par formado entre Ativo 88 e Passivo 499
+Ativo 67 é rejeitado por Passivo 77
+Ativo 67 é rejeitado por Passivo 220
+Par formado entre Ativo 67 e Passivo 311
+Ativo 87 é rejeitado por Passivo 20
+Ativo 87 é rejeitado por Passivo 351
+Ativo 87 é rejeitado por Passivo 28
+Ativo 87 é rejeitado por Passivo 401
+Ativo 87 é rejeitado por Passivo 306
+Ativo 87 é rejeitado por Passivo 4
+Ativo 87 é rejeitado por Passivo 506
+Par formado entre Ativo 87 e Passivo 38
+Ativo 508 é rejeitado por Passivo 231
+Ativo 508 é rejeitado por Passivo 382
+Ativo 508 é rejeitado por Passivo 416
+Ativo 508 é rejeitado por Passivo 180
+Ativo 508 é rejeitado por Passivo 188
+Ativo 508 é rejeitado por Passivo 496
+Ativo 508 é rejeitado por Passivo 471
+Par desfeito entre Ativo 15 e Passivo 208
+Par formado entre Ativo 508 e Passivo 208
+Ativo 509 é rejeitado por Passivo 499
+Par desfeito entre Ativo 93 e Passivo 10
+Par formado entre Ativo 509 e Passivo 10
+Ativo 15 é rejeitado por Passivo 208
+Ativo 15 é rejeitado por Passivo 267
+Ativo 15 é rejeitado por Passivo 501
+Par desfeito entre Ativo 188 e Passivo 491
+Par formado entre Ativo 15 e Passivo 491
+Ativo 93 é rejeitado por Passivo 10
+Par desfeito entre Ativo 193 e Passivo 402
+Par formado entre Ativo 93 e Passivo 402
+Ativo 188 é rejeitado por Passivo 491
+Ativo 188 é rejeitado por Passivo 460
+Ativo 188 é rejeitado por Passivo 313
+Ativo 188 é rejeitado por Passivo 221
+Par desfeito entre Ativo 399 e Passivo 428
+Par formado entre Ativo 188 e Passivo 428
+Ativo 193 é rejeitado por Passivo 402
+Par desfeito entre Ativo 397 e Passivo 57
+Par formado entre Ativo 193 e Passivo 57
+Ativo 399 é rejeitado por Passivo 428
+Ativo 399 é rejeitado por Passivo 470
+Ativo 399 é rejeitado por Passivo 271
+Ativo 399 é rejeitado por Passivo 125
+Ativo 399 é rejeitado por Passivo 407
+Ativo 399 é rejeitado por Passivo 17
+Ativo 399 é rejeitado por Passivo 490
+Ativo 399 é rejeitado por Passivo 225
+Ativo 399 é rejeitado por Passivo 402
+Ativo 399 é rejeitado por Passivo 200
+Par desfeito entre Ativo 271 e Passivo 1
+Par formado entre Ativo 399 e Passivo 1
+Ativo 397 é rejeitado por Passivo 57
+Par desfeito entre Ativo 395 e Passivo 381
+Par formado entre Ativo 397 e Passivo 381
+Ativo 271 é rejeitado por Passivo 1
+Ativo 271 é rejeitado por Passivo 150
+Ativo 271 é rejeitado por Passivo 42
+Ativo 271 é rejeitado por Passivo 170
+Ativo 271 é rejeitado por Passivo 394
+Ativo 271 é rejeitado por Passivo 124
+Ativo 271 é rejeitado por Passivo 111
+Ativo 271 é rejeitado por Passivo 254
+Ativo 271 é rejeitado por Passivo 347
+Par desfeito entre Ativo 57 e Passivo 77
+Par formado entre Ativo 271 e Passivo 77
+Ativo 395 é rejeitado por Passivo 381
+Ativo 395 é rejeitado por Passivo 495
+Ativo 395 é rejeitado por Passivo 489
+Ativo 395 é rejeitado por Passivo 141
+Ativo 395 é rejeitado por Passivo 29
+Ativo 395 é rejeitado por Passivo 270
+Ativo 395 é rejeitado por Passivo 379
+Ativo 395 é rejeitado por Passivo 442
+Ativo 395 é rejeitado por Passivo 380
+Ativo 395 é rejeitado por Passivo 87
+Par desfeito entre Ativo 335 e Passivo 163
+Par formado entre Ativo 395 e Passivo 163
+Ativo 57 é rejeitado por Passivo 77
+Par desfeito entre Ativo 366 e Passivo 142
+Par formado entre Ativo 57 e Passivo 142
+Ativo 335 é rejeitado por Passivo 163
+Ativo 335 é rejeitado por Passivo 199
+Par desfeito entre Ativo 15 e Passivo 491
+Par formado entre Ativo 335 e Passivo 491
+Ativo 366 é rejeitado por Passivo 142
+Ativo 366 é rejeitado por Passivo 135
+Ativo 366 é rejeitado por Passivo 24
+Par desfeito entre Ativo 148 e Passivo 169
+Par formado entre Ativo 366 e Passivo 169
+Ativo 15 é rejeitado por Passivo 491
+Ativo 15 é rejeitado por Passivo 213
+Par desfeito entre Ativo 237 e Passivo 193
+Par formado entre Ativo 15 e Passivo 193
+Ativo 148 é rejeitado por Passivo 169
+Par desfeito entre Ativo 95 e Passivo 479
+Par formado entre Ativo 148 e Passivo 479
+Ativo 237 é rejeitado por Passivo 193
+Ativo 237 é rejeitado por Passivo 98
+Ativo 237 é rejeitado por Passivo 132
+Par desfeito entre Ativo 464 e Passivo 462
+Par formado entre Ativo 237 e Passivo 462
+Ativo 95 é rejeitado por Passivo 479
+Ativo 95 é rejeitado por Passivo 433
+Ativo 95 é rejeitado por Passivo 51
+Par desfeito entre Ativo 395 e Passivo 163
+Par formado entre Ativo 95 e Passivo 163
+Ativo 464 é rejeitado por Passivo 462
+Ativo 464 é rejeitado por Passivo 295
+Ativo 464 é rejeitado por Passivo 208
+Ativo 464 é rejeitado por Passivo 356
+Ativo 464 é rejeitado por Passivo 368
+Ativo 464 é rejeitado por Passivo 131
+Ativo 464 é rejeitado por Passivo 134
+Ativo 464 é rejeitado por Passivo 53
+Ativo 464 é rejeitado por Passivo 330
+Ativo 464 é rejeitado por Passivo 222
+Ativo 464 é rejeitado por Passivo 339
+Ativo 464 é rejeitado por Passivo 342
+Ativo 464 é rejeitado por Passivo 230
+Ativo 464 é rejeitado por Passivo 435
+Ativo 464 é rejeitado por Passivo 112
+Ativo 464 é rejeitado por Passivo 498
+Ativo 464 é rejeitado por Passivo 220
+Par formado entre Ativo 464 e Passivo 397
+Ativo 395 é rejeitado por Passivo 163
+Ativo 395 é rejeitado por Passivo 244
+Par desfeito entre Ativo 438 e Passivo 457
+Par formado entre Ativo 395 e Passivo 457
+Ativo 438 é rejeitado por Passivo 457
+Ativo 438 é rejeitado por Passivo 397
+Ativo 438 é rejeitado por Passivo 172
+Ativo 438 é rejeitado por Passivo 171
+Ativo 438 é rejeitado por Passivo 69
+Ativo 438 é rejeitado por Passivo 106
+Ativo 438 é rejeitado por Passivo 170
+Ativo 438 é rejeitado por Passivo 284
+Ativo 438 é rejeitado por Passivo 43
+Ativo 438 é rejeitado por Passivo 501
+Ativo 438 é rejeitado por Passivo 91
+Ativo 438 é rejeitado por Passivo 87
+Ativo 438 é rejeitado por Passivo 386
+Ativo 438 é rejeitado por Passivo 225
+Ativo 438 é rejeitado por Passivo 2
+Ativo 438 é rejeitado por Passivo 475
+Ativo 438 é rejeitado por Passivo 41
+Ativo 438 é rejeitado por Passivo 113
+Ativo 438 é rejeitado por Passivo 381
+Ativo 438 é rejeitado por Passivo 5
+Ativo 438 é rejeitado por Passivo 362
+Ativo 438 é rejeitado por Passivo 454
+Ativo 438 é rejeitado por Passivo 195
+Ativo 438 é rejeitado por Passivo 233
+Ativo 438 é rejeitado por Passivo 422
+Ativo 438 é rejeitado por Passivo 370
+Par desfeito entre Ativo 174 e Passivo 242
+Par formado entre Ativo 438 e Passivo 242
+Ativo 174 é rejeitado por Passivo 242
+Ativo 174 é rejeitado por Passivo 58
+Ativo 174 é rejeitado por Passivo 154
+Ativo 174 é rejeitado por Passivo 129
+Ativo 174 é rejeitado por Passivo 115
+Ativo 174 é rejeitado por Passivo 284
+Ativo 174 é rejeitado por Passivo 453
+Par desfeito entre Ativo 432 e Passivo 429
+Par formado entre Ativo 174 e Passivo 429
+Ativo 432 é rejeitado por Passivo 429
+Ativo 432 é rejeitado por Passivo 393
+Ativo 432 é rejeitado por Passivo 52
+Ativo 432 é rejeitado por Passivo 371
+Ativo 432 é rejeitado por Passivo 113
+Ativo 432 é rejeitado por Passivo 15
+Ativo 432 é rejeitado por Passivo 50
+Ativo 432 é rejeitado por Passivo 494
+Par desfeito entre Ativo 373 e Passivo 4
+Par formado entre Ativo 432 e Passivo 4
+Ativo 373 é rejeitado por Passivo 4
+Ativo 373 é rejeitado por Passivo 114
+Ativo 373 é rejeitado por Passivo 75
+Ativo 373 é rejeitado por Passivo 63
+Ativo 373 é rejeitado por Passivo 268
+Ativo 373 é rejeitado por Passivo 465
+Ativo 373 é rejeitado por Passivo 333
+Ativo 373 é rejeitado por Passivo 406
+Ativo 373 é rejeitado por Passivo 180
+Ativo 373 é rejeitado por Passivo 429
+Ativo 373 é rejeitado por Passivo 239
+Ativo 373 é rejeitado por Passivo 242
+Ativo 373 é rejeitado por Passivo 270
+Ativo 373 é rejeitado por Passivo 379
+Ativo 373 é rejeitado por Passivo 158
+Ativo 373 é rejeitado por Passivo 456
+Par desfeito entre Ativo 364 e Passivo 338
+Par formado entre Ativo 373 e Passivo 338
+Ativo 364 é rejeitado por Passivo 338
+Par desfeito entre Ativo 80 e Passivo 248
+Par formado entre Ativo 364 e Passivo 248
+Ativo 80 é rejeitado por Passivo 248
+Ativo 80 é rejeitado por Passivo 193
+Ativo 80 é rejeitado por Passivo 222
+Par desfeito entre Ativo 24 e Passivo 279
+Par formado entre Ativo 80 e Passivo 279
+Ativo 24 é rejeitado por Passivo 279
+Par desfeito entre Ativo 425 e Passivo 484
+Par formado entre Ativo 24 e Passivo 484
+Ativo 425 é rejeitado por Passivo 484
+Ativo 425 é rejeitado por Passivo 188
+Ativo 425 é rejeitado por Passivo 212
+Ativo 425 é rejeitado por Passivo 296
+Ativo 425 é rejeitado por Passivo 295
+Ativo 425 é rejeitado por Passivo 386
+Ativo 425 é rejeitado por Passivo 135
+Ativo 425 é rejeitado por Passivo 367
+Par desfeito entre Ativo 131 e Passivo 451
+Par formado entre Ativo 425 e Passivo 451
+Ativo 131 é rejeitado por Passivo 451
+Ativo 131 é rejeitado por Passivo 51
+Ativo 131 é rejeitado por Passivo 411
+Ativo 131 é rejeitado por Passivo 28
+Ativo 131 é rejeitado por Passivo 422
+Ativo 131 é rejeitado por Passivo 278
+Ativo 131 é rejeitado por Passivo 419
+Par desfeito entre Ativo 83 e Passivo 308
+Par formado entre Ativo 131 e Passivo 308
+Ativo 83 é rejeitado por Passivo 308
+Par desfeito entre Ativo 87 e Passivo 38
+Par formado entre Ativo 83 e Passivo 38
+Ativo 87 é rejeitado por Passivo 38
+Ativo 87 é rejeitado por Passivo 246
+Ativo 87 é rejeitado por Passivo 481
+Par desfeito entre Ativo 106 e Passivo 0
+Par formado entre Ativo 87 e Passivo 0
+Ativo 106 é rejeitado por Passivo 0
+Ativo 106 é rejeitado por Passivo 394
+Par desfeito entre Ativo 485 e Passivo 470
+Par formado entre Ativo 106 e Passivo 470
+Ativo 485 é rejeitado por Passivo 470
+Par desfeito entre Ativo 219 e Passivo 56
+Par formado entre Ativo 485 e Passivo 56
+Ativo 219 é rejeitado por Passivo 56
+Ativo 219 é rejeitado por Passivo 251
+Ativo 219 é rejeitado por Passivo 379
+Ativo 219 é rejeitado por Passivo 215
+Ativo 219 é rejeitado por Passivo 321
+Par desfeito entre Ativo 280 e Passivo 187
+Par formado entre Ativo 219 e Passivo 187
+Ativo 280 é rejeitado por Passivo 187
+Par desfeito entre Ativo 65 e Passivo 415
+Par formado entre Ativo 280 e Passivo 415
+Ativo 65 é rejeitado por Passivo 415
+Ativo 65 é rejeitado por Passivo 135
+Ativo 65 é rejeitado por Passivo 30
+Ativo 65 é rejeitado por Passivo 139
+Par desfeito entre Ativo 455 e Passivo 45
+Par formado entre Ativo 65 e Passivo 45
+Ativo 455 é rejeitado por Passivo 45
+Par desfeito entre Ativo 109 e Passivo 391
+Par formado entre Ativo 455 e Passivo 391
+Ativo 109 é rejeitado por Passivo 391
+Ativo 109 é rejeitado por Passivo 508
+Par desfeito entre Ativo 460 e Passivo 427
+Par formado entre Ativo 109 e Passivo 427
+Ativo 460 é rejeitado por Passivo 427
+Ativo 460 é rejeitado por Passivo 410
+Ativo 460 é rejeitado por Passivo 166
+Ativo 460 é rejeitado por Passivo 357
+Ativo 460 é rejeitado por Passivo 492
+Ativo 460 é rejeitado por Passivo 251
+Ativo 460 é rejeitado por Passivo 154
+Ativo 460 é rejeitado por Passivo 82
+Ativo 460 é rejeitado por Passivo 346
+Par desfeito entre Ativo 29 e Passivo 489
+Par formado entre Ativo 460 e Passivo 489
+Ativo 29 é rejeitado por Passivo 489
+Ativo 29 é rejeitado por Passivo 125
+Ativo 29 é rejeitado por Passivo 334
+Ativo 29 é rejeitado por Passivo 432
+Par desfeito entre Ativo 462 e Passivo 143
+Par formado entre Ativo 29 e Passivo 143
+Ativo 462 é rejeitado por Passivo 143
+Ativo 462 é rejeitado por Passivo 471
+Ativo 462 é rejeitado por Passivo 273
+Ativo 462 é rejeitado por Passivo 29
+Ativo 462 é rejeitado por Passivo 113
+Ativo 462 é rejeitado por Passivo 250
+Ativo 462 é rejeitado por Passivo 505
+Ativo 462 é rejeitado por Passivo 307
+Ativo 462 é rejeitado por Passivo 265
+Ativo 462 é rejeitado por Passivo 70
+Par desfeito entre Ativo 88 e Passivo 499
+Par formado entre Ativo 462 e Passivo 499
+Ativo 88 é rejeitado por Passivo 499
+Ativo 88 é rejeitado por Passivo 103
+Ativo 88 é rejeitado por Passivo 462
+Ativo 88 é rejeitado por Passivo 412
+Ativo 88 é rejeitado por Passivo 124
+Ativo 88 é rejeitado por Passivo 452
+Par desfeito entre Ativo 169 e Passivo 277
+Par formado entre Ativo 88 e Passivo 277
+Ativo 169 é rejeitado por Passivo 277
+Ativo 169 é rejeitado por Passivo 220
+Ativo 169 é rejeitado por Passivo 126
+Ativo 169 é rejeitado por Passivo 444
+Ativo 169 é rejeitado por Passivo 43
+Ativo 169 é rejeitado por Passivo 429
+Par desfeito entre Ativo 457 e Passivo 6
+Par formado entre Ativo 169 e Passivo 6
+Ativo 457 é rejeitado por Passivo 6
+Par desfeito entre Ativo 361 e Passivo 218
+Par formado entre Ativo 457 e Passivo 218
+Ativo 361 é rejeitado por Passivo 218
+Ativo 361 é rejeitado por Passivo 213
+Par desfeito entre Ativo 436 e Passivo 297
+Par formado entre Ativo 361 e Passivo 297
+Ativo 436 é rejeitado por Passivo 297
+Par desfeito entre Ativo 108 e Passivo 347
+Par formado entre Ativo 436 e Passivo 347
+Ativo 108 é rejeitado por Passivo 347
+Ativo 108 é rejeitado por Passivo 224
+Ativo 108 é rejeitado por Passivo 142
+Ativo 108 é rejeitado por Passivo 213
+Ativo 108 é rejeitado por Passivo 465
+Ativo 108 é rejeitado por Passivo 357
+Ativo 108 é rejeitado por Passivo 223
+Ativo 108 é rejeitado por Passivo 217
+Ativo 108 é rejeitado por Passivo 392
+Ativo 108 é rejeitado por Passivo 178
+Ativo 108 é rejeitado por Passivo 360
+Ativo 108 é rejeitado por Passivo 20
+Ativo 108 é rejeitado por Passivo 214
+Ativo 108 é rejeitado por Passivo 469
+Par desfeito entre Ativo 340 e Passivo 403
+Par formado entre Ativo 108 e Passivo 403
+Ativo 340 é rejeitado por Passivo 403
+Ativo 340 é rejeitado por Passivo 369
+Ativo 340 é rejeitado por Passivo 237
+Ativo 340 é rejeitado por Passivo 186
+Ativo 340 é rejeitado por Passivo 94
+Ativo 340 é rejeitado por Passivo 462
+Ativo 340 é rejeitado por Passivo 203
+Ativo 340 é rejeitado por Passivo 108
+Ativo 340 é rejeitado por Passivo 222
+Ativo 340 é rejeitado por Passivo 142
+Ativo 340 é rejeitado por Passivo 41
+Ativo 340 é rejeitado por Passivo 371
+Ativo 340 é rejeitado por Passivo 150
+Ativo 340 é rejeitado por Passivo 43
+Ativo 340 é rejeitado por Passivo 508
+Ativo 340 é rejeitado por Passivo 439
+Ativo 340 é rejeitado por Passivo 15
+Ativo 340 é rejeitado por Passivo 373
+Ativo 340 é rejeitado por Passivo 105
+Ativo 340 é rejeitado por Passivo 173
+Par desfeito entre Ativo 199 e Passivo 62
+Par formado entre Ativo 340 e Passivo 62
+Ativo 199 é rejeitado por Passivo 62
+Ativo 199 é rejeitado por Passivo 444
+Ativo 199 é rejeitado por Passivo 412
+Par desfeito entre Ativo 474 e Passivo 33
+Par formado entre Ativo 199 e Passivo 33
+Ativo 474 é rejeitado por Passivo 33
+Ativo 474 é rejeitado por Passivo 18
+Ativo 474 é rejeitado por Passivo 187
+Par desfeito entre Ativo 0 e Passivo 250
+Par formado entre Ativo 474 e Passivo 250
+Ativo 0 é rejeitado por Passivo 250
+Ativo 0 é rejeitado por Passivo 330
+Ativo 0 é rejeitado por Passivo 233
+Ativo 0 é rejeitado por Passivo 227
+Ativo 0 é rejeitado por Passivo 487
+Ativo 0 é rejeitado por Passivo 343
+Ativo 0 é rejeitado por Passivo 189
+Ativo 0 é rejeitado por Passivo 401
+Ativo 0 é rejeitado por Passivo 431
+Ativo 0 é rejeitado por Passivo 43
+Ativo 0 é rejeitado por Passivo 332
+Ativo 0 é rejeitado por Passivo 188
+Ativo 0 é rejeitado por Passivo 183
+Ativo 0 é rejeitado por Passivo 155
+Ativo 0 é rejeitado por Passivo 167
+Ativo 0 é rejeitado por Passivo 48
+Ativo 0 é rejeitado por Passivo 225
+Ativo 0 é rejeitado por Passivo 213
+Par desfeito entre Ativo 166 e Passivo 74
+Par formado entre Ativo 0 e Passivo 74
+Ativo 166 é rejeitado por Passivo 74
+Ativo 166 é rejeitado por Passivo 200
+Ativo 166 é rejeitado por Passivo 364
+Par desfeito entre Ativo 472 e Passivo 488
+Par formado entre Ativo 166 e Passivo 488
+Ativo 472 é rejeitado por Passivo 488
+Ativo 472 é rejeitado por Passivo 504
+Ativo 472 é rejeitado por Passivo 163
+Ativo 472 é rejeitado por Passivo 311
+Ativo 472 é rejeitado por Passivo 197
+Ativo 472 é rejeitado por Passivo 276
+Ativo 472 é rejeitado por Passivo 408
+Par desfeito entre Ativo 429 e Passivo 124
+Par formado entre Ativo 472 e Passivo 124
+Ativo 429 é rejeitado por Passivo 124
+Ativo 429 é rejeitado por Passivo 350
+Ativo 429 é rejeitado por Passivo 437
+Ativo 429 é rejeitado por Passivo 94
+Ativo 429 é rejeitado por Passivo 156
+Par desfeito entre Ativo 414 e Passivo 137
+Par formado entre Ativo 429 e Passivo 137
+Ativo 414 é rejeitado por Passivo 137
+Ativo 414 é rejeitado por Passivo 453
+Ativo 414 é rejeitado por Passivo 61
+Ativo 414 é rejeitado por Passivo 350
+Ativo 414 é rejeitado por Passivo 53
+Ativo 414 é rejeitado por Passivo 296
+Par desfeito entre Ativo 425 e Passivo 451
+Par formado entre Ativo 414 e Passivo 451
+Ativo 425 é rejeitado por Passivo 451
+Ativo 425 é rejeitado por Passivo 475
+Ativo 425 é rejeitado por Passivo 169
+Ativo 425 é rejeitado por Passivo 464
+Par desfeito entre Ativo 238 e Passivo 20
+Par formado entre Ativo 425 e Passivo 20
+Ativo 238 é rejeitado por Passivo 20
+Ativo 238 é rejeitado por Passivo 131
+Ativo 238 é rejeitado por Passivo 206
+Ativo 238 é rejeitado por Passivo 342
+Par desfeito entre Ativo 161 e Passivo 263
+Par formado entre Ativo 238 e Passivo 263
+Ativo 161 é rejeitado por Passivo 263
+Ativo 161 é rejeitado por Passivo 144
+Par desfeito entre Ativo 314 e Passivo 383
+Par formado entre Ativo 161 e Passivo 383
+Ativo 314 é rejeitado por Passivo 383
+Par desfeito entre Ativo 34 e Passivo 327
+Par formado entre Ativo 314 e Passivo 327
+Ativo 34 é rejeitado por Passivo 327
+Ativo 34 é rejeitado por Passivo 205
+Ativo 34 é rejeitado por Passivo 252
+Par desfeito entre Ativo 146 e Passivo 385
+Par formado entre Ativo 34 e Passivo 385
+Ativo 146 é rejeitado por Passivo 385
+Ativo 146 é rejeitado por Passivo 435
+Ativo 146 é rejeitado por Passivo 338
+Ativo 146 é rejeitado por Passivo 356
+Ativo 146 é rejeitado por Passivo 346
+Par desfeito entre Ativo 481 e Passivo 467
+Par formado entre Ativo 146 e Passivo 467
+Ativo 481 é rejeitado por Passivo 467
+Ativo 481 é rejeitado por Passivo 100
+Ativo 481 é rejeitado por Passivo 92
+Ativo 481 é rejeitado por Passivo 173
+Ativo 481 é rejeitado por Passivo 226
+Ativo 481 é rejeitado por Passivo 59
+Ativo 481 é rejeitado por Passivo 411
+Ativo 481 é rejeitado por Passivo 190
+Ativo 481 é rejeitado por Passivo 425
+Par desfeito entre Ativo 290 e Passivo 497
+Par formado entre Ativo 481 e Passivo 497
+Ativo 290 é rejeitado por Passivo 497
+Ativo 290 é rejeitado por Passivo 429
+Par desfeito entre Ativo 165 e Passivo 430
+Par formado entre Ativo 290 e Passivo 430
+Ativo 165 é rejeitado por Passivo 430
+Par desfeito entre Ativo 198 e Passivo 11
+Par formado entre Ativo 165 e Passivo 11
+Ativo 198 é rejeitado por Passivo 11
+Ativo 198 é rejeitado por Passivo 341
+Ativo 198 é rejeitado por Passivo 470
+Ativo 198 é rejeitado por Passivo 382
+Ativo 198 é rejeitado por Passivo 270
+Ativo 198 é rejeitado por Passivo 8
+Ativo 198 é rejeitado por Passivo 44
+Par desfeito entre Ativo 86 e Passivo 246
+Par formado entre Ativo 198 e Passivo 246
+Ativo 86 é rejeitado por Passivo 246
+Ativo 86 é rejeitado por Passivo 390
+Ativo 86 é rejeitado por Passivo 494
+Ativo 86 é rejeitado por Passivo 476
+Ativo 86 é rejeitado por Passivo 336
+Ativo 86 é rejeitado por Passivo 130
+Ativo 86 é rejeitado por Passivo 173
+Ativo 86 é rejeitado por Passivo 73
+Ativo 86 é rejeitado por Passivo 137
+Ativo 86 é rejeitado por Passivo 213
+Ativo 86 é rejeitado por Passivo 171
+Par desfeito entre Ativo 366 e Passivo 169
+Par formado entre Ativo 86 e Passivo 169
+Ativo 366 é rejeitado por Passivo 169
+Ativo 366 é rejeitado por Passivo 84
+Ativo 366 é rejeitado por Passivo 101
+Ativo 366 é rejeitado por Passivo 442
+Ativo 366 é rejeitado por Passivo 141
+Ativo 366 é rejeitado por Passivo 106
+Ativo 366 é rejeitado por Passivo 58
+Ativo 366 é rejeitado por Passivo 464
+Ativo 366 é rejeitado por Passivo 407
+Ativo 366 é rejeitado por Passivo 508
+Par desfeito entre Ativo 76 e Passivo 465
+Par formado entre Ativo 366 e Passivo 465
+Ativo 76 é rejeitado por Passivo 465
+Ativo 76 é rejeitado por Passivo 87
+Ativo 76 é rejeitado por Passivo 267
+Ativo 76 é rejeitado por Passivo 329
+Ativo 76 é rejeitado por Passivo 315
+Ativo 76 é rejeitado por Passivo 297
+Ativo 76 é rejeitado por Passivo 403
+Ativo 76 é rejeitado por Passivo 435
+Ativo 76 é rejeitado por Passivo 301
+Par desfeito entre Ativo 199 e Passivo 33
+Par formado entre Ativo 76 e Passivo 33
+Ativo 199 é rejeitado por Passivo 33
+Par desfeito entre Ativo 298 e Passivo 370
+Par formado entre Ativo 199 e Passivo 370
+Ativo 298 é rejeitado por Passivo 370
+Ativo 298 é rejeitado por Passivo 105
+Ativo 298 é rejeitado por Passivo 24
+Ativo 298 é rejeitado por Passivo 447
+Par desfeito entre Ativo 104 e Passivo 315
+Par formado entre Ativo 298 e Passivo 315
+Ativo 104 é rejeitado por Passivo 315
+Ativo 104 é rejeitado por Passivo 46
+Ativo 104 é rejeitado por Passivo 152
+Ativo 104 é rejeitado por Passivo 473
+Ativo 104 é rejeitado por Passivo 80
+Ativo 104 é rejeitado por Passivo 294
+Ativo 104 é rejeitado por Passivo 53
+Ativo 104 é rejeitado por Passivo 411
+Ativo 104 é rejeitado por Passivo 383
+Ativo 104 é rejeitado por Passivo 309
+Ativo 104 é rejeitado por Passivo 451
+Ativo 104 é rejeitado por Passivo 158
+Ativo 104 é rejeitado por Passivo 190
+Ativo 104 é rejeitado por Passivo 239
+Ativo 104 é rejeitado por Passivo 376
+Par desfeito entre Ativo 237 e Passivo 462
+Par formado entre Ativo 104 e Passivo 462
+Ativo 237 é rejeitado por Passivo 462
+Ativo 237 é rejeitado por Passivo 329
+Ativo 237 é rejeitado por Passivo 463
+Par desfeito entre Ativo 36 e Passivo 37
+Par formado entre Ativo 237 e Passivo 37
+Ativo 36 é rejeitado por Passivo 37
+Ativo 36 é rejeitado por Passivo 503
+Ativo 36 é rejeitado por Passivo 369
+Ativo 36 é rejeitado por Passivo 118
+Ativo 36 é rejeitado por Passivo 52
+Par desfeito entre Ativo 11 e Passivo 439
+Par formado entre Ativo 36 e Passivo 439
+Ativo 11 é rejeitado por Passivo 439
+Ativo 11 é rejeitado por Passivo 356
+Ativo 11 é rejeitado por Passivo 458
+Ativo 11 é rejeitado por Passivo 335
+Ativo 11 é rejeitado por Passivo 403
+Ativo 11 é rejeitado por Passivo 117
+Ativo 11 é rejeitado por Passivo 37
+Ativo 11 é rejeitado por Passivo 310
+Ativo 11 é rejeitado por Passivo 248
+Ativo 11 é rejeitado por Passivo 109
+Ativo 11 é rejeitado por Passivo 453
+Ativo 11 é rejeitado por Passivo 119
+Ativo 11 é rejeitado por Passivo 103
+Ativo 11 é rejeitado por Passivo 149
+Ativo 11 é rejeitado por Passivo 233
+Ativo 11 é rejeitado por Passivo 350
+Par desfeito entre Ativo 358 e Passivo 96
+Par formado entre Ativo 11 e Passivo 96
+Ativo 358 é rejeitado por Passivo 96
+Ativo 358 é rejeitado por Passivo 24
+Ativo 358 é rejeitado por Passivo 358
+Par desfeito entre Ativo 501 e Passivo 227
+Par formado entre Ativo 358 e Passivo 227
+Ativo 501 é rejeitado por Passivo 227
+Par desfeito entre Ativo 360 e Passivo 459
+Par formado entre Ativo 501 e Passivo 459
+Ativo 360 é rejeitado por Passivo 459
+Par desfeito entre Ativo 217 e Passivo 478
+Par formado entre Ativo 360 e Passivo 478
+Ativo 217 é rejeitado por Passivo 478
+Ativo 217 é rejeitado por Passivo 72
+Ativo 217 é rejeitado por Passivo 402
+Ativo 217 é rejeitado por Passivo 298
+Ativo 217 é rejeitado por Passivo 323
+Par desfeito entre Ativo 191 e Passivo 295
+Par formado entre Ativo 217 e Passivo 295
+Ativo 191 é rejeitado por Passivo 295
+Ativo 191 é rejeitado por Passivo 148
+Ativo 191 é rejeitado por Passivo 454
+Par formado entre Ativo 191 e Passivo 359
+0 87
+1 399
+2 470
+3 3
+4 432
+5 304
+6 169
+7 315
+8 4
+9 248
+10 509
+11 165
+12 465
+13 252
+14 72
+15 196
+16 490
+17 182
+18 410
+19 341
+20 425
+21 201
+22 347
+23 452
+24 494
+25 63
+26 420
+27 331
+28 249
+29 270
+30 308
+31 69
+32 204
+33 76
+34 400
+35 164
+36 439
+37 237
+38 83
+39 263
+40 127
+41 427
+42 114
+43 163
+44 133
+45 65
+46 489
+47 118
+48 350
+49 97
+50 155
+51 173
+52 122
+53 510
+54 467
+55 27
+56 485
+57 193
+58 362
+59 265
+60 377
+61 333
+62 340
+63 234
+64 233
+65 349
+66 1
+67 320
+68 351
+69 459
+70 376
+71 124
+72 185
+73 156
+74 0
+75 404
+76 210
+77 271
+78 381
+79 221
+80 471
+81 405
+82 413
+83 206
+84 328
+85 10
+86 325
+87 119
+88 181
+89 183
+90 197
+91 343
+92 409
+93 170
+94 77
+95 468
+96 11
+97 451
+98 126
+99 227
+100 195
+101 446
+102 476
+103 278
+104 407
+105 16
+106 208
+107 322
+108 447
+109 99
+110 144
+111 81
+112 406
+113 138
+114 449
+115 9
+116 178
+117 478
+118 480
+119 180
+120 393
+121 186
+122 160
+123 189
+124 472
+125 73
+126 184
+127 129
+128 235
+129 40
+130 23
+131 207
+132 43
+133 487
+134 266
+135 295
+136 240
+137 429
+138 388
+139 78
+140 226
+141 423
+142 57
+143 29
+144 143
+145 498
+146 241
+147 276
+148 499
+149 380
+150 431
+151 145
+152 456
+153 283
+154 216
+155 187
+156 255
+157 330
+158 268
+159 396
+160 288
+161 107
+162 504
+163 95
+164 53
+165 346
+166 137
+167 300
+168 218
+169 86
+170 492
+171 483
+172 267
+173 339
+174 302
+175 150
+176 291
+177 21
+178 110
+179 229
+180 54
+181 261
+182 41
+183 435
+184 368
+185 371
+186 463
+187 219
+188 32
+189 411
+190 45
+191 318
+192 101
+193 15
+194 157
+195 348
+196 495
+197 309
+198 369
+199 236
+200 279
+201 502
+202 316
+203 277
+204 282
+205 55
+206 75
+207 259
+208 508
+209 224
+210 317
+211 85
+212 44
+213 242
+214 94
+215 421
+216 120
+217 168
+218 457
+219 61
+220 37
+221 211
+222 389
+223 453
+224 433
+225 357
+226 243
+227 358
+228 158
+229 310
+230 121
+231 473
+232 244
+233 171
+234 149
+235 442
+236 293
+237 42
+238 326
+239 356
+240 12
+241 434
+242 438
+243 505
+244 307
+245 338
+246 198
+247 390
+248 364
+249 334
+250 474
+251 479
+252 299
+253 296
+254 342
+255 253
+256 506
+257 60
+258 289
+259 251
+260 70
+261 256
+262 66
+263 238
+264 200
+265 62
+266 430
+267 117
+268 89
+269 151
+270 324
+271 209
+272 212
+273 179
+274 323
+275 497
+276 372
+277 88
+278 230
+279 80
+280 281
+281 426
+282 33
+283 466
+284 336
+285 402
+286 71
+287 220
+288 162
+289 496
+290 401
+291 486
+292 461
+293 132
+294 428
+295 217
+296 469
+297 361
+298 374
+299 344
+300 337
+301 257
+302 147
+303 47
+304 7
+305 359
+306 250
+307 31
+308 131
+309 223
+310 247
+311 67
+312 448
+313 113
+314 175
+315 298
+316 59
+317 142
+318 84
+319 192
+320 79
+321 398
+322 354
+323 418
+324 116
+325 100
+326 422
+327 314
+328 500
+329 39
+330 105
+331 391
+332 367
+333 454
+334 416
+335 408
+336 82
+337 30
+338 373
+339 444
+340 264
+341 136
+342 215
+343 177
+344 493
+345 491
+346 412
+347 436
+348 382
+349 258
+350 103
+351 365
+352 8
+353 222
+354 140
+355 403
+356 458
+357 385
+358 437
+359 191
+360 329
+361 135
+362 319
+363 102
+364 440
+365 228
+366 58
+367 303
+368 262
+369 139
+370 199
+371 503
+372 152
+373 327
+374 159
+375 424
+376 176
+377 313
+378 28
+379 272
+380 115
+381 397
+382 167
+383 161
+384 384
+385 34
+386 205
+387 38
+388 355
+389 273
+390 225
+391 455
+392 22
+393 18
+394 96
+395 74
+396 260
+397 464
+398 301
+399 392
+400 321
+401 286
+402 93
+403 108
+404 25
+405 246
+406 239
+407 507
+408 17
+409 232
+410 353
+411 231
+412 245
+413 202
+414 345
+415 280
+416 2
+417 275
+418 203
+419 48
+420 379
+421 311
+422 363
+423 125
+424 443
+425 112
+426 46
+427 109
+428 188
+429 174
+430 290
+431 19
+432 50
+433 14
+434 312
+435 477
+436 49
+437 370
+438 383
+439 36
+440 213
+441 415
+442 482
+443 91
+444 292
+445 5
+446 141
+447 284
+448 417
+449 352
+450 26
+451 414
+452 172
+453 332
+454 419
+455 441
+456 445
+457 395
+458 111
+459 501
+460 52
+461 20
+462 104
+463 214
+464 194
+465 366
+466 134
+467 146
+468 475
+469 153
+470 106
+471 484
+472 287
+473 123
+474 254
+475 297
+476 294
+477 488
+478 360
+479 148
+480 450
+481 190
+482 269
+483 92
+484 24
+485 56
+486 13
+487 64
+488 166
+489 460
+490 305
+491 335
+492 285
+493 394
+494 68
+495 90
+496 128
+497 481
+498 130
+499 462
+500 375
+501 386
+502 274
+503 378
+504 35
+505 154
+506 98
+507 387
+508 6
+509 51
+510 306
+Tempo de execução: 257.056ms
